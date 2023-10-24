@@ -9,7 +9,6 @@ import RecipeHeader from '../../components/recipe-header'
 import RecipeTitle from '../../components/recipe-title'
 import type PostType from '../../interfaces/post'
 import { getAllPosts, getPostBySlug } from '../../lib/api'
-import { CMS_NAME } from '../../lib/constants'
 import markdownToHtml from '../../lib/markdownToHtml'
 
 type Props = {
@@ -20,7 +19,7 @@ type Props = {
 
 export default function Post({ post, morePosts, preview }: Props) {
   const router = useRouter()
-  const title = `${post.title} | Next.js Blog Example with ${CMS_NAME}`
+  const title = `${post.title}`
   if (!router.isFallback && !post?.slug) {
     return <ErrorPage statusCode={404} />
   }
@@ -36,6 +35,7 @@ export default function Post({ post, morePosts, preview }: Props) {
               <Head>
                 <title>{title}</title>
                 <meta property="og:image" content={post.ogImage.url} />
+
               </Head>
               <RecipeHeader
                 title={post.title}
@@ -43,6 +43,9 @@ export default function Post({ post, morePosts, preview }: Props) {
                 date={post.date}
               />
               <RecipeBody content={post.content} />
+              <div>
+                {post.ingredients}
+              </div>
             </article>
           </>
         )}

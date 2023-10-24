@@ -10,6 +10,7 @@ type PostType = {
     url: string
   }
   content: string
+  ingredients: string[]
 }
 
 export default PostType

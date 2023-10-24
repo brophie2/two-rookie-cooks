@@ -1,4 +1,9 @@
 /** @type {import('tailwindcss').Config} */
+const defaultTheme = require('tailwindcss/resolveConfig')(
+  require('tailwindcss/defaultConfig'),
+).theme;
+
+
 module.exports = {
   content: ['./components/**/*.tsx', './pages/**/*.tsx'],
   theme: {
@@ -28,6 +33,9 @@ module.exports = {
       boxShadow: {
         sm: '0 5px 10px rgba(0, 0, 0, 0.12)',
         md: '0 8px 30px rgba(0, 0, 0, 0.12)',
+      },
+      fontFamily: {
+        mono: ['var(--font-noto-sans-mono)', ...defaultTheme.fontFamily.sans],
       },
     },
   },
