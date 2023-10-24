@@ -4,7 +4,7 @@ excerpt: 'This is perfect to meal prep. Keeping it in the fridge for a couple of
 coverImage: '/assets/recipe/ramen-eggs/cover.jpg'
 date: '2023-08-30T05:35:07.322Z'
 ogImage:
-  url: '/assets/recipe/ramen-eggs/cover.jpg'
+  url: '/assets/recipe/ramen-eggs/feature.jpg'
 ingredients: [
   'fish'
 ]

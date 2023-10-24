@@ -1,32 +1,28 @@
-import Container from '../components/container'
-import MoreStories from '../components/more-stories'
-import HeroPost from '../components/hero-recipe'
-import Intro from '../components/intro'
-import Layout from '../components/layout'
-import { getAllPosts } from '../lib/api'
-import Head from 'next/head'
-import { CMS_NAME } from '../lib/constants'
-import Post from '../interfaces/post'
+import Container from "../components/container";
+import MoreStories from "../components/more-stories";
+import HeroPost from "../components/hero-recipe";
+import Layout from "../components/layout";
+import { getAllPosts } from "../lib/api";
+import Head from "next/head";
+import Post from "../interfaces/post";
+import Header from "@/components/header";
 
 type Props = {
-  allPosts: Post[]
-}
+  allPosts: Post[];
+};
 
 export default function Index({ allPosts }: Props) {
-  const heroPost = allPosts[0]
-  const morePosts = allPosts.slice(1)
+  const heroPost = allPosts.find(post => post.title == "Ramen Eggs");
+  const morePosts = allPosts.filter((post) => post.title != "Ramen Eggs");
   return (
     <>
       <Layout>
-        <Head>
-          <title>{`Two rookie cooks`}</title>
-        </Head>
         <Container>
-          <Intro />
+          <Header />
           {heroPost && (
             <HeroPost
               title={heroPost.title}
-              coverImage={heroPost.coverImage}
+              coverImage={"/assets/recipe/ramen-eggs/feature.jpg"}
               date={heroPost.date}
               slug={heroPost.slug}
               excerpt={heroPost.excerpt}
@@ -36,19 +32,19 @@ export default function Index({ allPosts }: Props) {
         </Container>
       </Layout>
     </>
-  )
+  );
 }
 
 export const getStaticProps = async () => {
   const allPosts = getAllPosts([
-    'title',
-    'date',
-    'slug',
-    'coverImage',
-    'excerpt',
-  ])
+    "title",
+    "date",
+    "slug",
+    "coverImage",
+    "excerpt",
+  ]);
 
   return {
     props: { allPosts },
-  }
-}
+  };
+};
