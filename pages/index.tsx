@@ -16,7 +16,9 @@ export default function Index({ allPosts }: Props) {
   const morePosts = allPosts.filter((post) => post.title != "Ramen Eggs");
   return (
     <>
-      <Script src={`https://www.googletagmanager.com/gtag/js?id=${process.env.GTAG}`} />
+      <Script
+        src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GTAG}`}
+      />
       <Script id="google-analytics">
         {`
           window.dataLayer = window.dataLayer || [];
