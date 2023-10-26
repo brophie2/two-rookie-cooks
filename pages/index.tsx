@@ -24,7 +24,6 @@ export default function Index({ allPosts }: Props) {
           gtag('js', new Date());
  
           gtag('config', 'GA_MEASUREMENT_ID');
-          console.log(process.env.GTAG);
         `}
       </Script>
 
