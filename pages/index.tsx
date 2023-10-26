@@ -3,9 +3,9 @@ import MoreStories from "../components/more-stories";
 import HeroPost from "../components/hero-recipe";
 import Layout from "../components/layout";
 import { getAllPosts } from "../lib/api";
-import Head from "next/head";
 import Post from "../interfaces/post";
 import Header from "@/components/header";
+import Script from "next/script";
 
 type Props = {
   allPosts: Post[];
@@ -16,6 +16,18 @@ export default function Index({ allPosts }: Props) {
   const morePosts = allPosts.filter((post) => post.title != "Ramen Eggs");
   return (
     <>
+      <Script src={`https://www.googletagmanager.com/gtag/js?id=${process.env.GTAG}`} />
+      <Script id="google-analytics">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+ 
+          gtag('config', 'GA_MEASUREMENT_ID');
+          console.log(process.env.GTAG);
+        `}
+      </Script>
+
       <Layout>
         <Container>
           <Header />
