@@ -33,7 +33,7 @@ export default function Post({ post, morePosts, preview }: Props) {
           <>
             <article className="mb-32">
               <Head>
-                <title>{title}</title>
+                <title>{process.env.TEST}</title>
                 <meta property="og:image" content={post.ogImage.url} />
 
               </Head>
