@@ -76,7 +76,11 @@ jobs:
       - name: Build with Next.js
         env:
           NEXT_PUBLIC_GTAG: ${{ secrets.GTAG }}
-        run: ${{ steps.detect-package-manager.outputs.runner }} next build
+        run: |
+          ${{ steps.detect-package-manager.outputs.runner }} 
+          touch .env.local
+          echo NEXT_PUBLIC_GTAG=${{ secrets.GTAG }} >> .env.local
+          next build
       - name: Static HTML export with Next.js
         run: ${{ steps.detect-package-manager.outputs.runner }} next export
       - name: Upload artifact
