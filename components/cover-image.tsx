@@ -16,6 +16,9 @@ const CoverImage = ({ title, src, slug }: Props) => {
       className={cn("shadow-sm w-full", {
         "hover:shadow-lg transition-shadow duration-200": slug,
       })}
+      // placeholder="blur"
+      // blurDataURL={src}
+      priority={true}
       width={1300}
       height={630}
     />

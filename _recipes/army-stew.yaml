@@ -5,29 +5,54 @@ date: 2023-10-15T05:35:07.322Z
 ogImage: /assets/recipe/army-stew/cover.jpg
 ingredients:
   - name: silken tofu
-    amount: 300g
-  - name: spam and/or hot dog sausages 
-    amount: 150g
+    quantity:
+      amount: 300
+      unit: g
+  - name: spam
+    quantity:
+      amount: 150
+      unit: g
+    notes: and/or hot dog sausages 
   - name: korean fish cakes
-    amount: 40-50g
+    quantity:
+      amount: 40-50
+      unit: g
   - name: gochujang
-    amount: 1-2 tbsp
+    quantity:
+      amount: 1-2
+      unit: tbsp
   - name: soy sauce
-    amount: 1 tbsp
+    quantity:
+      amount: 1
+      unit: tbsp
   - name: cup mushrooms
-    amount: 100g
+    quantity:
+      amount: 100
+      unit: g
   - name: enoki mushrooms
-    amount: 100g
+    quantity:
+      amount: 300
+      unit: g
   - name: kimchi
-    amount: 2 tbsp
-  - name: of stock (we used beef stock but you can use chicken or vegetable stock)
-    amount: 3 cups
+    quantity:
+      amount: 2
+      unit: tbsp
+  - name: stock
+    quantity:
+      amount: 3
+      unit: cups
+    notes: (we used beef stock but you can use chicken or vegetable stock)
   - name: spring onion
-    amount: 1
-  - name: packet of Shin Ramen
-    amount: 1
-  - name: tteokboki, or to your liking
-    amount: 12 -16
+    quantity:
+      amount: 1
+  - name: Shin Ramen
+    quantity:
+      amount: 1
+      unit: packet
+  - name: tteokboki
+    quantity:
+      amount: 12-16
+    notes: or to your liking
 methods:
   - Slice the tofu and spam into large squares, ensuring that the tofu is not too thin so it doesn't crumble. Cut the fish cakes into triangles or other bite-sized pieces
   - Cut the cup mushrooms into quarters and tear the enoki mushrooms into smaller chunks

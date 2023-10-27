@@ -1,4 +1,4 @@
-import { Ingredient } from "@/interfaces/recipes";
+import { Ingredient, Quantity } from "@/interfaces/recipes";
 
 type Props = {
   content: string;
@@ -15,11 +15,7 @@ const RecipeBody = ({ content, excerpt, methods, ingredients }: Props) => {
       <h3>Ingredients</h3>
       <ul>
         {ingredients.map((ingredient, i) => (
-          <li key={i}>
-            {ingredient.amount
-              ? `${ingredient.amount} ${ingredient.name}`
-              : ingredient.name}
-          </li>
+          <li key={i}>{getIngredientText(ingredient)}</li>
         ))}
       </ul>
 
@@ -32,6 +28,29 @@ const RecipeBody = ({ content, excerpt, methods, ingredients }: Props) => {
     </div>
   );
 };
+
+const getIngredientText = (ingredient: Ingredient): string => {
+  if (ingredient.overrideText) return ingredient.overrideText;
+
+  let quantityText = ingredient.quantity && getQuantityText(ingredient.quantity)
+  let ingredientText = [
+    quantityText,
+    ingredient.name,
+    ingredient.notes,
+  ].filter(a => a);
+  
+  return ingredientText.join(" ")
+};
+
+const getQuantityText = (quantity: Quantity): string => {
+    let quantityText = quantity.amount;
+    if (quantity.unit) {
+      ["g", "L"].indexOf(quantity.unit) == -1 && (quantityText += " ");
+      quantityText += quantity.unit
+    }
+
+    return quantityText;
+}
 
 const Paragraphs = ({ paragraphs }: { paragraphs: string }) => (
   <>

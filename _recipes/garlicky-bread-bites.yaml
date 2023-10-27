@@ -5,15 +5,25 @@ date: 2023-10-17T05:35:07.322Z
 ogImage: /assets/recipe/garlicky-bread-bites/cover.jpg
 ingredients:
   - name: plain flour
-    amount: 1/4 cup
+    quantity:
+      amount: 1/4
+      unit: cup
   - name: instant yeast
-    amount: 1/8 cup
+    quantity:
+      amount: 1/8
+      unit: cup
   - name: white sugar
-    amount: 3/4 cup
+    quantity:
+      amount: 3/4
+      unit: cup
   - name: warm water
-    amount: 3/4 cup
+    quantity:
+      amount: 3/4
+      unit: cup
   - name: cloves of garlic, thinly sliced
-    amount: 3/4 cup
+    quantity:
+      amount: 3/4
+      unit: cup
   - name: Extra virgin olive oil
   - name: Flaky sea salt
 methods:

@@ -12,8 +12,15 @@ interface Recipe {
 }
 
 export interface Ingredient {
-    name: string;
-    amount?: string;
+  name: string;
+  quantity?: Quantity;
+  notes: string;
+  overrideText: string;
+}
+
+export interface Quantity {
+  amount: string;
+  unit?: string;
 }
 
 export default Recipe;

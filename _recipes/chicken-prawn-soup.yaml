@@ -4,15 +4,24 @@ coverImage: /assets/recipe/chicken-prawn-soup/cover.jpg
 date: 2023-10-22T05:35:07.322Z
 ogImage: /assets/recipe/chicken-prawn-soup/cover.jpg
 ingredients:
-  - name: Prawn shells (at least 20 prawn shells, but the more the better)
+  - name: Prawn shells
+    notes: (at least 20 prawn shells, but the more the better)
   - name: whole chicken
-    amount: 1
-  - name: chicken stock (we used around 1-2L of water with 1 tbsp chicken stock powder)
-    amount: 1-2L
+    quantity:
+      amount: 1
+  - name: chicken stock
+    quantity:
+      amount: 1
+      unit: L
+    notes:  (we used around 1-2L of water with 1 tbsp chicken stock powder)
   - name: water
-    amount: 1-2L
-  - name: Salt, to taste
-  - name: Noodles (to serve)
+    quantity:
+      amount: 1-2
+      unit: L
+  - name: Salt
+    notes: to taste
+  - name: Noodles
+    notes: to serve
 methods:
   - Add oil and prawn shells to a large pot and fry the prawn shells until they have turned red 
   - Pour in the chicken stock and water and bring it to a boil 
