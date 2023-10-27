@@ -1,63 +1,71 @@
 import Container from "../components/container";
 import MoreStories from "../components/more-stories";
-import HeroPost from "../components/hero-recipe";
+import HeroRecipe from "../components/hero-recipe";
 import Layout from "../components/layout";
-import { getAllPosts } from "../lib/api";
-import Post from "../interfaces/post";
+import { getAllRecipes } from "../lib/api";
 import Header from "@/components/header";
 import Script from "next/script";
+import Recipe from "@/interfaces/recipes";
 
 type Props = {
-  allPosts: Post[];
+  allRecipes: Recipe[];
 };
 
-export default function Index({ allPosts }: Props) {
-  const heroPost = allPosts.find(post => post.title == "Ramen Eggs");
-  const morePosts = allPosts.filter((post) => post.title != "Ramen Eggs");
+export default function Index({ allRecipes }: Props) {
+  const heroRecipe = allRecipes.find((recipe) => recipe.title == "Ramen Eggs");
+  const moreRecipes = allRecipes.filter(
+    (recipe) => recipe.title != "Ramen Eggs"
+  );
   return (
     <>
-      <Script
-        src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GTAG}`}
-      />
-      <Script id="google-analytics">
-        {`
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
- 
-          gtag('config', 'GA_MEASUREMENT_ID');
-        `}
-      </Script>
-
+      <GoogleAnalytics />
       <Layout>
         <Container>
           <Header />
-          {heroPost && (
-            <HeroPost
-              title={heroPost.title}
-              coverImage={"/assets/recipe/ramen-eggs/feature.jpg"}
-              date={heroPost.date}
-              slug={heroPost.slug}
-              excerpt={heroPost.excerpt}
+          {heroRecipe && (
+            <HeroRecipe
+              title={heroRecipe.title}
+              coverImage={heroRecipe.ogImage}
+              date={heroRecipe.date}
+              slug={heroRecipe.slug}
+              excerpt={heroRecipe.excerpt}
             />
           )}
-          {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+          {moreRecipes.length > 0 && <MoreStories recipes={moreRecipes} />}
         </Container>
       </Layout>
     </>
   );
 }
 
+const GoogleAnalytics = () => (
+  <>
+    <Script
+      src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GTAG}`}
+    />
+    <Script id="google-analytics">
+      {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+ 
+          gtag('config', 'GA_MEASUREMENT_ID');
+        `}
+    </Script>
+  </>
+);
+
 export const getStaticProps = async () => {
-  const allPosts = getAllPosts([
+  const allRecipes = getAllRecipes([
     "title",
     "date",
     "slug",
     "coverImage",
     "excerpt",
+    "ogImage",
   ]);
 
   return {
-    props: { allPosts },
+    props: { allRecipes },
   };
 };

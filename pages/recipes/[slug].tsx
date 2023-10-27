@@ -7,24 +7,23 @@ import Layout from "../../components/layout";
 import RecipeBody from "../../components/recipe-body";
 import RecipeHeader from "../../components/recipe-header";
 import RecipeTitle from "../../components/recipe-title";
-import type PostType from "../../interfaces/post";
-import { getAllPosts, getPostBySlug } from "../../lib/api";
-import markdownToHtml from "../../lib/markdownToHtml";
+import { getAllRecipes, getRecipeBySlug } from "../../lib/api";
+import Recipe from "@/interfaces/recipes";
 
 type Props = {
-  post: PostType;
-  morePosts: PostType[];
-  preview?: boolean;
+  recipe: Recipe;
 };
 
-export default function Post({ post, morePosts, preview }: Props) {
+export default function Recipe({ recipe }: Props) {
   const router = useRouter();
-  const title = `${post.title}`;
-  if (!router.isFallback && !post?.slug) {
+
+  if (!router.isFallback && !recipe?.slug) {
     return <ErrorPage statusCode={404} />;
   }
+
+  const title = `${recipe.title}`;
   return (
-    <Layout preview={preview}>
+    <Layout>
       <Container>
         <Header />
         {router.isFallback ? (
@@ -34,15 +33,14 @@ export default function Post({ post, morePosts, preview }: Props) {
             <article className="mb-32">
               <Head>
                 <title>{title}</title>
-                <meta property="og:image" content={post.ogImage.url} />
+                <meta property="og:image" content={recipe.ogImage} />
               </Head>
               <RecipeHeader
-                title={post.title}
-                coverImage={post.coverImage}
-                date={post.date}
+                title={recipe.title}
+                coverImage={recipe.coverImage}
+                date={recipe.date}
               />
-              <RecipeBody content={post.content} />
-              <div>{post.ingredients}</div>
+              <RecipeBody {...recipe} />
             </article>
           </>
         )}
@@ -58,34 +56,33 @@ type Params = {
 };
 
 export async function getStaticProps({ params }: Params) {
-  const post = getPostBySlug(params.slug, [
+  const recipe = getRecipeBySlug(params.slug, [
     "title",
     "date",
     "slug",
     "content",
     "ogImage",
     "coverImage",
+    "ingredients",
+    "excerpt",
+    "methods",
   ]);
-  const content = await markdownToHtml(post.content || "");
 
   return {
     props: {
-      post: {
-        ...post,
-        content,
-      },
+      recipe,
     },
   };
 }
 
 export async function getStaticPaths() {
-  const posts = getAllPosts(["slug"]);
+  const recipes = getAllRecipes(["slug"]);
 
   return {
-    paths: posts.map((post) => {
+    paths: recipes.map((recipe) => {
       return {
         params: {
-          slug: post.slug,
+          slug: recipe.slug,
         },
       };
     }),

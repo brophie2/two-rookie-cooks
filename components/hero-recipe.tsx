@@ -1,22 +1,16 @@
-import DateFormatter from './date-formatter'
-import CoverImage from './cover-image'
-import Link from 'next/link'
+import DateFormatter from "./date-formatter";
+import CoverImage from "./cover-image";
+import Link from "next/link";
 
 type Props = {
-  title: string
-  coverImage: string
-  date: string
-  excerpt: string
-  slug: string
-}
+  title: string;
+  coverImage: string;
+  date: string;
+  excerpt: string;
+  slug: string;
+};
 
-const HeroPost = ({
-  title,
-  coverImage,
-  date,
-  excerpt,
-  slug,
-}: Props) => {
+const HeroRecipe = ({ title, coverImage, date, excerpt, slug }: Props) => {
   return (
     <section>
       <div className="mb-8 md:mb-16">
@@ -42,7 +36,7 @@ const HeroPost = ({
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default HeroPost
+export default HeroRecipe;

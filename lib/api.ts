@@ -1,47 +1,43 @@
-import fs from 'fs'
-import { join } from 'path'
-import matter from 'gray-matter'
+import fs from "fs";
+import { join } from "path";
+import YAML from "yaml";
 
-const postsDirectory = join(process.cwd(), '_posts')
+const recipesDirectory = join(process.cwd(), "_recipes");
 
-export function getPostSlugs() {
-  return fs.readdirSync(postsDirectory)
+export function getRecipeSlugs() {
+  return fs.readdirSync(recipesDirectory);
 }
 
-export function getPostBySlug(slug: string, fields: string[] = []) {
-  const realSlug = slug.replace(/\.md$/, '')
-  const fullPath = join(postsDirectory, `${realSlug}.md`)
-  const fileContents = fs.readFileSync(fullPath, 'utf8')
-  const { data, content } = matter(fileContents)
+export function getRecipeBySlug(slug: string, fields: string[] = []) {
+  const realSlug = slug.replace(/\.yaml$/, "");
+  const fullPath = join(recipesDirectory, `${realSlug}.yaml`);
+  const fileContents = fs.readFileSync(fullPath, "utf8");
+  const data = YAML.parse(fileContents);
 
   type Items = {
-    [key: string]: string
-  }
+    [key: string]: string;
+  };
 
-  const items: Items = {}
+  const items: Items = {};
 
   // Ensure only the minimal needed data is exposed
   fields.forEach((field) => {
-    if (field === 'slug') {
-      items[field] = realSlug
-    }
-    if (field === 'content') {
-      items[field] = content
+    if (field === "slug") {
+      items[field] = realSlug;
     }
 
-    if (typeof data[field] !== 'undefined') {
-      items[field] = data[field]
+    if (typeof data[field] !== "undefined") {
+      items[field] = data[field];
     }
-  })
-
-  return items
+  });
+  return items;
 }
 
-export function getAllPosts(fields: string[] = []) {
-  const slugs = getPostSlugs()
-  const posts = slugs
-    .map((slug) => getPostBySlug(slug, fields))
-    // sort posts by date in descending order
-    .sort((post1, post2) => (post1.date > post2.date ? -1 : 1))
-  return posts
+export function getAllRecipes(fields: string[] = []) {
+  const slugs = getRecipeSlugs();
+  const recipes = slugs
+    .map((slug) => getRecipeBySlug(slug, fields))
+    // sort recipe by date in descending order
+    .sort((recipe1, recipe2) => (recipe1.date > recipe2.date ? -1 : 1));
+  return recipes;
 }
