@@ -7,7 +7,7 @@ interface Recipe {
   excerpt: string;
   stroy: string;
   ingredients: Ingredient[];
-  methods: string[];
+  method: string[];
   content: string;
 }
 

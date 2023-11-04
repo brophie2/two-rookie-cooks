@@ -65,7 +65,7 @@ export async function getStaticProps({ params }: Params) {
     "coverImage",
     "ingredients",
     "excerpt",
-    "methods",
+    "method",
   ]);
 
   return {

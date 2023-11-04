@@ -3,11 +3,11 @@ import { Ingredient, Quantity } from "@/interfaces/recipes";
 type Props = {
   content: string;
   excerpt: string;
-  methods: string[];
+  method: string[];
   ingredients: Ingredient[];
 };
 
-const RecipeBody = ({ content, excerpt, methods, ingredients }: Props) => {
+const RecipeBody = ({ content, excerpt, method, ingredients }: Props) => {
   return (
     <div className="max-w-2xl mx-auto">
       <Paragraphs paragraphs={excerpt} />
@@ -21,7 +21,7 @@ const RecipeBody = ({ content, excerpt, methods, ingredients }: Props) => {
 
       <h3>Method</h3>
       <ol>
-        {methods.map((step, i) => (
+        {method.map((step, i) => (
           <li key={i}>{step}</li>
         ))}
       </ol>
