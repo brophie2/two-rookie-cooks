@@ -9,6 +9,7 @@ interface Recipe {
   ingredients: Ingredient[];
   method: string[];
   content: string;
+  serves: string;
 }
 
 export interface Ingredient {
