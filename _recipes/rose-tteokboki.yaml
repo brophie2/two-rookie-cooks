@@ -1,0 +1,60 @@
+title: Rose Tteokboki
+excerpt: Whenever we go to a restaurant and order tteokboki, you best believe that we are getting the rose one.
+coverImage: /assets/recipe/rose-tteokboki/cover.jpg
+date: 2023-11-01
+ogImage: /assets/recipe/rose-tteokboki/cover.jpg
+ingredients:
+  - name: tteokboki
+    quantity:
+      amount: 15-20
+  - name: fish cakes
+    quantity:
+      amount: 40-50
+      unit: g
+    notes: (cut into bite-sized pieces)
+  - name: spring onion
+    quantity:
+      amount: 1
+    notes: (sliced)
+  - name: garlic
+    quantity:
+      amount: 2
+      unit: cloves of
+    notes: (minced)
+  - name: spam
+    quantity:
+      amount: 100
+      unit: g
+    notes: (cut into bite-sized pieces)
+  - name: carrot
+    quantity:
+      amount: 1
+    notes: (cut into match sticks)
+  - name: thickened cream
+    quantity:
+      amount: 250
+      unit: ml
+  - name: milk
+    quantity:
+      amount: 50
+      unit: ml
+  - name: grated cheese
+    quantity:
+      amount: 40
+      unit: g
+  - name: gochujang
+    quantity:
+      amount: 1
+      unit: tbsp 
+  - name: soy sauce
+    quantity:
+      amount: 1
+      unit: tbsp
+method:
+  - Pan fry spam pieces until they are browned
+  - Add spring onions and garlic to the pan and cook until fragrant
+  - Add the carrot/cabbage and fishcakes
+  - Add gochujang, soy sauce, cream and milk to the frying pan and stir well
+  - Once it is lightly simmering, add tteokboki
+  - When the tteokboki are nearly cooked, stir through the cheese and turn off the heat
+content: It's creamy, spicy and cheesy - what's not to love! We decided it was time that we figured out how to make this at home. 

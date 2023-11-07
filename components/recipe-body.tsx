@@ -47,7 +47,7 @@ const getIngredientText = (ingredient: Ingredient): string => {
 const getQuantityText = (quantity: Quantity): string => {
     let quantityText = quantity.amount;
     if (quantity.unit) {
-      ["g", "L"].indexOf(quantity.unit) == -1 && (quantityText += " ");
+      ["g", "kg", "L", "ml"].indexOf(quantity.unit) == -1 && (quantityText += " ");
       quantityText += quantity.unit
     }
 

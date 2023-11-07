@@ -1,8 +1,8 @@
 title:
 excerpt: 
-coverImage: /assets/recipe/{post}/cover.png
+coverImage: /assets/recipe/{post}/cover.jpg
 date: 2023-10-25
-ogImage: /assets/recipe/{post}/cover.png
+ogImage: /assets/recipe/{post}/cover.jpg
 ingredients:
   - name: 
     quantity:
