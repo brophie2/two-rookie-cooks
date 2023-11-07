@@ -66,6 +66,7 @@ export async function getStaticProps({ params }: Params) {
     "ingredients",
     "excerpt",
     "method",
+    "serves"
   ]);
 
   return {

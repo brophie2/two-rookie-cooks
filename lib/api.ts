@@ -36,6 +36,7 @@ export function getRecipeBySlug(slug: string, fields: string[] = []) {
 export function getAllRecipes(fields: string[] = []) {
   const slugs = getRecipeSlugs();
   const recipes = slugs
+    .filter(slug => !slug.startsWith("_"))
     .map((slug) => getRecipeBySlug(slug, fields))
     // sort recipe by date in descending order
     .sort((recipe1, recipe2) => (recipe1.date > recipe2.date ? -1 : 1));

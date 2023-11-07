@@ -1,0 +1,13 @@
+title:
+excerpt: 
+coverImage: /assets/recipe/{post}/cover.png
+date: 2023-10-25
+ogImage: /assets/recipe/{post}/cover.png
+ingredients:
+  - name: 
+    quantity:
+      amount:
+      unit: 
+method:
+  - 
+content:

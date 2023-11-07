@@ -1,6 +1,7 @@
 import DateFormatter from './date-formatter'
 import CoverImage from './cover-image'
 import Link from 'next/link'
+import { Paragraphs } from './recipe-body'
 
 type Props = {
   title: string
@@ -34,7 +35,7 @@ const RecipePreview = ({
       <div className="text-lg mb-4">
         <DateFormatter dateString={date} />
       </div>
-      <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
+      <Paragraphs paragraphs={excerpt} />
     </div>
   )
 }

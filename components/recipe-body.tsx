@@ -5,13 +5,15 @@ type Props = {
   excerpt: string;
   method: string[];
   ingredients: Ingredient[];
+  serves: string;
 };
 
-const RecipeBody = ({ content, excerpt, method, ingredients }: Props) => {
+const RecipeBody = ({ content, excerpt, method, ingredients, serves }: Props) => {
   return (
     <div className="max-w-2xl mx-auto">
       <Paragraphs paragraphs={excerpt} />
       <Paragraphs paragraphs={content} />
+      <p>{serves}</p>
       <h3>Ingredients</h3>
       <ul>
         {ingredients.map((ingredient, i) => (
@@ -52,7 +54,7 @@ const getQuantityText = (quantity: Quantity): string => {
     return quantityText;
 }
 
-const Paragraphs = ({ paragraphs }: { paragraphs: string }) => (
+export const Paragraphs = ({ paragraphs }: { paragraphs: string }) => (
   <>
     {paragraphs.split("\n").map((paragraph, i) => (
       <p key={i}>{paragraph}</p>
