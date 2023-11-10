@@ -1,0 +1,66 @@
+title: Banana Bread
+excerpt: This is one of our favourite recipes to bake. It's so simple; you don't even need a mixer. 
+coverImage: /assets/recipe/banana-bread/cover.png
+date: 2023-08-03
+ogImage: /assets/recipe/banana-bread/cover.png
+ingredients:
+  - name: (ripe) bananas
+    quantity:
+      amount: 4
+  - name: unsalted butter
+    quantity:
+      amount: 2/3
+      unit: cup
+    notes: (150g)
+  - name: eggs
+    quantity:
+      amount: 2
+  - name: all-purpose flour
+    quantity:
+      amount: 3
+      unit: cups
+  - name: baking soda
+    quantity:
+      amount: 1
+      unit: tsp 
+  - name: brown sugar
+    quantity:
+      amount: 1/2
+      unit: cup
+  - name: white sugar
+    quantity:
+      amount: 1/2
+      unit: cup
+  - name: vanilla extract
+    quantity:
+      amount: 1
+      unit: tbsp
+  - name: chocolate chips/chunks
+    quantity:
+      amount: 80
+      unit: g
+    notes: (optional)
+  - name: ground cinnamon
+    quantity:
+      amount: 1/2
+      unit: tsp
+  - name: salt
+    quantity:
+      amount: 1
+      unit: pinch
+method:
+  - Preheat the oven to 180 degrees
+  - Melt the butter
+  - Mash the bananas
+  - Beat the eggs
+  - Combine the melted butter and mashed bananas. Once combined, add the eggs
+  - Add the remaining ingredients except for the chocolate chips
+  - Fold the mixture until it is mostly combined, and then add the chocolate chips/chunks (optional)
+  - Put the banana bread batter into your baking tray and bake. If you are using a larger pan like us, it will only take around 20 minutes. If you are using a smaller pan, it will likely take around 50 minutes. If you are using a muffin tray, it will take around 25 minutes.
+  - Let the banana bread cool for around 10 minutes before removing it from the tray to cool further. Or consume straight away, we wouldn't blame you
+content: |
+  Sometimes we make it into a loaf, and sometimes we make it in a muffin tray. 
+
+  Our hack is to use a larger tray. It makes the banana bread a bit shorter but it cooks a lot faster. The tray we use is around 20cm x 35cm. 
+
+  Also, like a lot of stereotypical Asians, we don't really like our desserts to be too sweet. So if this is also you, don't worry you don't need to reduce the sugar amounts, we've got your back.

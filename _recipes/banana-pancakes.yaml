@@ -1,0 +1,43 @@
+title: Banana Pancakes
+excerpt: Another banana recipe? Why not?
+coverImage: /assets/recipe/banana-pancakes/cover.jpg
+date: 2023-08-19
+ogImage: /assets/recipe/banana-pancakes/cover.jpg
+ingredients:
+  - name: all purpose flour
+    quantity:
+      amount: 1 1/2
+      unit: cups
+  - name: bananas
+    quantity:
+      amount: 3
+  - name: eggs
+    quantity:
+      amount: 2
+  - name: milk
+    quantity:
+      amount: 1
+      unit: cup
+  - name: baking soda
+    quantity:
+      amount: 1
+      unit: tsp
+  - name: cinnamon
+    quantity:
+      amount: 1/2
+      unit: tsp
+  - name: white sugar
+    quantity:
+      amount: 1
+      unit: tbsp 
+  - name: maple syrup
+    notes: (optional, to serve)
+method:
+  - Mash the 2 bananas
+  - Beat the eggs and combine with the bananas
+  - Add the milk to the eggs and banana mixture
+  - In a separate bowl, combine the plain flour, baking soda, sugar and cinnamon
+  - Fold the flour mixture into the banana mixture
+  - Scoop onto a frying pan and cook pancakes as usual, flipping them once bubbles start forming
+  - Serve up! Bonus points if you slice some extra bananas and drizzle maple syrup
+content: It's that time of the week again. We have a few bananas that are going brown and need to be finished off quickly!

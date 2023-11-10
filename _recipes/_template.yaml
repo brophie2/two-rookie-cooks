@@ -8,6 +8,7 @@ ingredients:
     quantity:
       amount:
       unit: 
+    notes:
 method:
   - 
 content:
