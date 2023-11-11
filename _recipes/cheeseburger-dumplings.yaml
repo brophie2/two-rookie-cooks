@@ -1,0 +1,42 @@
+title: Cheeseburger Dumplings
+excerpt: These cheeseburger dumplings are the perfect unification of 2 epic foods. 
+coverImage: /assets/recipe/cheeseburger-dumpling/cover.jpg
+date: 2023-09-04
+ogImage: /assets/recipe/cheeseburger-dumpling/cover.jpg
+ingredients:
+  - name: beef mince
+    quantity:
+      amount: 250
+      unit: g
+  - name: bacon
+    quantity:
+      amount: 2
+      unit: rashers of
+  - name: grated cheese
+    quantity:
+      amount: 1/2
+      unit: cup
+  - name: brown onion
+    quantity:
+      amount: 1/2
+  - name: burger sauce
+    quantity:
+      amount: 3
+      unit: tbsp
+  - name: BBQ/burger sauce
+    notes: (optional, to serve)
+  - name: dumpling dough
+    quantity: 
+      amount: 1
+      unit: portion of
+    notes: (approximately 20-24 dumpling wrappers)
+method:
+  - Dice bacon into small pieces and panfry until crispy. Set it aside
+  - Dice onions
+  - Combine the beef mince, bacon, onion, cheese, and burger sauce. Optionally season with garlic powder, salt and pepper
+  - Fold the dumplings
+  - Cook the dumplings. We chose to panfry them
+content: |
+  The cheese gives the dumpling filling a unique texture, and the burger sauce packs a flavourful punch. 
+
+  Once again, we used our own homemade dumpling dough, so we were able to get the skin nice and thin.

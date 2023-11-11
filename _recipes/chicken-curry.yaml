@@ -1,0 +1,42 @@
+title: Chicken Curry
+excerpt: Chicken curry that can be cooked in under 25 minutes? Unheard of, until now!
+coverImage: /assets/recipe/chicken-curry/cover.jpg
+date: 2023-11-09
+ogImage: /assets/recipe/chicken-curry/cover.jpg
+ingredients:
+  - name: chicken thigh
+    quantity:
+      amount: 600
+      unit: g
+    notes:
+  - name: white potatoes
+    quantity:
+      amount: 2
+  - name: bean curd sticks
+    quantity:
+      amount: 200
+      unit: g
+  - name: curry paste
+    quantity:
+      amount: 200
+      unit: g
+    notes: (we used A1 chicken curry paste)
+  - name: coconut milk
+    quantity:
+      amount: 400
+      unit: ml
+  - name: water
+    quantity:
+      amount: 400
+      unit: ml
+  - name: Rice
+method:
+  - Wash rice and add it to the rice cooker. Start the rice cooker
+  - Soak bean curd sticks in hot water to rehydrate for around 5-10 minutes, or until soft. Drain once they are soft
+  - Cut chicken thighs into small bite-size cubes
+  - Cut potatoes into a similar size
+  - Fry the curry paste in some oil until fragrant. This will only take around 1-2 minutes
+  - Add chicken and cook for a few minutes
+  - Add potatoes, beancurd sticks, coconut milk and water. Stir and cover with a lid to boil
+  - Let it boil for a few minutes and then turn the heat off. Leave the lid on until the rice cooker is done
+content: A common misconception is that curry takes a long time to cook and is hard. However, if you use a curry paste, it can actually be quite a quick meal that is packed with flavour and will leave you with leftovers for the next day.
