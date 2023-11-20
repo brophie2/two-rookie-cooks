@@ -1,0 +1,43 @@
+title: Kimchi Fried Rice
+excerpt: It's a delicious recipe that uses ingredients you probably already have at home.
+coverImage: /assets/recipe/kimchi-fried-rice/cover.jpg
+date: 2023-08-28
+ogImage: /assets/recipe/kimchi-fried-rice/cover.jpg
+ingredients:
+  - name: spam
+    quantity:
+      amount: 170
+      unit: g
+  - name: kimchi
+    quantity:
+      amount: 2
+      unit: heaped tbsp
+    notes: (roughly chopped or to taste)
+  - name: gochujang
+    quantity:
+      amount: 1
+      unit: tbsp
+  - name: eggs
+    quantity:
+      amount: 2
+  - name: brown onion
+    quantity:
+      amount: 1
+  - name: sesame oil
+    quantity:
+      amount: 1
+      unit: tbsp
+  - name: Spring onions
+  - name: Cooked rice
+  - name: Sesame seeds 
+    notes: (to garnish)
+method:
+  - Dice spam and brown onion, and thinly slice spring onion
+  - Fry the spam until nicely browned before adding in the brown onion and some of the spring onions
+  - Once onions are translucent, make a well and crack the eggs into the middle and stir
+  - After the eggs are halfway cooked, add gochujang paste, kimchi and rice
+  - Fry for a few minutes until fragrant and add remaining spring onions
+content: |
+  While it's a super customisable recipe, we chose to stick to the typical ingredients found in a kimchi fried rice. 
+
+  If you're a big kimchi fan, add in some extra brine for a stronger flavour.

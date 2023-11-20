@@ -1,0 +1,42 @@
+title: Creamy Kimchi Pasta
+excerpt: This creamy pasta comes together in under 20 minutes and tastes like a million bucks. 
+coverImage: /assets/recipe/kimchi-pasta/cover.jpg
+date: 2023-07-25
+ogImage: /assets/recipe/kimchi-pasta/cover.jpg
+ingredients:
+  - name: cup mushrooms
+    quantity:
+      amount: 200
+      unit: g
+  - name: spring onion
+    quantity:
+      amount: 1
+  - name: zucchini
+    quantity:
+      amount: 1
+  - name: grated cheese
+    quantity:
+      amount: 1/3
+      unit: cup
+  - name: kimchi
+    quantity:
+      amount: 3
+      unit: tbsp
+  - name: garlic powder
+    quantity:
+      amount: 1
+      unit: tbsp
+  - name: gochujang
+    quantity:
+      amount: 1
+      unit: tbsp
+method:
+  -  Peel, clean and slice the mushrooms
+  - Cut the zucchini into quarters (vertically) and slice them
+  - Finely slice the spring onion
+  - Heat up a pan and cook the zucchini most of the way through. Put this aside
+  - Cook the spring onion until fragrant. Then add the mushrooms and cook until they are nearly done
+  - Add the gochujang paste, kimchi and zucchini into the pan along with some pasta water and soy milk
+  - Once the pasta sauce comes to a simmer, add the pasta along with some cheese and stir well
+  - Garnish with some spring onions and serve up!
+content: Feel free to substitute the vegetables with some others. We used mushroom and zucchini because that's just what we had in the fridge. You can also add in your choice of meat.
