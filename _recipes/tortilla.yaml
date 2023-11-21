@@ -1,0 +1,28 @@
+title: Tortillas
+excerpt: We saw a few recipes online and it seemed quite straightforward to make so we gave it a crack. 
+coverImage: /assets/recipe/tortilla/cover.jpg
+date: 2023-09-13
+ogImage: /assets/recipe/tortilla/cover.jpg
+ingredients:
+  - name: all purpose flour
+    quantity:
+      amount: 1
+      unit: cup
+  - name: water 
+    quantity: 
+      amount: 1/3
+      unit: cup
+  - name: olive oil
+    quantity:
+      amount: 1
+      unit: tbsp
+  - name: Salt
+method:
+  - Mix all 4 ingredients in a bowl to form a dough
+  - Divide the dough into 4 equal portions
+  - Roll the dough into a ball shape with your hands, before rolling it out until around 2-3mm thick
+  - Oil your pan and cook until browned, and flip
+content: |
+  It was only once we tried these that we realised the store-bought ones are so bland!
+
+  We tried making a burrito and a quesadilla with these and they passed both tests with flying colours. 
