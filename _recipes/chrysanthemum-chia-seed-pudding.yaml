@@ -1,0 +1,24 @@
+title: Chrysanthemum Chia Seed Pudding
+excerpt: Whenever I think of summer, I have strong memories of my mum brewing a massive pot of chrysanthemum tea. 
+coverImage: /assets/recipe/chrysanthemum-chia-seed-pudding/cover.jpg
+date: 2023-11-26
+ogImage: /assets/recipe/chrysanthemum-chia-seed-pudding/cover.jpg
+ingredients:
+  - name: chrysanthemum tea
+    quantity:
+      amount: 4
+      unit: cups
+    notes: (chilled)
+  - name: chia seeds
+    quantity:
+      amount: 4
+      unit: tbsp
+  - name: mango
+    quantity:
+      amount: 1
+  - name: Blueberries
+method:
+  - Add chia seeds and chrysanthemum tea to a bowl or cup to soak for at least 10-15 minutes
+  - Dice a mango and wash some blueberries
+  - Put the mango and blueberries on top and serve
+content: So today, I was inspired to make a chia seed pudding with it. This is the perfect light and refreshing treat for summer.
