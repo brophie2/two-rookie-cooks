@@ -12,9 +12,6 @@ ingredients:
     quantity:
       amount: 1
       unit: packet of
-  - name: egg
-    quantity:
-      amount: 1
   - name: Fried egg and/or cucumber
     notes: (optional, to serve)
 method:
