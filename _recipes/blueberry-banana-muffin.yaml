@@ -29,7 +29,7 @@ ingredients:
   - name: baking soda
     quantity:
       amount: 1
-      unit: cup
+      unit: tsp
   - name: brown sugar
     quantity:
       amount: 1/3
@@ -41,7 +41,7 @@ ingredients:
   - name: plain flour
     quantity:
       amount: 1
-      unit: tsp
+      unit: cup
 method:
   - Preheat the oven to 180 degrees celsius.
   - Combine the mashed bananas, egg, yoghurt, oil, vanilla extract and cinnamon in a bowl.
