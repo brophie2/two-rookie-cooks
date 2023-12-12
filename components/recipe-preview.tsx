@@ -21,7 +21,13 @@ const RecipePreview = ({
   return (
     <div>
       <div className="mb-5">
-        <CoverImage slug={slug} title={title} src={coverImage} />
+        <Link
+          as={`/recipes/${slug}`}
+          href="/recipes/[slug]"
+          className="hover:underline"
+        >
+          <CoverImage slug={slug} title={title} src={coverImage} />
+        </Link>
       </div>
       <h3 className="text-3xl mb-3 leading-snug">
         <Link
@@ -37,7 +43,7 @@ const RecipePreview = ({
       </div>
       <Paragraphs paragraphs={excerpt} />
     </div>
-  )
+  );
 }
 
 export default RecipePreview
