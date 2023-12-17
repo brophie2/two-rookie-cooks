@@ -26,14 +26,19 @@ const CoverImage = ({ title, src, slug }: Props) => {
   return (
     <div className="sm:mx-0 ">
       {slug ? (
-        <Link as={`/recipes/${slug}`} href="/recipes/[slug]" aria-label={title}>
+        <Link
+          as={`/recipes/${slug}`}
+          href="/recipes/[slug]"
+          aria-label={title}
+          className="hover:underline"
+        >
           {image}
         </Link>
       ) : (
         image
       )}
     </div>
-  )
+  );
 }
 
 export default CoverImage

@@ -21,13 +21,7 @@ const RecipePreview = ({
   return (
     <div>
       <div className="mb-5">
-        <Link
-          as={`/recipes/${slug}`}
-          href="/recipes/[slug]"
-          className="hover:underline"
-        >
-          <CoverImage slug={slug} title={title} src={coverImage} />
-        </Link>
+        <CoverImage slug={slug} title={title} src={coverImage} />
       </div>
       <h3 className="text-3xl mb-3 leading-snug">
         <Link
