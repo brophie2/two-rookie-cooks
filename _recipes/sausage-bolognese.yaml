@@ -1,0 +1,36 @@
+title: Sausage Bolognese
+excerpt: I'm sure most of us already know how to make a bolognese but are you tired of the same ol'? 
+coverImage: /assets/recipe/sausage-bolognese/cover.jpg
+date: 2023-12-26
+ogImage: /assets/recipe/sausage-bolognese/cover.jpg
+ingredients:
+  - name: sausages
+    quantity:
+      amount: 450 - 500
+      unit: g
+    notes: (whatever flavour sounds good to you, we used caramelised onion and beef)
+  - name: brown onion
+    quantity:
+      amount: 1
+  - name: carrots
+    quantity:
+      amount: 2
+  - name: mushrooms
+    quantity:
+      amount: 400
+      unit: g
+  - name: passata
+    quantity:
+      amount: 700
+      unit: g
+  - name: Garlic powder
+  - name: Mixed herbs 
+  - name: Pasta
+    notes: (optional, to serve)
+method:
+  - Roughly dice the onion and carrots, and slice mushrooms
+  - In a pot, fry onions until they are transluscent
+  - Take the sausages out of their casing and add them to the pot to brown
+  - Add carrots and mushrooms
+  - Add passata and season well with garlic powder and mixed herbs. Continue cooking until the sauce is at a gentle boil and the vegetables are starting to soften
+content: Look no further than this bolognese variation that you will not regret trying! The best part about using sausages instead of mince is that they are already seasoned, which means that all you need to do to drastically change the flavour profile is swap it out for a different sausage.
