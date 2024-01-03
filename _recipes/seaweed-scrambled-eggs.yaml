@@ -1,0 +1,28 @@
+title: Seaweed Scrambled Eggs
+excerpt: Controversial opinion but I would take these seaweed scrambled eggs over a $30 chili oil scrambled egg any day of the week.
+coverImage: /assets/recipe/seaweed-scrambled-eggs/cover.jpg
+date: 2024-01-03
+ogImage: /assets/recipe/seaweed-scrambled-eggs/cover.jpg
+ingredients:
+  - name: seaweed
+    quantity:
+      amount: 1
+      unit: g
+    notes: (approximately 1/2 a sheet)
+  - name: eggs
+    quantity:
+      amount: 2-3
+  - name: butter
+    quantity:
+      amount: 1
+      unit: tbsp
+  - name: Toast
+    notes: (optional, to serve)
+method:
+  - Cut the seaweed into little strips
+  - Beat the eggs
+  - Dissolve the butter in the frying pan
+  - Once dissolved, put the eggs in and sprinkle the seaweed on top
+  - Keep the pan on a medium-low heat and constantly stir so that nice, soft curds form
+  - Once cooked through, serve up with a piece of toast
+content: The vibrant green hues of seaweed are visually stunning, making this dish not only a culinary delight but also a feast for the eyes.
