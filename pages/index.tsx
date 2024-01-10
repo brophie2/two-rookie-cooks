@@ -6,6 +6,7 @@ import { getAllRecipes } from "../lib/api";
 import Header from "@/components/header";
 import Script from "next/script";
 import Recipe from "@/interfaces/recipes";
+import { useEffect } from "react";
 
 type Props = {
   allRecipes: Recipe[];
@@ -16,6 +17,11 @@ export default function Index({ allRecipes }: Props) {
   const moreRecipes = allRecipes.filter(
     (recipe) => recipe.title != "Ramen Eggs"
   );
+
+  useEffect(() => {
+    document.title = "Two Rookie Cooks";  
+  }, []);
+
   return (
     <>
       <GoogleAnalytics />
@@ -29,8 +35,8 @@ export default function Index({ allRecipes }: Props) {
               date={heroRecipe.date}
               slug={heroRecipe.slug}
               excerpt={heroRecipe.excerpt}
-            />
-          )}
+              />
+              )}
           {moreRecipes.length > 0 && <MoreStories recipes={moreRecipes} />}
         </Container>
       </Layout>

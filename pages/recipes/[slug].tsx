@@ -9,6 +9,7 @@ import RecipeHeader from "../../components/recipe-header";
 import RecipeTitle from "../../components/recipe-title";
 import { getAllRecipes, getRecipeBySlug } from "../../lib/api";
 import Recipe from "@/interfaces/recipes";
+import { useEffect } from "react";
 
 type Props = {
   recipe: Recipe;
@@ -22,6 +23,10 @@ export default function Recipe({ recipe }: Props) {
   }
 
   const title = `${recipe.title}`;
+
+  useEffect(() => {
+    document.title = title;  
+  }, []);
   return (
     <Layout>
       <Container>
