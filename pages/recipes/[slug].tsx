@@ -16,17 +16,17 @@ type Props = {
 };
 
 export default function Recipe({ recipe }: Props) {
+  const title = `${recipe.title}`;
+  useEffect(() => {
+    document.title = title;  
+  }, [title]);
+
   const router = useRouter();
 
   if (!router.isFallback && !recipe?.slug) {
     return <ErrorPage statusCode={404} />;
   }
 
-  const title = `${recipe.title}`;
-
-  useEffect(() => {
-    document.title = title;  
-  }, []);
   return (
     <Layout>
       <Container>
