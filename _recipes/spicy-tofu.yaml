@@ -1,0 +1,38 @@
+title: Spicy Tofu
+excerpt: Are you hungry? Let us share with you how to make this delicious spicy tofu that’ll take 15 minutes to make and about 15 seconds to eat. 
+coverImage: /assets/recipe/spicy-tofu/cover.jpg
+date: 2024-01-15
+ogImage: /assets/recipe/spicy-tofu/cover.jpg
+ingredients:
+  - name: firm tofu
+    quantity:
+      amount: 150
+      unit: g
+  - name: gochujang
+    quantity:
+      amount: 1
+      unit: tbsp
+  - name: soy sauce
+    quantity:
+      amount: 2
+      unit: tbsp
+  - name: rice vinegar
+    quantity:
+      amount: 1
+      unit: tbsp
+  - name: corn flour
+    quantity:
+      amount: 2
+      unit: tbsp
+  - name: Sesame seeds
+    notes: (optional, to serve)
+
+method:
+  - Cut tofu into 1 cm cubes
+  - Put the tofu cubes into a bowl and coat with the corn flour
+  - Fry the tofu until golden brown and crispy
+  - In another bowl, combine the gochujang, soy sauce and rice vinegar with 1-2 tbsp of water
+  - Once the tofu is ready, pour in the sauce and coat well
+  - Serve up immediately and optionally top with sesame seeds
+content: |
+  It’s spicy, salty and has the perfect tang to it. We chose to serve it with a side of Chinese cabbage and rice, but you could also serve it with other vegetables of your choice or noodles. 
