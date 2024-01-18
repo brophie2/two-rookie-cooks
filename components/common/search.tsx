@@ -25,7 +25,7 @@ export default function Search({ allRecipes }: Props) {
 
   const renderResults = () => {
     return searchResults.map((recipe, i) => 
-    <div>
+    <div key={i}>
       <Link key={i} href={`/recipes/${recipe.slug}`}>{recipe.title}</Link>
     </div>
     );
