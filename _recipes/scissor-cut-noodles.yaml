@@ -3,16 +3,17 @@ excerpt: This is the first time we have made fresh noodles at home and we were r
 coverImage: /assets/recipe/scissor-cut-noodles/cover.jpg
 date: 2023-09-16
 ogImage: /assets/recipe/scissor-cut-noodles/cover.jpg
-ingredients:
-  - name: all purpose flour 
-    quantity:
-      amount: 1
-      unit: cup
-  - name: water
-    quantity:
-      amount: 1/2
-      unit: cup
-  - name: Salt
+ingredientLists:
+  - ingredients:
+    - name: all purpose flour 
+      quantity:
+        amount: 1
+        unit: cup
+    - name: water
+      quantity:
+        amount: 1/2
+        unit: cup
+    - name: Salt
 method:
   - Combine the flour, water, and salt in a bowl and mix with a spoon until a rough dough is formed
   - Knead the dough until it forms a ball. If it is too try, add some extra water. If it is too sticky, add more flour. The perfect dough consistency should be soft but not stick to your hands

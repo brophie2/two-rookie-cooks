@@ -3,37 +3,38 @@ excerpt: We have been wanting to try and make this dish ourselves at home for a 
 coverImage: /assets/recipe/jjajangmyeon/cover.jpg
 date: 2023-09-25
 ogImage: /assets/recipe/jjajangmyeon/cover.jpg
-ingredients:
-  - name: black bean paste
-    quantity:
-      amount: 3-4
-      unit: heaped tbsp of 
-    notes: (or as per packet directions)
-  - name: zucchini
-    quantity:
-      amount: 1
-  - name: brown onion
-    quantity:
-      amount: 1
-  - name: pork rashers or pork belly
-    quantity:
-      amount: 200
-      unit: g
-  - name: water
-    quantity:
-      amount: 1/3
-      unit: cup
-  - name: corn starch
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: sugar
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: Fresh wheat noodles
-  - name: Oil
-  - name: Cucumber
+ingredientLists:
+  - ingredients:
+    - name: black bean paste
+      quantity:
+        amount: 3-4
+        unit: heaped tbsp of 
+      notes: (or as per packet directions)
+    - name: zucchini
+      quantity:
+        amount: 1
+    - name: brown onion
+      quantity:
+        amount: 1
+    - name: pork rashers or pork belly
+      quantity:
+        amount: 200
+        unit: g
+    - name: water
+      quantity:
+        amount: 1/3
+        unit: cup
+    - name: corn starch
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: sugar
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: Fresh wheat noodles
+    - name: Oil
+    - name: Cucumber
 method:
   - Cut the pork into small rectangular pieces
   - Cut the zucchini into 1cm cubes. Also cut the onions into a similar size

@@ -3,30 +3,30 @@ excerpt: Are you hungry? Let us share with you how to make this delicious spicy 
 coverImage: /assets/recipe/spicy-tofu/cover.jpg
 date: 2024-01-15
 ogImage: /assets/recipe/spicy-tofu/cover.jpg
-ingredients:
-  - name: firm tofu
-    quantity:
-      amount: 150
-      unit: g
-  - name: gochujang
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: soy sauce
-    quantity:
-      amount: 2
-      unit: tbsp
-  - name: rice vinegar
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: corn flour
-    quantity:
-      amount: 2
-      unit: tbsp
-  - name: Sesame seeds
-    notes: (optional, to serve)
-
+ingredientLists: 
+  - ingredients:
+    - name: firm tofu
+      quantity:
+        amount: 150
+        unit: g
+    - name: gochujang
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: soy sauce
+      quantity:
+        amount: 2
+        unit: tbsp
+    - name: rice vinegar
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: corn flour
+      quantity:
+        amount: 2
+        unit: tbsp
+    - name: Sesame seeds
+      notes: (optional, to serve)
 method:
   - Cut tofu into 1 cm cubes
   - Put the tofu cubes into a bowl and coat with the corn flour

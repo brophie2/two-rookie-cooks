@@ -1,7 +1,7 @@
-import DateFormatter from './date-formatter'
+import DateFormatter from '../common/date-formatter'
 import CoverImage from './cover-image'
 import Link from 'next/link'
-import { Paragraphs } from './recipe-body'
+import { Paragraphs } from '../recipe/recipe-body'
 
 type Props = {
   title: string

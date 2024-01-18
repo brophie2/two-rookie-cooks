@@ -3,39 +3,40 @@ excerpt: "Fun fact that nobody asked for: we actually made this together for our
 coverImage: /assets/recipe/tuscan-salmon/cover.jpg
 date: 2023-10-10
 ogImage: /assets/recipe/tuscan-salmon/cover.jpg
-ingredients:
-  - name: salmon 
-    quantity:
-      amount: 2
-      unit: fillets of 
-  - name: sundried tomatoes
-    quantity:
-      amount: 2
-      unit: tbsp
-    notes: (sliced)
-  - name: brown onion
-    quantity:
-      amount: 1
-    notes: (diced)
-  - name: garlic 
-    quantity:
-      amount: 2
-      unit: cloves of 
-    notes: (minced)
-  - name: baby spinach
-    quantity:
-      amount: 120
-      unit: g
-  - name: vegetable stock
-    quantity:
-      amount: 1/3
-      unit: cup
-  - name: heavy cream
-    quantity:
-      amount: 120
-      unit: ml
-  - name: Parmesan cheese
-    notes: (to serve)
+ingredientLists:
+  - ingredients:
+    - name: salmon 
+      quantity:
+        amount: 2
+        unit: fillets of 
+    - name: sundried tomatoes
+      quantity:
+        amount: 2
+        unit: tbsp
+      notes: (sliced)
+    - name: brown onion
+      quantity:
+        amount: 1
+      notes: (diced)
+    - name: garlic 
+      quantity:
+        amount: 2
+        unit: cloves of 
+      notes: (minced)
+    - name: baby spinach
+      quantity:
+        amount: 120
+        unit: g
+    - name: vegetable stock
+      quantity:
+        amount: 1/3
+        unit: cup
+    - name: heavy cream
+      quantity:
+        amount: 120
+        unit: ml
+    - name: Parmesan cheese
+      notes: (to serve)
 method:
   - Sear the salmon fillets in a frying pan, skin side down first and then rotate to sear each side. Take care to not overcook
   - Remove salmon and cook the onion and garlic

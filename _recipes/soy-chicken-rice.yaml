@@ -3,30 +3,31 @@ excerpt: Are you ready for another rice cooker recipe? Because we are soo ready 
 coverImage: /assets/recipe/soy-chicken-rice/cover.jpg
 date: 2023-10-08
 ogImage: /assets/recipe/soy-chicken-rice/cover.jpg
-ingredients:
-  - name: chicken thighs
-    quantity:
-      amount: 2-3
-    notes: (you can also use chicken breasts if you prefer)
-  - name: soy sauce
-    quantity:
-      amount: 4
-      unit: tbsp
-  - name: sesame oil
-    quantity:
-      amount: 2 1/2
-      unit: tbsp
-  - name: spring onions
-    quantity:
-      amount: 2
-    notes: (sliced)
-  - name: chicken stock powder
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: Minced garlic/garlic powder
-  - name: Grated ginger/ginger powder
-  - name: Uncooked rice
+ingredientLists:
+  - ingredients:
+    - name: chicken thighs
+      quantity:
+        amount: 2-3
+      notes: (you can also use chicken breasts if you prefer)
+    - name: soy sauce
+      quantity:
+        amount: 4
+        unit: tbsp
+    - name: sesame oil
+      quantity:
+        amount: 2 1/2
+        unit: tbsp
+    - name: spring onions
+      quantity:
+        amount: 2
+      notes: (sliced)
+    - name: chicken stock powder
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: Minced garlic/garlic powder
+    - name: Grated ginger/ginger powder
+    - name: Uncooked rice
 method:
   - Add rice and water into the rice cooker
   - Add 2 tbsp soy sauce, 1 1/2 tbsp sesame oil, garlic, ginger, half of the sliced spring onion and chicken stock powder. Stir well

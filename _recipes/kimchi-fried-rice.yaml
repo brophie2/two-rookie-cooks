@@ -3,34 +3,35 @@ excerpt: It's a delicious recipe that uses ingredients you probably already have
 coverImage: /assets/recipe/kimchi-fried-rice/cover.jpg
 date: 2023-08-28
 ogImage: /assets/recipe/kimchi-fried-rice/cover.jpg
-ingredients:
-  - name: spam
-    quantity:
-      amount: 170
-      unit: g
-  - name: kimchi
-    quantity:
-      amount: 2
-      unit: heaped tbsp
-    notes: (roughly chopped or to taste)
-  - name: gochujang
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: eggs
-    quantity:
-      amount: 2
-  - name: brown onion
-    quantity:
-      amount: 1
-  - name: sesame oil
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: Spring onions
-  - name: Cooked rice
-  - name: Sesame seeds 
-    notes: (to garnish)
+ingredientLists:
+  - ingredients:
+    - name: spam
+      quantity:
+        amount: 170
+        unit: g
+    - name: kimchi
+      quantity:
+        amount: 2
+        unit: heaped tbsp
+      notes: (roughly chopped or to taste)
+    - name: gochujang
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: eggs
+      quantity:
+        amount: 2
+    - name: brown onion
+      quantity:
+        amount: 1
+    - name: sesame oil
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: Spring onions
+    - name: Cooked rice
+    - name: Sesame seeds 
+      notes: (to garnish)
 method:
   - Dice spam and brown onion, and thinly slice spring onion
   - Fry the spam until nicely browned before adding in the brown onion and some of the spring onions

@@ -6,10 +6,15 @@ interface Recipe {
   ogImage: string;
   excerpt: string;
   stroy: string;
-  ingredients: Ingredient[];
+  ingredientLists: IngredientList[];
   method: string[];
   content: string;
   serves: string;
+}
+
+export interface IngredientList {
+  title?: string; 
+  ingredients: Ingredient[]
 }
 
 export interface Ingredient {

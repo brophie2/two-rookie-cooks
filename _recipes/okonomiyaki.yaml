@@ -3,49 +3,50 @@ excerpt: We LOVE okonomiyaki and wanted to try making it at home.
 coverImage: /assets/recipe/okonomiyaki/cover.jpg
 date: 2023-08-09
 ogImage: /assets/recipe/okonomiyaki/cover.jpg
-ingredients:
-  - name: eggs
-    quantity:
-      amount: 4
-  - name: all purpose flour
-    quantity:
-      amount: 1
-      unit: cup
-  - name: cabbage
-    quantity:
-      amount: 1/2
-    notes: (thinly sliced)
-  - name: baking powder
-    quantity:
-      amount: 1
-      unit: pinch of
-  - name: dashi
-    quantity:
-      amount: 3/4
-      unit: cup
-    notes: (we usually mix 1 tbsp of dashi powder with 3/4 cup water)
-  - name: pork
-    quantity:
-      amount: 4
-      unit: slices of
-    notes: (or another topping of your choice)
-  - name: hoisin sauce
-    quantity:
-      amount: 1
-      unit: tsp
-  - name: smokey BBQ sauce
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: soy sauce
-    quantity:
-      amount: 2
-      unit: tsp
-  - name: Ginger powder
-  - name: Salt
-  - name: Mayo
-  - name: Furikake 
-    notes: (optional, bonus points if it has seaweed and bonito flakes)
+ingredientLists:
+  - ingredients:
+    - name: eggs
+      quantity:
+        amount: 4
+    - name: all purpose flour
+      quantity:
+        amount: 1
+        unit: cup
+    - name: cabbage
+      quantity:
+        amount: 1/2
+      notes: (thinly sliced)
+    - name: baking powder
+      quantity:
+        amount: 1
+        unit: pinch of
+    - name: dashi
+      quantity:
+        amount: 3/4
+        unit: cup
+      notes: (we usually mix 1 tbsp of dashi powder with 3/4 cup water)
+    - name: pork
+      quantity:
+        amount: 4
+        unit: slices of
+      notes: (or another topping of your choice)
+    - name: hoisin sauce
+      quantity:
+        amount: 1
+        unit: tsp
+    - name: smokey BBQ sauce
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: soy sauce
+      quantity:
+        amount: 2
+        unit: tsp
+    - name: Ginger powder
+    - name: Salt
+    - name: Mayo
+    - name: Furikake 
+      notes: (optional, bonus points if it has seaweed and bonito flakes)
 method:
   - Mix the flour with the baking powder and salt
   - Add dashi and eggs to the flour mixture and whisk well

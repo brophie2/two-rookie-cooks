@@ -3,13 +3,14 @@ excerpt: Another brilliant use of that sundried tomato pesto is to pair it with 
 coverImage: /assets/recipe/pesto-pasta/cover.jpg
 date: 2023-08-16
 ogImage: /assets/recipe/pesto-pasta/cover.jpg
-ingredients:
-  - name: sundried tomato pesto
-    quantity:
-      amount: 1/3
-      unit: cup
-    notes: (or as much as you want!)
-  - name: Pasta of your choice
+ingredientLists:
+  - ingredients:
+    - name: sundried tomato pesto
+      quantity:
+        amount: 1/3
+        unit: cup
+      notes: (or as much as you want!)
+    - name: Pasta of your choice
 method:
   - Cook the pasta
   - Once cooked, mix the pasta and pesto really well. And yes, it really is that simple

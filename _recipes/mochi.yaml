@@ -6,22 +6,23 @@ excerpt: |
 coverImage: /assets/recipe/mochi/cover.jpg
 date: 2023-11-06
 ogImage: /assets/recipe/mochi/cover.jpg
-ingredients:
-  - name: glutinous rice flour
-    quantity: 
-      amount: 1
-      unit: cup
-  - name: warm water
-    quantity: 
-      amount: 1
-      unit: cup
-  - name: white sugar
-    quantity: 
-      amount: 1/3
-      unit: cup
-  - name: Anko paste
-    notes: '(red bean paste)'
-  - name: Corn flour
+ingredientLists:
+  - ingredients:
+    - name: glutinous rice flour
+      quantity: 
+        amount: 1
+        unit: cup
+    - name: warm water
+      quantity: 
+        amount: 1
+        unit: cup
+    - name: white sugar
+      quantity: 
+        amount: 1/3
+        unit: cup
+    - name: Anko paste
+      notes: '(red bean paste)'
+    - name: Corn flour
 serves: 
   Makes around 16 mochi
 method:

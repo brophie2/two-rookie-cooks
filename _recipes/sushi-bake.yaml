@@ -3,29 +3,30 @@ excerpt: We like to utilise our muffin tray because it cooks so much quicker and
 coverImage: /assets/recipe/sushi-bake/cover.jpg
 date: 2023-10-05
 ogImage: /assets/recipe/sushi-bake/cover.jpg
-ingredients:
-  - name: salmon fillets
-    quantity:
-      amount: 150-200
-      unit: g
-    notes: (about 1-2 fillets)
-  - name: cooked sushi rice
-    quantity:
-      amount: 1
-      unit: cup
-    notes: (seasoned with rice vinegar)
-  - name: nori
-    quantity:
-      amount: 3
-      unit: sheets of 
-  - name: spicy mayo
-    quantity:
-      amount: 1
-      unit: heaped tbsp of
-    notes: (we did 1/3 tbsp gochujang mixed with mayo)
-  - name: Kewpie mayo 
-    notes: (or more spicy mayo), to serve
-  - name: Furikake
+ingredientLists:
+  - ingredients:
+    - name: salmon fillets
+      quantity:
+        amount: 150-200
+        unit: g
+      notes: (about 1-2 fillets)
+    - name: cooked sushi rice
+      quantity:
+        amount: 1
+        unit: cup
+      notes: (seasoned with rice vinegar)
+    - name: nori
+      quantity:
+        amount: 3
+        unit: sheets of 
+    - name: spicy mayo
+      quantity:
+        amount: 1
+        unit: heaped tbsp of
+      notes: (we did 1/3 tbsp gochujang mixed with mayo)
+    - name: Kewpie mayo 
+      notes: (or more spicy mayo), to serve
+    - name: Furikake
 method:
   - Preheat oven to 180 degrees
   - Cut salmon into small cubes

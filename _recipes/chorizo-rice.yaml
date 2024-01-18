@@ -3,38 +3,39 @@ excerpt: One pan dinner in under 25 minutes? Say less.
 coverImage: /assets/recipe/chorizo-rice/cover.jpg
 date: 2023-09-30
 ogImage: /assets/recipe/chorizo-rice/cover.jpg
-ingredients:
-  - name: chorizo
-    quantity:
-      amount: 250
-      unit: g
-  - name: capsicum
-    quantity:
-      amount: 1/2
-  - name: brown onion
-    quantity:
-      amount: 1/2
-  - name: garlic cloves
-    quantity:
-      amount: 3
-  - name: rice
-    quantity: 
-      amount: 1
-      unit: cup
-    notes: (uncooked)
-  - name: tomato paste
-    quantity:
-      amount: 2
-      unit: tbsp
-  - name: paprika powder
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: stock
-    quantity:
-      amount: 1
-      unit: cup
-    notes: (1 cup of water with 1 tbsp of stock powder or as directed)
+ingredientLists:
+  - ingredients:
+    - name: chorizo
+      quantity:
+        amount: 250
+        unit: g
+    - name: capsicum
+      quantity:
+        amount: 1/2
+    - name: brown onion
+      quantity:
+        amount: 1/2
+    - name: garlic cloves
+      quantity:
+        amount: 3
+    - name: rice
+      quantity: 
+        amount: 1
+        unit: cup
+      notes: (uncooked)
+    - name: tomato paste
+      quantity:
+        amount: 2
+        unit: tbsp
+    - name: paprika powder
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: stock
+      quantity:
+        amount: 1
+        unit: cup
+      notes: (1 cup of water with 1 tbsp of stock powder or as directed)
 method:
   - Dice the onions and capsicum, and finely mince the garlic
   - Either slice the chorizo or take it out of its casing, and panfry until it is nicely browned

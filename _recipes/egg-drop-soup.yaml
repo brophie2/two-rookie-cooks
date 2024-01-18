@@ -3,26 +3,27 @@ excerpt: Tofu is honestly so versatile.  It's an awesome vessel for flavour, so 
 coverImage: /assets/recipe/egg-drop-soup/cover.jpg
 date: 2023-12-15
 ogImage: /assets/recipe/egg-drop-soup/cover.jpg
-ingredients:
-  - name: firm tofu
-    quantity:
-      amount: 100
-      unit: g
-  - name: eggs
-    quantity:
-      amount: 3
-  - name: water
-    quantity:
-      amount: 1
-      unit: L
-  - name: stock powder
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: corn starch
-    quantity:
-      amount: 1
-      unit: tbsp
+ingredientLists:
+  - ingredients:
+    - name: firm tofu
+      quantity:
+        amount: 100
+        unit: g
+    - name: eggs
+      quantity:
+        amount: 3
+    - name: water
+      quantity:
+        amount: 1
+        unit: L
+    - name: stock powder
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: corn starch
+      quantity:
+        amount: 1
+        unit: tbsp
 method:
   - Bring water to a boil
   - Finely grate tofu and beat eggs in a bowl

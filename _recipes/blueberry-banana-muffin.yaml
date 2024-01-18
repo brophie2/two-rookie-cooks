@@ -3,45 +3,46 @@ excerpt: Indulge in the delightful blend of sweet blueberries and ripe bananas b
 coverImage: /assets/recipe/blueberry-banana-muffin/cover.jpg
 date: 2023-12-06
 ogImage: /assets/recipe/blueberry-banana-muffin/cover.jpg
-ingredients:
-  - name: bananas
-    quantity:
-      amount: 2-3
-    notes: (mashed)
-  - name: greek yoghurt
-    quantity:
-      amount: 1/2
-  - name: egg
-    quantity:
-      amount: 1
-  - name: olive oil
-    quantity:
-      amount: 3
-      unit: tbsp
-  - name: vanilla extract
-    quantity:
-      amount: 1
-      unit: tsp
-  - name: cinnamon powder
-    quantity:
-      amount: 1
-      unit: tsp
-  - name: baking soda
-    quantity:
-      amount: 1
-      unit: tsp
-  - name: brown sugar
-    quantity:
-      amount: 1/3
-      unit: cup
-  - name: quick oats
-    quantity:
-      amount: 1
-      unit: cup
-  - name: plain flour
-    quantity:
-      amount: 1
-      unit: cup
+ingredientLists:
+  - ingredients:
+    - name: bananas
+      quantity:
+        amount: 2-3
+      notes: (mashed)
+    - name: greek yoghurt
+      quantity:
+        amount: 1/2
+    - name: egg
+      quantity:
+        amount: 1
+    - name: olive oil
+      quantity:
+        amount: 3
+        unit: tbsp
+    - name: vanilla extract
+      quantity:
+        amount: 1
+        unit: tsp
+    - name: cinnamon powder
+      quantity:
+        amount: 1
+        unit: tsp
+    - name: baking soda
+      quantity:
+        amount: 1
+        unit: tsp
+    - name: brown sugar
+      quantity:
+        amount: 1/3
+        unit: cup
+    - name: quick oats
+      quantity:
+        amount: 1
+        unit: cup
+    - name: plain flour
+      quantity:
+        amount: 1
+        unit: cup
 method:
   - Preheat the oven to 180 degrees celsius.
   - Combine the mashed bananas, egg, yoghurt, oil, vanilla extract and cinnamon in a bowl.

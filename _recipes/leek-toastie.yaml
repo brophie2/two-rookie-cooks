@@ -3,23 +3,24 @@ excerpt: If I had to eat 1 food for the rest of my life, a cheese toastie would 
 coverImage: /assets/recipe/leek-toastie/cover.jpg
 date: 2023-11-12
 ogImage: /assets/recipe/leek-toastie/cover.jpg
-ingredients:
-  - name: bread
-    quantity:
-      amount: 2
-      unit: slices of
-  - name: leek
-    quantity:
-      amount: 1/3
-      unit: of a 
-  - name: grated cheese
-    quantity:
-      amount: 1/3
-      unit: cup
-  - name: butter
-    quantity:
-      amount: 1
-      unit: tbsp
+ingredientLists:
+  - ingredients:
+    - name: bread
+      quantity:
+        amount: 2
+        unit: slices of
+    - name: leek
+      quantity:
+        amount: 1/3
+        unit: of a 
+    - name: grated cheese
+      quantity:
+        amount: 1/3
+        unit: cup
+    - name: butter
+      quantity:
+        amount: 1
+        unit: tbsp
 method:
   - Thinly slice leek
   - Cook the leek in a frying pan until it is soft and remove from the pan

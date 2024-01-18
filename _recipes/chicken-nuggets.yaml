@@ -3,20 +3,21 @@ excerpt: This is a slight twist on a classic.
 coverImage: /assets/recipe/chicken-nuggets/cover.jpg
 date: 2023-11-16
 ogImage: /assets/recipe/chicken-nuggets/cover.jpg
-ingredients:
-  - name: chicken mince
-    quantity:
-      amount: 250
-      unit: g
-  - name: five spice
-    quantity:
-      amount: 1
-      unit: tsp
-  - name: bread crumbs
-    quantity:
-      amount: 1/2
-      unit: cup
-  - name: Salt
+ingredientLists:
+  - ingredients:
+    - name: chicken mince
+      quantity:
+        amount: 250
+        unit: g
+    - name: five spice
+      quantity:
+        amount: 1
+        unit: tsp
+    - name: bread crumbs
+      quantity:
+        amount: 1/2
+        unit: cup
+    - name: Salt
 method:
   - Combine chicken mince, five spice and salt to taste in a bowl
   - Take around 1 tbsp of mixture and shape into a chicken nugget

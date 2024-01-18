@@ -3,11 +3,12 @@ excerpt: You know that feeling when you are sitting on a secret and you are not 
 coverImage: /assets/recipe/air-fried-tteokboki/cover.png
 date: 2023-10-20
 ogImage: /assets/recipe/air-fried-tteokboki/cover.png
-ingredients:
-  - name: Tteokboki
-    quantity:
-      amount: 12-16
-  - name: Oil
+ingredientLists:
+  - ingredients:
+    - name: Tteokboki
+      quantity:
+        amount: 12-16
+    - name: Oil
 method:
   - Coat tteokboki with oil and put it into the air fryer at 190 degrees celsius for
     around 10-15 minutes

@@ -1,4 +1,4 @@
-import DateFormatter from "./date-formatter";
+import DateFormatter from "../common/date-formatter";
 import CoverImage from "./cover-image";
 import Link from "next/link";
 
@@ -12,7 +12,7 @@ type Props = {
 
 const HeroRecipe = ({ title, coverImage, date, excerpt, slug }: Props) => {
   return (
-    <div className="md:grid md:grid-cols-2 mb-20">
+    <div className="md:grid md:grid-cols-2 mb-20 ">
       <div className="mb-8 md:mb-16 ">
         <CoverImage title={title} src={coverImage} slug={slug} />
       </div>

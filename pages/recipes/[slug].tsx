@@ -1,12 +1,12 @@
 import ErrorPage from "next/error";
 import Head from "next/head";
 import { useRouter } from "next/router";
-import Container from "../../components/container";
-import Header from "../../components/header";
-import Layout from "../../components/layout";
-import RecipeBody from "../../components/recipe-body";
-import RecipeHeader from "../../components/recipe-header";
-import RecipeTitle from "../../components/recipe-title";
+import Container from "../../components/common/container";
+import Header from "../../components/common/header";
+import Layout from "../../components/common/layout";
+import RecipeBody from "../../components/recipe/recipe-body";
+import RecipeHeader from "../../components/recipe/recipe-header";
+import RecipeTitle from "../../components/recipe/recipe-title";
 import { getAllRecipes, getRecipeBySlug } from "../../lib/api";
 import Recipe from "@/interfaces/recipes";
 import { useEffect } from "react";
@@ -68,7 +68,7 @@ export async function getStaticProps({ params }: Params) {
     "content",
     "ogImage",
     "coverImage",
-    "ingredients",
+    "ingredientLists",
     "excerpt",
     "method",
     "serves"

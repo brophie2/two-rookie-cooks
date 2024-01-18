@@ -3,56 +3,57 @@ excerpt: This is one of our go-to's. It works perfectly for meal-prepping and is
 coverImage: /assets/recipe/taco-bowl/cover.jpg
 date: 2023-07-31
 ogImage: /assets/recipe/taco-bowl/cover.jpg
-ingredients:
-  - name: beef mince
-    quantity:
-      amount: 500
-      unit: g
-  - name: cooked rice
-    quantity:
-      amount: 2
-      unit: cups
-  - name: tortilla wraps
-    quantity:
-      amount: 2
-  - name: tomatoes
-    quantity:
-      amount: 2
-  - name: avocados
-    quantity:
-      amount: 2
-  - name: corn
-    quantity:
-      amount: 1/2
-      unit: cup
-    notes: (if you are sing frozen corn, quickly microwave if to defrost)
-  - name: garlic
-    quantity:
-      amount: 2
-      unit: cloves of
-  - name: brown onion
-    quantity:
-      amount: 1/2
-  - name: red onion
-    quantity:
-      amount: 1
-  - name: lime juice.
-    quantity:
-      amount: 5
-      unit: tbsp
-    notes: (you can also substitute for lemon juice)
-  - name: chipotle seasoning
-    quantity:
-      amount: 1
-      unit: tsp
-  - name: Salt 
-  - name: Pepper
-  - name: Garlic powder
-  - name: Onion powder
-  - name: Sour cream 
-    notes: (for serving, so as much or as little as you like)
-  - name: Grated cheese 
-    notes: (for serving, so as much or as little as you like)
+ingredientLists:
+  - ingredients:
+    - name: beef mince
+      quantity:
+        amount: 500
+        unit: g
+    - name: cooked rice
+      quantity:
+        amount: 2
+        unit: cups
+    - name: tortilla wraps
+      quantity:
+        amount: 2
+    - name: tomatoes
+      quantity:
+        amount: 2
+    - name: avocados
+      quantity:
+        amount: 2
+    - name: corn
+      quantity:
+        amount: 1/2
+        unit: cup
+      notes: (if you are sing frozen corn, quickly microwave if to defrost)
+    - name: garlic
+      quantity:
+        amount: 2
+        unit: cloves of
+    - name: brown onion
+      quantity:
+        amount: 1/2
+    - name: red onion
+      quantity:
+        amount: 1
+    - name: lime juice.
+      quantity:
+        amount: 5
+        unit: tbsp
+      notes: (you can also substitute for lemon juice)
+    - name: chipotle seasoning
+      quantity:
+        amount: 1
+        unit: tsp
+    - name: Salt 
+    - name: Pepper
+    - name: Garlic powder
+    - name: Onion powder
+    - name: Sour cream 
+      notes: (for serving, so as much or as little as you like)
+    - name: Grated cheese 
+      notes: (for serving, so as much or as little as you like)
 method:
   - Wash the rice and start cooking it
   - Finely dice your white onion and garlic

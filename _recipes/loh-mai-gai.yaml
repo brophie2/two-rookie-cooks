@@ -3,36 +3,37 @@ excerpt: This is our version of loh mai gai, which is chicken and shiitake mushr
 coverImage: /assets/recipe/loh-mai-gai/cover.jpg
 date: 2023-07-27
 ogImage: /assets/recipe/loh-mai-gai/cover.jpg
-ingredients:
-  - name: sticky rice
-    quantity:
-      amount: 2
-      unit: cups
-  - name: chicken thighs
-    quantity:
-      amount: 4
-  - name: canned shiitake mushrooms
-    quantity:
-      amount: 425
-      unit: g
-    notes: (you can also use dried shiitake mushrooms, you will just need to soak them in hot water first)
-  - name: spring onion
-    quantity:
-      amount: 1
-  - name: soy sauce
-    quantity:
-      amount: 4
-      unit: tbsp
-  - name: sesame oil
-    quantity:
-      amount: 2
-      unit: tbsp
-  - name: mirin
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: Garlic and ginger powder
-    notes: to taste
+ingredientLists:
+  - ingredients:
+    - name: sticky rice
+      quantity:
+        amount: 2
+        unit: cups
+    - name: chicken thighs
+      quantity:
+        amount: 4
+    - name: canned shiitake mushrooms
+      quantity:
+        amount: 425
+        unit: g
+      notes: (you can also use dried shiitake mushrooms, you will just need to soak them in hot water first)
+    - name: spring onion
+      quantity:
+        amount: 1
+    - name: soy sauce
+      quantity:
+        amount: 4
+        unit: tbsp
+    - name: sesame oil
+      quantity:
+        amount: 2
+        unit: tbsp
+    - name: mirin
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: Garlic and ginger powder
+      notes: to taste
 method:
   - Cut the chicken in 1 inch cubes
   - Put the chicken in a bowl with 2 tbsp of soy sauce, mirin, garlic and ginger powder. Marinate in the fridge for 30-60 minutes

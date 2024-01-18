@@ -1,5 +1,5 @@
-import DateFormatter from './date-formatter'
-import CoverImage from './cover-image'
+import DateFormatter from '../common/date-formatter'
+import CoverImage from '../home/cover-image'
 import RecipeTitle from './recipe-title'
 
 type Props = {

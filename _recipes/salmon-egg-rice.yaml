@@ -3,36 +3,37 @@ excerpt: It's time for another easy weeknight dinner.
 coverImage: /assets/recipe/salmon-egg-rice/cover.jpg
 date: 2023-10-30
 ogImage: /assets/recipe/salmon-egg-rice/cover.jpg
-ingredients:
-  - name: salmon fillets
-    quantity:
-      amount: 2
-  - name: eggs
-    quantity:
-      amount: 2
-  - name: soy sauce
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: mirin
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: dashi powder
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: brown onion
-    quantity:
-      amount: 1
-      unit: small
-  - name: corn
-    quantity:
-      amount: 4
-      unit: tbsp
-  - name: Rice
-  - name: Furikake
-    notes: '(to serve)'
+ingredientLists:
+  - ingredients:
+    - name: salmon fillets
+      quantity:
+        amount: 2
+    - name: eggs
+      quantity:
+        amount: 2
+    - name: soy sauce
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: mirin
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: dashi powder
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: brown onion
+      quantity:
+        amount: 1
+        unit: small
+    - name: corn
+      quantity:
+        amount: 4
+        unit: tbsp
+    - name: Rice
+    - name: Furikake
+      notes: '(to serve)'
 method:
   - Thinly slice the brown onion
   - Wash rice and add it to the rice cooker with the appropriate amount of water

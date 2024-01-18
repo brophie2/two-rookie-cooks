@@ -3,47 +3,48 @@ excerpt: Sick of making banana bread?
 coverImage: /assets/recipe/banana-cinnamon-scrolls/cover.jpg
 date: 2023-10-13
 ogImage: /assets/recipe/banana-cinnamon-scrolls/cover.jpg
-ingredients:
-  - name: butter
-    quantity:
-      amount: 70
-      unit: g
-    notes: (40g for the dough, 30g for the filling)
-  - name: milk
-    quantity:
-      amount: 1
-      unit: cup
-    notes: (can be any milk, we used soy milk)
-  - name: yeast
-    quantity:
-      amount: 2
-      unit: tsp
-  - name: white sugar
-    quantity:
-      amount: 4
-      unit: tbsp 
-    notes: (2 tbsp for the dough, 2 tbsp for the filling)
-  - name: brown sugar
-    quantity:
-      amount: 2
-      unit: tbsp
-  - name: bananas
-    quantity:
-      amount: 3-5
-      unit: medium
-    notes: (2-3 bananas for the dough, 1-2 for the filling)
-  - name: all purpose flour
-    quantity:
-      amount: 3
-      unit: cups
-  - name: salt
-    quantity:
-      amount: 1
-      unit: pinch
-  - name: ground cinnamon
-    quantity:
-      amount: 1-2
-      unit: tbsp
+ingredientLists:
+  - ingredients:
+    - name: butter
+      quantity:
+        amount: 70
+        unit: g
+      notes: (40g for the dough, 30g for the filling)
+    - name: milk
+      quantity:
+        amount: 1
+        unit: cup
+      notes: (can be any milk, we used soy milk)
+    - name: yeast
+      quantity:
+        amount: 2
+        unit: tsp
+    - name: white sugar
+      quantity:
+        amount: 4
+        unit: tbsp 
+      notes: (2 tbsp for the dough, 2 tbsp for the filling)
+    - name: brown sugar
+      quantity:
+        amount: 2
+        unit: tbsp
+    - name: bananas
+      quantity:
+        amount: 3-5
+        unit: medium
+      notes: (2-3 bananas for the dough, 1-2 for the filling)
+    - name: all purpose flour
+      quantity:
+        amount: 3
+        unit: cups
+    - name: salt
+      quantity:
+        amount: 1
+        unit: pinch
+    - name: ground cinnamon
+      quantity:
+        amount: 1-2
+        unit: tbsp
 method:
   - Microwave the milk and butter until the butter is completely melted, and let it cool so that it is not too hot and kills the yeast (if you can comfortably leave your finger in the mixture, then it is probably ok)
   - Add the yeast and let it sit for around 10 minutes. The yeast will be activated when you see bubbles forming

@@ -3,20 +3,21 @@ excerpt: We saw a few recipes online and it seemed quite straightforward to make
 coverImage: /assets/recipe/tortilla/cover.jpg
 date: 2023-09-13
 ogImage: /assets/recipe/tortilla/cover.jpg
-ingredients:
-  - name: all purpose flour
-    quantity:
-      amount: 1
-      unit: cup
-  - name: water 
-    quantity: 
-      amount: 1/3
-      unit: cup
-  - name: olive oil
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: Salt
+ingredientLists:
+  - ingredients:
+    - name: all purpose flour
+      quantity:
+        amount: 1
+        unit: cup
+    - name: water 
+      quantity: 
+        amount: 1/3
+        unit: cup
+    - name: olive oil
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: Salt
 method:
   - Mix all 4 ingredients in a bowl to form a dough
   - Divide the dough into 4 equal portions

@@ -3,35 +3,36 @@ excerpt: This is one of our weeknight staples and it should be one of yours too!
 coverImage: /assets/recipe/oyakodon/cover.jpg
 date: 2023-08-12
 ogImage: /assets/recipe/oyakodon/cover.jpg
-ingredients:
-  - name: chicken thighs
-    quantity:
-      amount: 3
-  - name: eggs
-    quantity:
-      amount: 4
-  - name: brown onion
-    quantity:
-      amount: 1
-  - name: sake
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: dashi
-    quantity:
-      amount: 1/2
-      unit: cup
-    notes: (we mixed 1 tbsp dashi powder with 1/2 cup water)
-  - name: soy sauce
-    quantity:
-      amount: 2
-      unit: tbsp
-  - name: mirin
-    quantity:
-      amount: 2
-      unit: tbsp
-  - name: Cooked rice
-  - name: Furikake
+ingredientLists:
+  - ingredients:
+    - name: chicken thighs
+      quantity:
+        amount: 3
+    - name: eggs
+      quantity:
+        amount: 4
+    - name: brown onion
+      quantity:
+        amount: 1
+    - name: sake
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: dashi
+      quantity:
+        amount: 1/2
+        unit: cup
+      notes: (we mixed 1 tbsp dashi powder with 1/2 cup water)
+    - name: soy sauce
+      quantity:
+        amount: 2
+        unit: tbsp
+    - name: mirin
+      quantity:
+        amount: 2
+        unit: tbsp
+    - name: Cooked rice
+    - name: Furikake
 method:
   - Cut the chicken into cubes and marinate with the sake
   - Slice the onion

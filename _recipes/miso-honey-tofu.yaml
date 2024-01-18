@@ -3,36 +3,37 @@ excerpt: Super simple and super tasty - enough said!
 coverImage: /assets/recipe/miso-honey-tofu/cover.jpg
 date: 2023-09-08
 ogImage: /assets/recipe/miso-honey-tofu/cover.jpg
-ingredients:
-  - name: firm tofu
-    quantity:
-      amount: 500
-      unit: g
-  - name: corn starch
-    quantity:
-      amount: 2
-      unit: tbsp
-  - name: miso paste
-    quantity:
-      amount: 2
-      unit: tbsp
-  - name: honey
-    quantity:
-      amount: 1/2
-      unit: tbsp
-  - name: garlic cloves
-    quantity:
-      amount: 2
-  - name: spring onion
-    quantity:
-      amount: 1
-  - name: water
-    quantity:
-      amount: 4
-      unit: tbsp
-  - name: Cooking oil
-  - name: Sesame seeds 
-    notes: (optionally, to garnish)
+ingredientLists:
+  - ingredients:
+    - name: firm tofu
+      quantity:
+        amount: 500
+        unit: g
+    - name: corn starch
+      quantity:
+        amount: 2
+        unit: tbsp
+    - name: miso paste
+      quantity:
+        amount: 2
+        unit: tbsp
+    - name: honey
+      quantity:
+        amount: 1/2
+        unit: tbsp
+    - name: garlic cloves
+      quantity:
+        amount: 2
+    - name: spring onion
+      quantity:
+        amount: 1
+    - name: water
+      quantity:
+        amount: 4
+        unit: tbsp
+    - name: Cooking oil
+    - name: Sesame seeds 
+      notes: (optionally, to garnish)
 method:
   - Cut the tofu in cubes
   - Coat the tofu with the corn starch

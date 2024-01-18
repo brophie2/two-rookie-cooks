@@ -3,21 +3,22 @@ excerpt: This is perfect to meal prep. Keeping it in the fridge for a couple of 
 coverImage: /assets/recipe/ramen-eggs/cover.jpg
 date: 2023-08-30
 ogImage: /assets/recipe/ramen-eggs/feature.jpg
-ingredients:
-  - name: soy sauce
-    quantity:
-      amount: 1/4
-      unit: cup
-  - name: mirin
-    quantity:
-      amount: 1/8
-      unit: cup
-  - name: water
-    quantity:
-      amount: 3/4
-      unit: cup
-  - name: Sesame seeds
-  - name: Cooked eggs
+ingredientLists:
+  - ingredients:
+    - name: soy sauce
+      quantity:
+        amount: 1/4
+        unit: cup
+    - name: mirin
+      quantity:
+        amount: 1/8
+        unit: cup
+    - name: water
+      quantity:
+        amount: 3/4
+        unit: cup
+    - name: Sesame seeds
+    - name: Cooked eggs
 method:
   - Combine the soy sauce, mirin, water and sesame seeds in a bowl or container. Make sure the bowl/container is large enough to accommodate the eggs as well
   - Gently lower the eggs into the marinate and refrigerate overnight

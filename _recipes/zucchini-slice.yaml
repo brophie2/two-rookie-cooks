@@ -3,34 +3,35 @@ excerpt: This quintessentially Australian dish somehow always finds its way to a
 coverImage: /assets/recipe/zucchini-slice/cover.jpg
 date: 2023-12-31
 ogImage: /assets/recipe/zucchini-slice/cover.jpg
-ingredients:
-  - name: zucchini 
-    quantity:
-      amount: 400
-      unit: g
-    notes: (about 1-2)
-  - name: bacon
-    quantity:
-      amount: 4
-      unit: slices of
-  - name: brown onion
-    quantity:
-      amount: 1
-  - name: grated cheese
-    quantity:
-      amount: 1
-      unit: cup
-  - name: all purpose flour
-    quantity:
-      amount: 1
-      unit: cup
-  - name: baking powder
-    quantity:
-      amount: 1
-      unit: tsp
-  - name: eggs
-    quantity:
-      amount: 5
+ingredientLists:
+  - ingredients:
+    - name: zucchini 
+      quantity:
+        amount: 400
+        unit: g
+      notes: (about 1-2)
+    - name: bacon
+      quantity:
+        amount: 4
+        unit: slices of
+    - name: brown onion
+      quantity:
+        amount: 1
+    - name: grated cheese
+      quantity:
+        amount: 1
+        unit: cup
+    - name: all purpose flour
+      quantity:
+        amount: 1
+        unit: cup
+    - name: baking powder
+      quantity:
+        amount: 1
+        unit: tsp
+    - name: eggs
+      quantity:
+        amount: 5
 method:
   - Preheat oven to 170 degrees celsius
   - Finely grate zucchini and squeeze as much water out of it as you can

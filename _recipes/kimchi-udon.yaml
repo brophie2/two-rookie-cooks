@@ -3,31 +3,32 @@ excerpt: It's creamy, spicy, cheesy goodness that comes together in under 15 min
 coverImage: /assets/recipe/kimchi-udon/cover.jpg
 date: 2023-08-05
 ogImage: /assets/recipe/kimchi-udon/cover.jpg
-ingredients:
-  - name: thickened cream
-    quantity:
-      amount: 150
-      unit: ml
-  - name: brown onion
-    quantity:
-      amount: 1
-  - name: gochujang
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: bacon
-    quantity:
-      amount: 4
-      unit: slices of
-  - name: grated cheese
-    quantity:
-      amount: 2
-      unit: tbsp
-  - name: kimchi
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: Cooked udon
+ingredientLists:
+  - ingredients:
+    - name: thickened cream
+      quantity:
+        amount: 150
+        unit: ml
+    - name: brown onion
+      quantity:
+        amount: 1
+    - name: gochujang
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: bacon
+      quantity:
+        amount: 4
+        unit: slices of
+    - name: grated cheese
+      quantity:
+        amount: 2
+        unit: tbsp
+    - name: kimchi
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: Cooked udon
 method:
   - Boil water for the udon
   - Slice and panfry the bacon

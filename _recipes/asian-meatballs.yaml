@@ -3,25 +3,26 @@ excerpt: Deciding what to name your food is deceptively difficult. You want some
 coverImage: /assets/recipe/asian-meatballs/cover.jpg
 date: 2023-11-29
 ogImage: /assets/recipe/asian-meatballs/cover.jpg
-ingredients:
-  - name: chicken mince
-    quantity:
-      amount: 500
-      unit: g
-  - name: firm tofu
-    quantity:
-      amount: 300
-      unit: g
-  - name: fish sauce
-    quantity:
-      amount: 3
-      unit: tbsp
-  - name: spring onion
-    quantity:
-      amount: 1
-  - name: Garlic powder 
-  - name: Ginger powder
-  - name: Onion powder
+ingredientLists:
+  - ingredients:
+    - name: chicken mince
+      quantity:
+        amount: 500
+        unit: g
+    - name: firm tofu
+      quantity:
+        amount: 300
+        unit: g
+    - name: fish sauce
+      quantity:
+        amount: 3
+        unit: tbsp
+    - name: spring onion
+      quantity:
+        amount: 1
+    - name: Garlic powder 
+    - name: Ginger powder
+    - name: Onion powder
 method:
   - Add chicken mince to a large bowl
   - Crumble the firm tofu into the bowl

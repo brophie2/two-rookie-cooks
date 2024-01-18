@@ -3,32 +3,33 @@ excerpt: After mastering this dish, you won't ever need to go out to eat brunch!
 coverImage: /assets/recipe/creamy-miso-udon/cover.jpg
 date: 2023-10-03
 ogImage: /assets/recipe/creamy-miso-udon/cover.jpg
-ingredients:
-  - name: thickened cream
-    quantity:
-      amount: 100
-      unit: ml
-  - name: miso paste
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: cup mushrooms
-    quantity:
-      amount: 5-6
-  - name: brown onion
-    quantity:
-      amount: 1/2
-  - name: garlic clove
-    quantity:
-      amount: 1
-  - name: udon
-    quantity:
-      amount: 1
-      unit: serve of 
-  - name: Parmesan cheese
-    notes: (to serve)
-  - name: Furikake
-    notes: (to serve)
+ingredientLists:
+  - ingredients:
+    - name: thickened cream
+      quantity:
+        amount: 100
+        unit: ml
+    - name: miso paste
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: cup mushrooms
+      quantity:
+        amount: 5-6
+    - name: brown onion
+      quantity:
+        amount: 1/2
+    - name: garlic clove
+      quantity:
+        amount: 1
+    - name: udon
+      quantity:
+        amount: 1
+        unit: serve of 
+    - name: Parmesan cheese
+      notes: (to serve)
+    - name: Furikake
+      notes: (to serve)
 method:
   - Thinly slice the onion and finely mince the garlic clove
   - Pan fry the garlic and onions until fragrant

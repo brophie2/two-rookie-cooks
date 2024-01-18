@@ -3,24 +3,25 @@ excerpt: Have you ever tried to batter something with miso paste?
 coverImage: /assets/recipe/miso-fried-prawns/cover.jpg
 date: 2023-12-12
 ogImage: /assets/recipe/miso-fried-prawns/cover.jpg
-ingredients:
-  - name: prawns
-    quantity:
-      amount: 10
-  - name: bread crumbs
-    quantity:
-      amount: 1/2
-      unit: cup
-  - name: miso paste
-    quantity:
-      amount: 1
-      unit: tbsp 
-  - name: all purpose flour
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: Furikake and/or kewpie
-    notes: (to serve)
+ingredientLists:
+  - ingredients:
+    - name: prawns
+      quantity:
+        amount: 10
+    - name: bread crumbs
+      quantity:
+        amount: 1/2
+        unit: cup
+    - name: miso paste
+      quantity:
+        amount: 1
+        unit: tbsp 
+    - name: all purpose flour
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: Furikake and/or kewpie
+      notes: (to serve)
 method:
   - Dissolve miso paste in a few tbsp of water until it is runny in a bowl
   - Put bread crumbs in a bowl and put the flour in another bowl

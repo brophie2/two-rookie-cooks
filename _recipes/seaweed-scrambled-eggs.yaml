@@ -3,21 +3,22 @@ excerpt: Controversial opinion but I would take these seaweed scrambled eggs ove
 coverImage: /assets/recipe/seaweed-scrambled-eggs/cover.jpg
 date: 2024-01-03
 ogImage: /assets/recipe/seaweed-scrambled-eggs/cover.jpg
-ingredients:
-  - name: seaweed
-    quantity:
-      amount: 1
-      unit: g
-    notes: (approximately 1/2 a sheet)
-  - name: eggs
-    quantity:
-      amount: 2-3
-  - name: butter
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: Toast
-    notes: (optional, to serve)
+ingredientLists:
+  - ingredients:
+    - name: seaweed
+      quantity:
+        amount: 1
+        unit: g
+      notes: (approximately 1/2 a sheet)
+    - name: eggs
+      quantity:
+        amount: 2-3
+    - name: butter
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: Toast
+      notes: (optional, to serve)
 method:
   - Cut the seaweed into little strips
   - Beat the eggs

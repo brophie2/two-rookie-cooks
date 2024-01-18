@@ -3,29 +3,30 @@ excerpt: Let's make some pan fried rice paper rolls.
 coverImage: /assets/recipe/pan-fried-rice-paper-rolls/cover.jpg
 date: 2023-12-01
 ogImage: /assets/recipe/pan-fried-rice-paper-rolls/cover.jpg
-ingredients:
-  - name: cabbage
-    quantity:
-      amount: 1/8
-  - name: carrot
-    quantity:
-      amount: 1
-  - name: firm tofu
-    quantity:
-      amount: 100
-      unit: g
-  - name: black bean and garlic paste
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: spring onion
-    quantity:
-      amount: 1
-  - name: mushroom cups
-    quantity:
-      amount: 150
-      unit: g
-  - name: Rice paper
+ingredientLists:
+  - ingredients:
+    - name: cabbage
+      quantity:
+        amount: 1/8
+    - name: carrot
+      quantity:
+        amount: 1
+    - name: firm tofu
+      quantity:
+        amount: 100
+        unit: g
+    - name: black bean and garlic paste
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: spring onion
+      quantity:
+        amount: 1
+    - name: mushroom cups
+      quantity:
+        amount: 150
+        unit: g
+    - name: Rice paper
 method:
   - Thinly shred the cabbage and cut the carrot into thin matchsticks. Thinly slice the spring onion and cut the mushroom into small cubes
   - Crumble the tofu into a separate bowl

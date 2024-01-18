@@ -3,43 +3,44 @@ excerpt: This is literally the food embodiment of comfort. On a cold, rainy nigh
 coverImage: /assets/recipe/cauliflower-pasta/cover.jpg
 date: 2023-08-22
 ogImage: /assets/recipe/cauliflower-pasta/cover.jpg
-ingredients:
-  - name: cauliflower
-    quantity:
-      amount: 1
-      unit: cup
-    notes: (pre-cooked)
-  - name: bacon
-    quantity:
-      amount: 2
-      unit: rashers of
-  - name: bread crumbs
-    quantity:
-      amount: 1/3
-      unit: cup
-    notes: (we just crumbled up 1 slice of bread)
-  - name: butter
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: Pasta
-    notes: (we chose to use shell pasta)
-  - name: pasta water
-    quantity:
-      amount: 1
-      unit: cup
-  - name: grated cheese
-    quantity:
-      amount: 1/4
-      unit: cup
-  - name: dried herbs
-    quantity:
-      amount: 1
-      unit: tsp
-  - name: garlic powder
-    quantity:
-      amount: 1
-      unit: tsp
+ingredientLists:
+  - ingredients:
+    - name: cauliflower
+      quantity:
+        amount: 1
+        unit: cup
+      notes: (pre-cooked)
+    - name: bacon
+      quantity:
+        amount: 2
+        unit: rashers of
+    - name: bread crumbs
+      quantity:
+        amount: 1/3
+        unit: cup
+      notes: (we just crumbled up 1 slice of bread)
+    - name: butter
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: Pasta
+      notes: (we chose to use shell pasta)
+    - name: pasta water
+      quantity:
+        amount: 1
+        unit: cup
+    - name: grated cheese
+      quantity:
+        amount: 1/4
+        unit: cup
+    - name: dried herbs
+      quantity:
+        amount: 1
+        unit: tsp
+    - name: garlic powder
+      quantity:
+        amount: 1
+        unit: tsp
 method:
   - Cook your pasta according to the cooking instructions on the packet. Don't forget to reserve pasta water for the sauce
   - Thinly slice and pan fry the bacon until crispy. Once it is done, put the bacon aside, leaving the bacon grease in the frying pan

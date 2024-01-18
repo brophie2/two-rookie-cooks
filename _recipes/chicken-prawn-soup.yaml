@@ -3,25 +3,26 @@ excerpt: This recipe is reminiscent of Ipoh Hor Fun, which is a chicken and praw
 coverImage: /assets/recipe/chicken-prawn-soup/cover.jpg
 date: 2023-10-22
 ogImage: /assets/recipe/chicken-prawn-soup/cover.jpg
-ingredients:
-  - name: Prawn shells
-    notes: (at least 20 prawn shells, but the more the better)
-  - name: whole chicken
-    quantity:
-      amount: 1
-  - name: chicken stock
-    quantity:
-      amount: 1
-      unit: L
-    notes:  (we used around 1-2L of water with 1 tbsp chicken stock powder)
-  - name: water
-    quantity:
-      amount: 1-2
-      unit: L
-  - name: Salt
-    notes: to taste
-  - name: Noodles
-    notes: to serve
+ingredientLists:
+  - ingredients:
+    - name: Prawn shells
+      notes: (at least 20 prawn shells, but the more the better)
+    - name: whole chicken
+      quantity:
+        amount: 1
+    - name: chicken stock
+      quantity:
+        amount: 1
+        unit: L
+      notes:  (we used around 1-2L of water with 1 tbsp chicken stock powder)
+    - name: water
+      quantity:
+        amount: 1-2
+        unit: L
+    - name: Salt
+      notes: to taste
+    - name: Noodles
+      notes: to serve
 method:
   - Add oil and prawn shells to a large pot and fry the prawn shells until they have turned red 
   - Pour in the chicken stock and water and bring it to a boil 

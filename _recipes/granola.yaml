@@ -3,34 +3,35 @@ excerpt: This recipe is SO easy, you'll never go back to the store bought stuff!
 coverImage: /assets/recipe/granola/cover.jpg
 date: 2023-07-29
 ogImage: /assets/recipe/granola/cover.jpg
-ingredients:
-  - name: rolled oats
-    quantity:
-      amount: 4
-      unit: cups
-  - name: almonds
-    quantity:
-      amount: 1 1/2
-      unit: cups
-  - name: coconut flakes
-    quantity:
-      amount: 1/2
-      unit: cup
-  - name: honey
-    quantity:
-      amount: 1/2
-      unit: cup
-  - name: oil
-    quantity:
-      amount: 1/2
-      unit: cup
-    notes: (any oil, eg coconut oil, olive oil, vegetable oil, etc.)
-  - name: salt
-    quantity:
-      amount: 1
-      unit: pinch of
-  - name: Cinnamon
-    notes: to taste
+ingredientLists:
+  - ingredients:
+    - name: rolled oats
+      quantity:
+        amount: 4
+        unit: cups
+    - name: almonds
+      quantity:
+        amount: 1 1/2
+        unit: cups
+    - name: coconut flakes
+      quantity:
+        amount: 1/2
+        unit: cup
+    - name: honey
+      quantity:
+        amount: 1/2
+        unit: cup
+    - name: oil
+      quantity:
+        amount: 1/2
+        unit: cup
+      notes: (any oil, eg coconut oil, olive oil, vegetable oil, etc.)
+    - name: salt
+      quantity:
+        amount: 1
+        unit: pinch of
+    - name: Cinnamon
+      notes: to taste
 method:
   - Preheat the oven to 180 degrees
   - Add all dry ingredients (oats, almonds, coconut flakes, cinnamon, and salt) to a bowl. Combine well

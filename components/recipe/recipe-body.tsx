@@ -1,25 +1,31 @@
-import { Ingredient, Quantity } from "@/interfaces/recipes";
+import { IngredientList, Ingredient, Quantity } from "@/interfaces/recipes";
 
 type Props = {
   content: string;
   excerpt: string;
   method: string[];
-  ingredients: Ingredient[];
+  ingredientLists: IngredientList[];
   serves: string;
 };
 
-const RecipeBody = ({ content, excerpt, method, ingredients, serves }: Props) => {
+const RecipeBody = ({ content, excerpt, method, ingredientLists, serves }: Props) => {
   return (
     <div className="max-w-2xl mx-auto">
       <Paragraphs paragraphs={excerpt} />
       <Paragraphs paragraphs={content} />
       <p>{serves}</p>
-      <h3>Ingredients</h3>
-      <ul>
-        {ingredients.map((ingredient, i) => (
-          <li key={i}>{getIngredientText(ingredient)}</li>
-        ))}
-      </ul>
+      
+        {ingredientLists.map((ingredientList, i) => (
+        <div key={i}>
+          <h3>{ingredientList.title ?? "Ingredients"}</h3>
+          <ul>
+            {ingredientList.ingredients.map((ingredient, ii) => (
+                <li key={ii}>{getIngredientText(ingredient)}</li>
+              ))
+            }
+          </ul>
+        </div>
+      ))}
 
       <h3>Method</h3>
       <ol>

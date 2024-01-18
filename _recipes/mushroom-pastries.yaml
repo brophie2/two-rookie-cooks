@@ -3,27 +3,28 @@ excerpt: Do you also have a random sheet or 2 of puff pastry that has been sitti
 coverImage: /assets/recipe/mushroom-pastries/cover.jpg
 date: 2023-11-21
 ogImage: /assets/recipe/mushroom-pastries/cover.jpg
-ingredients:
-  - name: cup mushrooms
-    quantity:
-      amount: 100
-      unit: g
-  - name: grated cheese
-    quantity:
-      amount: 80
-      unit: g
-  - name: miso paste
-    quantity:
-      amount: 2
-      unit: tsp
-  - name: puff pastry
-    quantity:
-      amount: 1
-      unit: sheet of
-  - name: Kewpie mayo
-    notes: (to serve)
-  - name: Furikake
-    notes: (to serve)
+ingredientLists:
+  - ingredients:
+    - name: cup mushrooms
+      quantity:
+        amount: 100
+        unit: g
+    - name: grated cheese
+      quantity:
+        amount: 80
+        unit: g
+    - name: miso paste
+      quantity:
+        amount: 2
+        unit: tsp
+    - name: puff pastry
+      quantity:
+        amount: 1
+        unit: sheet of
+    - name: Kewpie mayo
+      notes: (to serve)
+    - name: Furikake
+      notes: (to serve)
 method:
   - Preheat oven to 160 degrees celsius
   - Thinly slice mushrooms and cut the puff pastry sheet into quarters

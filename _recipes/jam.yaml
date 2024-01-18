@@ -3,19 +3,20 @@ excerpt: This was our first time making jam. I always thought it would be a long
 coverImage: /assets/recipe/jam/cover.jpg
 date: 2023-09-02
 ogImage: /assets/recipe/jam/cover.jpg
-ingredients:
-  - name: frozen mixed berries
-    quantity:
-      amount: 3
-      unit: cups
-  - name: white sugar
-    quantity:
-      amount: 1
-      unit: cup
-  - name: lemon juice
-    quantity:
-      amount: 1
-      unit: tbsp
+ingredientLists:
+  - ingredients:
+    - name: frozen mixed berries
+      quantity:
+        amount: 3
+        unit: cups
+    - name: white sugar
+      quantity:
+        amount: 1
+        unit: cup
+    - name: lemon juice
+      quantity:
+        amount: 1
+        unit: tbsp
 method:
   - Put all ingredients into a pot on medium heat and stir
   - Check the jam every 5 minutes and give it a stir. You may also wish to squish the berries so that they cook faster and will help the finished product be smoother without requiring a blender

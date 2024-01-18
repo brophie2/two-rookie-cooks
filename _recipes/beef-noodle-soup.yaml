@@ -3,38 +3,39 @@ excerpt: This is the food embodiment of a warm hug and is perfect for a winter d
 coverImage: /assets/recipe/beef-noodle-soup/cover.jpg
 date: 2023-07-23
 ogImage: /assets/recipe/beef-noodle-soup/cover.jpg
-ingredients:
-  - name: beef chuck
-    quantity:
-      amount: 1
-      unit: kg
-  - name: spring onion
-    quantity:
-      amount: 4-5
-  - name: leek
-    quantity:
-      amount: 1
-  - name: soy sauce
-    quantity:
-      amount: 1/2
-      unit: cup
-  - name: black bean and garlic paste
-    quantity:
-      amount: 4
-      unit: tbsp
-  - name: garlic powder
-    quantity:
-      amount: 2
-      unit: tbsp
-  - name: five spice
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: ginger powder
-    quantity:
-      amount: 1
-      unit: tsp
-  - name: Noodles
+ingredientLists:
+  - ingredients:
+    - name: beef chuck
+      quantity:
+        amount: 1
+        unit: kg
+    - name: spring onion
+      quantity:
+        amount: 4-5
+    - name: leek
+      quantity:
+        amount: 1
+    - name: soy sauce
+      quantity:
+        amount: 1/2
+        unit: cup
+    - name: black bean and garlic paste
+      quantity:
+        amount: 4
+        unit: tbsp
+    - name: garlic powder
+      quantity:
+        amount: 2
+        unit: tbsp
+    - name: five spice
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: ginger powder
+      quantity:
+        amount: 1
+        unit: tsp
+    - name: Noodles
 method:
   -  Cut your beef chuck into 1 inch cubes
   - Blanch for around 10 minutes or until you see foam forming at the top

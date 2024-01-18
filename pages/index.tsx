@@ -1,9 +1,9 @@
-import Container from "../components/container";
-import MoreStories from "../components/more-stories";
-import HeroRecipe from "../components/hero-recipe";
-import Layout from "../components/layout";
+import Container from "../components/common/container";
+import MoreStories from "../components/home/more-stories";
+import HeroRecipe from "../components/home/hero-recipe";
+import Layout from "../components/common/layout";
 import { getAllRecipes } from "../lib/api";
-import Header from "@/components/header";
+import Header from "@/components/common/header";
 import Script from "next/script";
 import Recipe from "@/interfaces/recipes";
 import { useEffect } from "react";
@@ -16,7 +16,7 @@ export default function Index({ allRecipes }: Props) {
   const heroRecipe = allRecipes.find((recipe) => recipe.title == "Ramen Eggs");
   const moreRecipes = allRecipes.filter(
     (recipe) => recipe.title != "Ramen Eggs"
-  );
+  ).slice(0, 6);
 
   useEffect(() => {
     document.title = "Two Rookie Cooks";  

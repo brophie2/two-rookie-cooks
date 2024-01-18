@@ -3,17 +3,18 @@ excerpt: This idea came from a random craving we had (and also because we had 1 
 coverImage: /assets/recipe/shin-ramen-x-chapagetti/cover.jpg
 date: 2023-12-04
 ogImage: /assets/recipe/shin-ramen-x-chapagetti/cover.jpg
-ingredients:
-  - name: Shin ramen
-    quantity:
-      amount: 1
-      unit: packet of
-  - name: Chapagetti
-    quantity:
-      amount: 1
-      unit: packet of
-  - name: Fried egg and/or cucumber
-    notes: (optional, to serve)
+ingredientLists:
+  - ingredients:
+    - name: Shin ramen
+      quantity:
+        amount: 1
+        unit: packet of
+    - name: Chapagetti
+      quantity:
+        amount: 1
+        unit: packet of
+    - name: Fried egg and/or cucumber
+      notes: (optional, to serve)
 method:
   - Boil water.
   - Add both noodle cakes to the boiling water with the vegetable seasoning packets.

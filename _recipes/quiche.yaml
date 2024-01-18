@@ -3,35 +3,36 @@ excerpt: This is our take on a classic Quiche Lorraine with a couple of shortcut
 coverImage: /assets/recipe/quiche/cover.jpg
 date: 2023-09-23
 ogImage: /assets/recipe/quiche/cover.jpg
-ingredients:
-  - name: puff pastry
-    quantity:
-      amount: 4-5
-      unit: sheets of 
-  - name: eggs
-    quantity:
-      amount: 6
-  - name: milk
-    quantity:
-      amount: 1
-      unit: cup
-  - name: broccoli
-    quantity:
-      amount: 1
-      unit: cup of chopped
-  - name: grated cheese
-    quantity:
-      amount: 1/2
-      unit: cup
-  - name: brown onion
-    quantity:
-      amount: 1
-  - name: bacon
-    quantity:
-      amount: 6
-      unit: slices of
-  - name: Salt
-  - name: Pepper
+ingredientLists:
+  - ingredients:
+    - name: puff pastry
+      quantity:
+        amount: 4-5
+        unit: sheets of 
+    - name: eggs
+      quantity:
+        amount: 6
+    - name: milk
+      quantity:
+        amount: 1
+        unit: cup
+    - name: broccoli
+      quantity:
+        amount: 1
+        unit: cup of chopped
+    - name: grated cheese
+      quantity:
+        amount: 1/2
+        unit: cup
+    - name: brown onion
+      quantity:
+        amount: 1
+    - name: bacon
+      quantity:
+        amount: 6
+        unit: slices of
+    - name: Salt
+    - name: Pepper
 method:
   - Preheat the oven at 180 degrees celsius
   - Slice bacon into small pieces and pan-fry until crispy. Set aside to cool

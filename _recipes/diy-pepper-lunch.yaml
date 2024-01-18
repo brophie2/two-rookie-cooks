@@ -3,44 +3,45 @@ excerpt: Pepper lunch but at home and for a fraction of the price.
 coverImage: /assets/recipe/diy-pepper-lunch/cover.jpg
 date: 2023-08-18
 ogImage: /assets/recipe/diy-pepper-lunch/cover.jpg
-ingredients:
-  - name: thinly sliced beef
-    quantity:
-      amount: 14-16
-      unit: slices of
-    notes: (or have as many slices as you want)
-  - name: corn
-    quantity:
-      amount: 2
-      unit: tbsp
-  - name: soy sauce
-    quantity:
-      amount: 1/4
-      unit: cup
-  - name: honey
-    quantity:
-      amount: 2
-      unit: tbsp
-  - name: garlic
-    quantity:
-      amount: 4
-      unit: cloves of
-  - name: all purpose flour
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: water
-    quantity:
-      amount: 4
-      unit: tbsp
-  - name: butter
-    quantity:
-      amount: 1
-      unit: tbsp
-  - name: Black pepper
-  - name: Onion powder
-  - name: Spring onions 
-  - name: Rice
+ingredientLists:
+  - ingredients:
+    - name: thinly sliced beef
+      quantity:
+        amount: 14-16
+        unit: slices of
+      notes: (or have as many slices as you want)
+    - name: corn
+      quantity:
+        amount: 2
+        unit: tbsp
+    - name: soy sauce
+      quantity:
+        amount: 1/4
+        unit: cup
+    - name: honey
+      quantity:
+        amount: 2
+        unit: tbsp
+    - name: garlic
+      quantity:
+        amount: 4
+        unit: cloves of
+    - name: all purpose flour
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: water
+      quantity:
+        amount: 4
+        unit: tbsp
+    - name: butter
+      quantity:
+        amount: 1
+        unit: tbsp
+    - name: Black pepper
+    - name: Onion powder
+    - name: Spring onions 
+    - name: Rice
 method:
   - In a small saucepan, fry garlic until fragrant
   - Combine the water and flour to make a slurry

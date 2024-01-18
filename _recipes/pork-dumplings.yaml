@@ -3,29 +3,30 @@ excerpt: Let us show you that making dumplings is not as scary or as hard as you
 coverImage: /assets/recipe/pork-dumpling/cover.jpg
 date: 2023-09-01
 ogImage: /assets/recipe/pork-dumpling/cover.jpg
-ingredients:
-  - name: pork mince
-    quantity:
-      amount: 250
-      unit: g
-  - name: spring onions
-    quantity:
-      amount: 2-3
-  - name: soy sauce 
-    quantity:
-      amount: 2
-      unit: tbsp 
-  - name: sesame oil
-    quantity:
-      amount: 1
-      unit: tbsp 
-  - name: Salt
-  - name: Pepper 
-  - name: Garlic powder 
-  - name: Onion powder 
-  - name: Dumpling wrappers 
-  - name: Dipping sauce 
-    notes: (we combined 1 tbsp soy sauce, 1/2 tbsp sesame oil, 1/2 tbsp chili oil and 1/2 tbsp vinegar)
+ingredientLists:
+  - ingredients:
+    - name: pork mince
+      quantity:
+        amount: 250
+        unit: g
+    - name: spring onions
+      quantity:
+        amount: 2-3
+    - name: soy sauce 
+      quantity:
+        amount: 2
+        unit: tbsp 
+    - name: sesame oil
+      quantity:
+        amount: 1
+        unit: tbsp 
+    - name: Salt
+    - name: Pepper 
+    - name: Garlic powder 
+    - name: Onion powder 
+    - name: Dumpling wrappers 
+    - name: Dipping sauce 
+      notes: (we combined 1 tbsp soy sauce, 1/2 tbsp sesame oil, 1/2 tbsp chili oil and 1/2 tbsp vinegar)
 method:
   - Finely slice the spring onions
   - In a bowl, combine the pork mince, spring onions, soy sauce, sesame oil and other seasonings

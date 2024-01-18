@@ -3,23 +3,24 @@ excerpt: If you enjoyed the previous air-fried tteokboki recipe, you're gonna lo
 coverImage: /assets/recipe/air-fried-tteokboki-sweet/cover.jpg
 date: 2023-12-24
 ogImage: /assets/recipe/air-fried-tteokboki-sweet/cover.jpg
-ingredients:
-  - name: tteokboki
-    quantity:
-      amount: 15-20
-  - name: oil
-    quantity:
-      amount: 1-2
-      unit: tbsp
-  - name: sesame seeds
-    quantity:
-      amount: 1-2
-      unit: tbsp
-  - name: red bean paste
-    quantity:
-      amount: 3
-      unit: tbsp
-    notes: (to serve)
+ingredientLists:
+  - ingredients:
+    - name: tteokboki
+      quantity:
+        amount: 15-20
+    - name: oil
+      quantity:
+        amount: 1-2
+        unit: tbsp
+    - name: sesame seeds
+      quantity:
+        amount: 1-2
+        unit: tbsp
+    - name: red bean paste
+      quantity:
+        amount: 3
+        unit: tbsp
+      notes: (to serve)
 method:
   - Coat tteokboki with oil and then cover in sesame seeds
   - Put tteokboki into the air fryer at 190 degrees celsius for around 15 minutes
