@@ -5,7 +5,7 @@ date: 2024-02-01
 ogImage: /assets/recipe/{post}/cover.jpg
 ingredientLists:
   - title:
-  - ingredients:
+    ingredients:
     - name: 
       quantity:
         amount:
