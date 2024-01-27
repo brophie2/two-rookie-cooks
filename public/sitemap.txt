@@ -9,6 +9,7 @@ https://tworookiecooks.github.io/recipes/banana-cinnamon-scrolls
 https://tworookiecooks.github.io/recipes/banana-pancakes
 https://tworookiecooks.github.io/recipes/beef-bulgogi
 https://tworookiecooks.github.io/recipes/beef-noodle-soup
+https://tworookiecooks.github.io/recipes/black-pepper-beef
 https://tworookiecooks.github.io/recipes/blueberry-banana-muffin
 https://tworookiecooks.github.io/recipes/bolognese-pies
 https://tworookiecooks.github.io/recipes/caramelised-onion-dip
@@ -26,6 +27,7 @@ https://tworookiecooks.github.io/recipes/diy-pepper-lunch
 https://tworookiecooks.github.io/recipes/dumpling-dough
 https://tworookiecooks.github.io/recipes/egg-drop-soup
 https://tworookiecooks.github.io/recipes/enoki-beef-don
+https://tworookiecooks.github.io/recipes/finnish-salmon-soup
 https://tworookiecooks.github.io/recipes/feta-egg
 https://tworookiecooks.github.io/recipes/garlic-butter-prawn-dumplings
 https://tworookiecooks.github.io/recipes/garlicky-bread-bites
@@ -38,6 +40,7 @@ https://tworookiecooks.github.io/recipes/kimchi-dumpling
 https://tworookiecooks.github.io/recipes/kimchi-fried-rice
 https://tworookiecooks.github.io/recipes/kimchi-pasta
 https://tworookiecooks.github.io/recipes/kimchi-udon
+https://tworookiecooks.github.io/recipes/lamb-feta-meatballs
 https://tworookiecooks.github.io/recipes/lasagne-soup
 https://tworookiecooks.github.io/recipes/leek-toastie
 https://tworookiecooks.github.io/recipes/loh-mai-gai
@@ -66,9 +69,12 @@ https://tworookiecooks.github.io/recipes/seaweed-scrambled-eggs
 https://tworookiecooks.github.io/recipes/shin-ramen-carbonara
 https://tworookiecooks.github.io/recipes/shin-ramen-x-chapagetti
 https://tworookiecooks.github.io/recipes/soy-chicken-rice
+https://tworookiecooks.github.io/recipes/spicy-tofu
+https://tworookiecooks.github.io/recipes/stir-fried-noodles
 https://tworookiecooks.github.io/recipes/sundried-tomato-pesto
 https://tworookiecooks.github.io/recipes/sushi-bake
 https://tworookiecooks.github.io/recipes/taco-bowl
+https://tworookiecooks.github.io/recipes/taco-pasta
 https://tworookiecooks.github.io/recipes/tortilla
 https://tworookiecooks.github.io/recipes/tofu-fries
 https://tworookiecooks.github.io/recipes/tuscan-salmon
