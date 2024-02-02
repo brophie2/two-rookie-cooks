@@ -46,6 +46,7 @@ https://tworookiecooks.github.io/recipes/leek-toastie
 https://tworookiecooks.github.io/recipes/loh-mai-gai
 https://tworookiecooks.github.io/recipes/mango-sticky-rice
 https://tworookiecooks.github.io/recipes/matcha-white-chocolate-cookies
+https://tworookiecooks.github.io/recipes/miso-fish
 https://tworookiecooks.github.io/recipes/miso-fried-prawns
 https://tworookiecooks.github.io/recipes/miso-honey-tofu
 https://tworookiecooks.github.io/recipes/miso-soup-dumpling
@@ -56,6 +57,7 @@ https://tworookiecooks.github.io/recipes/okonomiyaki
 https://tworookiecooks.github.io/recipes/oyakodon
 https://tworookiecooks.github.io/recipes/pan-fried-rice-paper-rolls
 https://tworookiecooks.github.io/recipes/pb-j-rolls
+https://tworookiecooks.github.io/recipes/peanut-butter-granola
 https://tworookiecooks.github.io/recipes/pesto-pasta
 https://tworookiecooks.github.io/recipes/pesto-toastie
 https://tworookiecooks.github.io/recipes/pork-dumpling
