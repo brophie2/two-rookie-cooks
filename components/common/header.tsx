@@ -1,3 +1,4 @@
+import Recipe from "@/interfaces/recipes";
 import { Disclosure } from "@headlessui/react";
 import { XMarkIcon, Bars3Icon } from "@heroicons/react/20/solid";
 import Link from "next/link";
