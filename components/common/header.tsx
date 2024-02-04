@@ -7,7 +7,11 @@ const navigation = [
   { name: "Recipe Catalogue", href: "/allrecipes"},
 ];
 
-const Header = () => {
+type Props = {
+  allRecipes: Recipe[];
+};
+
+const Header = ({ allRecipes }: Props) => {
   return (
     <Disclosure as="nav" className="mb-20 bg-neutral-100 px-8 py-8">
       {({ open }) => (

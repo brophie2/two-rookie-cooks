@@ -25,7 +25,7 @@ export default function Index({ allRecipes }: Props) {
   return (
     <>
       <GoogleAnalytics />
-      <Header />
+      <Header allRecipes={allRecipes} />
       <Layout>
         <Container>
           {heroRecipe && (
