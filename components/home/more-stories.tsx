@@ -1,5 +1,5 @@
-import RecipePreview from './recipe-preview'
 import Recipe from '@/interfaces/recipes'
+import RecipePreview from '../recipe/recipe-preview';
 
 type Props = {
   recipes: Recipe[];
