@@ -12,7 +12,7 @@ type Props = {
     allRecipes: Recipe[];
   };
 
-export default function index({ allRecipes }: Props) {
+export default function AllRecipes({ allRecipes }: Props) {
   const router = useRouter();
   return (
     <Layout>
