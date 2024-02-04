@@ -1,36 +1,36 @@
 title: Cheeseburger Dumplings
-excerpt: These cheeseburger dumplings are the perfect unification of 2 epic foods. 
-coverImage: /assets/recipe/cheeseburger-dumpling/cover.jpg
+excerpt: These cheeseburger dumplings are the perfect unification of 2 epic foods.
+coverImage: /assets/recipe/cheeseburger-dumpling/cover.webp
 date: 2023-09-04
-ogImage: /assets/recipe/cheeseburger-dumpling/cover.jpg
+ogImage: /assets/recipe/cheeseburger-dumpling/cover.webp
 ingredientLists:
   - ingredients:
-    - name: beef mince
-      quantity:
-        amount: 250
-        unit: g
-    - name: bacon
-      quantity:
-        amount: 2
-        unit: rashers of
-    - name: grated cheese
-      quantity:
-        amount: 1/2
-        unit: cup
-    - name: brown onion
-      quantity:
-        amount: 1/2
-    - name: burger sauce
-      quantity:
-        amount: 3
-        unit: tbsp
-    - name: BBQ/burger sauce
-      notes: (optional, to serve)
-    - name: dumpling dough
-      quantity: 
-        amount: 1
-        unit: portion of
-      notes: (approximately 20-24 dumpling wrappers)
+      - name: beef mince
+        quantity:
+          amount: 250
+          unit: g
+      - name: bacon
+        quantity:
+          amount: 2
+          unit: rashers of
+      - name: grated cheese
+        quantity:
+          amount: 1/2
+          unit: cup
+      - name: brown onion
+        quantity:
+          amount: 1/2
+      - name: burger sauce
+        quantity:
+          amount: 3
+          unit: tbsp
+      - name: BBQ/burger sauce
+        notes: (optional, to serve)
+      - name: dumpling dough
+        quantity:
+          amount: 1
+          unit: portion of
+        notes: (approximately 20-24 dumpling wrappers)
 method:
   - Dice bacon into small pieces and panfry until crispy. Set it aside
   - Dice onions

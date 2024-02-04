@@ -1,33 +1,33 @@
 title: Sausage Bolognese
-excerpt: I'm sure most of us already know how to make a bolognese but are you tired of the same ol'? 
-coverImage: /assets/recipe/sausage-bolognese/cover.jpg
+excerpt: I'm sure most of us already know how to make a bolognese but are you tired of the same ol'?
+coverImage: /assets/recipe/sausage-bolognese/cover.webp
 date: 2023-12-26
-ogImage: /assets/recipe/sausage-bolognese/cover.jpg
+ogImage: /assets/recipe/sausage-bolognese/cover.webp
 ingredientLists:
   - ingredients:
-    - name: sausages
-      quantity:
-        amount: 450 - 500
-        unit: g
-      notes: (whatever flavour sounds good to you, we used caramelised onion and beef)
-    - name: brown onion
-      quantity:
-        amount: 1
-    - name: carrots
-      quantity:
-        amount: 2
-    - name: mushrooms
-      quantity:
-        amount: 400
-        unit: g
-    - name: passata
-      quantity:
-        amount: 700
-        unit: g
-    - name: Garlic powder
-    - name: Mixed herbs 
-    - name: Pasta
-      notes: (optional, to serve)
+      - name: sausages
+        quantity:
+          amount: 450 - 500
+          unit: g
+        notes: (whatever flavour sounds good to you, we used caramelised onion and beef)
+      - name: brown onion
+        quantity:
+          amount: 1
+      - name: carrots
+        quantity:
+          amount: 2
+      - name: mushrooms
+        quantity:
+          amount: 400
+          unit: g
+      - name: passata
+        quantity:
+          amount: 700
+          unit: g
+      - name: Garlic powder
+      - name: Mixed herbs
+      - name: Pasta
+        notes: (optional, to serve)
 method:
   - Roughly dice the onion and carrots, and slice mushrooms
   - In a pot, fry onions until they are transluscent

@@ -1,45 +1,45 @@
 title: Chorizo Rice
 excerpt: One pan dinner in under 25 minutes? Say less.
-coverImage: /assets/recipe/chorizo-rice/cover.jpg
+coverImage: /assets/recipe/chorizo-rice/cover.webp
 date: 2023-09-30
-ogImage: /assets/recipe/chorizo-rice/cover.jpg
+ogImage: /assets/recipe/chorizo-rice/cover.webp
 ingredientLists:
   - ingredients:
-    - name: chorizo
-      quantity:
-        amount: 250
-        unit: g
-    - name: capsicum
-      quantity:
-        amount: 1/2
-    - name: brown onion
-      quantity:
-        amount: 1/2
-    - name: garlic cloves
-      quantity:
-        amount: 3
-    - name: rice
-      quantity: 
-        amount: 1
-        unit: cup
-      notes: (uncooked)
-    - name: tomato paste
-      quantity:
-        amount: 2
-        unit: tbsp
-    - name: paprika powder
-      quantity:
-        amount: 1
-        unit: tbsp
-    - name: stock
-      quantity:
-        amount: 1
-        unit: cup
-      notes: (1 cup of water with 1 tbsp of stock powder or as directed)
+      - name: chorizo
+        quantity:
+          amount: 250
+          unit: g
+      - name: capsicum
+        quantity:
+          amount: 1/2
+      - name: brown onion
+        quantity:
+          amount: 1/2
+      - name: garlic cloves
+        quantity:
+          amount: 3
+      - name: rice
+        quantity:
+          amount: 1
+          unit: cup
+        notes: (uncooked)
+      - name: tomato paste
+        quantity:
+          amount: 2
+          unit: tbsp
+      - name: paprika powder
+        quantity:
+          amount: 1
+          unit: tbsp
+      - name: stock
+        quantity:
+          amount: 1
+          unit: cup
+        notes: (1 cup of water with 1 tbsp of stock powder or as directed)
 method:
   - Dice the onions and capsicum, and finely mince the garlic
   - Either slice the chorizo or take it out of its casing, and panfry until it is nicely browned
   - Put the chorizo aside and panfry onions and garlic until fragrant
   - Add the capsicum, washed rice, paprika powder and tomato paste into the frying pan and toast for a couple of minutes
   - Add stock and chorizo, and cover with a lid for 12-15 minutes, or until the rice is cooked. Stir the rice every 5 or so minutes to ensure that it cooks evenly
-content: If you have an extra 5-10 minutes to spare, you can leave the rice in the pan without the lid on so that it forms a nice crust underneath. 
+content: If you have an extra 5-10 minutes to spare, you can leave the rice in the pan without the lid on so that it forms a nice crust underneath.

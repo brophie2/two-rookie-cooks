@@ -1,19 +1,19 @@
 title: Half Boiled Eggs
 excerpt: If you know, you know. Don't yuck our yum before you've tried it!
-coverImage: /assets/recipe/half-boiled-eggs/cover.jpg
+coverImage: /assets/recipe/half-boiled-eggs/cover.webp
 date: 2023-09-28
-ogImage: /assets/recipe/half-boiled-eggs/cover.jpg
+ogImage: /assets/recipe/half-boiled-eggs/cover.webp
 ingredientLists:
   - ingredients:
-    - name: eggs
-      quantity:
-        amount: 2
-        unit: room temperature
-      notes: (or however many eggs you would like to eat)
-    - name: soy sauce 
-      quantity:
-        amount: 1-2
-        unit: tbsp
+      - name: eggs
+        quantity:
+          amount: 2
+          unit: room temperature
+        notes: (or however many eggs you would like to eat)
+      - name: soy sauce
+        quantity:
+          amount: 1-2
+          unit: tbsp
 method:
   - Bring water to a boil in a pot
   - Once the water is boiling, turn off the heat and gently lower in eggs. Put the lid on the pot

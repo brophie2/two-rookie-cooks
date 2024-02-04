@@ -1,34 +1,34 @@
 title: Kimchi Dumplings
-excerpt: We are bringing you another seriously flavourful dumpling recipe. 
-coverImage: /assets/recipe/kimchi-dumpling/cover.jpg
+excerpt: We are bringing you another seriously flavourful dumpling recipe.
+coverImage: /assets/recipe/kimchi-dumpling/cover.webp
 date: 2023-09-11
-ogImage: /assets/recipe/kimchi-dumpling/cover.jpg
+ogImage: /assets/recipe/kimchi-dumpling/cover.webp
 ingredientLists:
   - ingredients:
-    - name: pork mince
-      quantity:
-        amount: 250
-        unit: g
-    - name: kimchi
-      quantity:
-        amount: 1/3
-        unit: cup
-      notes: (chopped)
-    - name: spring onion
-      quantity:
-        amount: 1
-    - name: soy sauce
-      quantity:
-        amount: 2
-        unit: tbsp
-    - name: sesame oil
-      quantity:
-        amount: 1
-        unit: tbsp
+      - name: pork mince
+        quantity:
+          amount: 250
+          unit: g
+      - name: kimchi
+        quantity:
+          amount: 1/3
+          unit: cup
+        notes: (chopped)
+      - name: spring onion
+        quantity:
+          amount: 1
+      - name: soy sauce
+        quantity:
+          amount: 2
+          unit: tbsp
+      - name: sesame oil
+        quantity:
+          amount: 1
+          unit: tbsp
 method:
   - Finely slice the spring onions
   - Combine the pork mince, kimchi, spring onions, soy sauce and sesame oil in a bowl
   - Fold dumplings
   - Cook the dumplings
   - Enjoy
-content: Our friend actually suggested we make beef and kimchi dumplings ages ago for one of our dumpling cooking sessions and it was love at first bite. Ever since then, it's been firmly in our rotation, however, this time we decided to change it up a little and use pork mince, instead of beef. 
+content: Our friend actually suggested we make beef and kimchi dumplings ages ago for one of our dumpling cooking sessions and it was love at first bite. Ever since then, it's been firmly in our rotation, however, this time we decided to change it up a little and use pork mince, instead of beef.

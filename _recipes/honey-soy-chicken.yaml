@@ -1,34 +1,34 @@
 title: Honey Soy Chicken
 excerpt: Have you ever been halfway cooking a recipe, before you realised that you needed to marinade the meat for 1hr? or worse, overnight?
-coverImage: /assets/recipe/honey-soy-chicken/cover.jpg
+coverImage: /assets/recipe/honey-soy-chicken/cover.webp
 date: 2023-12-21
-ogImage: /assets/recipe/honey-soy-chicken/cover.jpg
+ogImage: /assets/recipe/honey-soy-chicken/cover.webp
 ingredientLists:
   - ingredients:
-    - name: soy sauce
-      quantity:
-        amount: 1/3
-        unit: cup
-    - name: mirin
-      quantity:
-        amount: 1/4
-        unit: cup
-    - name: honey
-      quantity:
-        amount: 3
-        unit: tbsp
-    - name: garlic powder
-      quantity:
-        amount: 1/2
-        unit: tsp
-    - name: chicken thighs
-      quantity:
-        amount: 4
-    - name: corn starch
-      quantity:
-        amount: 1
-        unit: tbsp
-    - name: Rice
+      - name: soy sauce
+        quantity:
+          amount: 1/3
+          unit: cup
+      - name: mirin
+        quantity:
+          amount: 1/4
+          unit: cup
+      - name: honey
+        quantity:
+          amount: 3
+          unit: tbsp
+      - name: garlic powder
+        quantity:
+          amount: 1/2
+          unit: tsp
+      - name: chicken thighs
+        quantity:
+          amount: 4
+      - name: corn starch
+        quantity:
+          amount: 1
+          unit: tbsp
+      - name: Rice
 method:
   - Start the rice cooker
   - Cut chicken into small bite-sized pieces and add it to a bowl

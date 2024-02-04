@@ -3,28 +3,27 @@ excerpt: |
   "It will be easy!" they said. 
   "It will take 5 minutes!" they said. 
   Guess how long it took us?
-coverImage: /assets/recipe/mochi/cover.jpg
+coverImage: /assets/recipe/mochi/cover.webp
 date: 2023-11-06
-ogImage: /assets/recipe/mochi/cover.jpg
+ogImage: /assets/recipe/mochi/cover.webp
 ingredientLists:
   - ingredients:
-    - name: glutinous rice flour
-      quantity: 
-        amount: 1
-        unit: cup
-    - name: warm water
-      quantity: 
-        amount: 1
-        unit: cup
-    - name: white sugar
-      quantity: 
-        amount: 1/3
-        unit: cup
-    - name: Anko paste
-      notes: '(red bean paste)'
-    - name: Corn flour
-serves: 
-  Makes around 16 mochi
+      - name: glutinous rice flour
+        quantity:
+          amount: 1
+          unit: cup
+      - name: warm water
+        quantity:
+          amount: 1
+          unit: cup
+      - name: white sugar
+        quantity:
+          amount: 1/3
+          unit: cup
+      - name: Anko paste
+        notes: "(red bean paste)"
+      - name: Corn flour
+serves: Makes around 16 mochi
 method:
   - Dissolve the sugar into the warm water
   - Add the glutinous rice flour into a bowl and pour in the sugar water
@@ -39,4 +38,4 @@ content: |
 
   Today, we were reminded that we are simply 2 rookie home cooks that sometimes have no idea what we are doing in the kitchen. We've been seeing a lot of people making mochi recently and thought we would give it a go as it looked reasonably easy. How wrong we were 
 
-  We severely underestimated how sticky the mochi dough is, especially when it is not cooked enough. Make sure that you have plenty of corn starch available and let the dough cool sufficiently, otherwise you will have a sloppy, sticky, runny mess. 
+  We severely underestimated how sticky the mochi dough is, especially when it is not cooked enough. Make sure that you have plenty of corn starch available and let the dough cool sufficiently, otherwise you will have a sloppy, sticky, runny mess.

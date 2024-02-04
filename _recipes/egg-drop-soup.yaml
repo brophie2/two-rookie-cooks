@@ -1,29 +1,29 @@
 title: Egg Drop Soup
 excerpt: Tofu is honestly so versatile.  It's an awesome vessel for flavour, so always make sure to season your tofu well or pair it with something tasty.
-coverImage: /assets/recipe/egg-drop-soup/cover.jpg
+coverImage: /assets/recipe/egg-drop-soup/cover.webp
 date: 2023-12-15
-ogImage: /assets/recipe/egg-drop-soup/cover.jpg
+ogImage: /assets/recipe/egg-drop-soup/cover.webp
 ingredientLists:
   - ingredients:
-    - name: firm tofu
-      quantity:
-        amount: 100
-        unit: g
-    - name: eggs
-      quantity:
-        amount: 3
-    - name: water
-      quantity:
-        amount: 1
-        unit: L
-    - name: stock powder
-      quantity:
-        amount: 1
-        unit: tbsp
-    - name: corn starch
-      quantity:
-        amount: 1
-        unit: tbsp
+      - name: firm tofu
+        quantity:
+          amount: 100
+          unit: g
+      - name: eggs
+        quantity:
+          amount: 3
+      - name: water
+        quantity:
+          amount: 1
+          unit: L
+      - name: stock powder
+        quantity:
+          amount: 1
+          unit: tbsp
+      - name: corn starch
+        quantity:
+          amount: 1
+          unit: tbsp
 method:
   - Bring water to a boil
   - Finely grate tofu and beat eggs in a bowl
@@ -32,4 +32,4 @@ method:
   - Add corn starch slurry and keep mixing so that the corn starch doesn't settle at the bottom
   - Add tofu and then slowly pour in the egg mixture while stirring
   - After you finish pouring the egg mixture, gently stir a little and then turn off the heat. Serve immediately
-content: Grating the tofu gives it more surface area to soak up flavours and coincidentally, it camouflages pretty well with the egg in the egg drop soup. In fact, it was hidden so well that when we posted a picture of it on our story, no one even noticed it! 
+content: Grating the tofu gives it more surface area to soak up flavours and coincidentally, it camouflages pretty well with the egg in the egg drop soup. In fact, it was hidden so well that when we posted a picture of it on our story, no one even noticed it!

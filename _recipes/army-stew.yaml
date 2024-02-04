@@ -1,59 +1,59 @@
 title: Army Stew
 excerpt: It is hopefully one of the last few cold days here in Australia and we had to make this one last time before it gets too hot for soup.
-coverImage: /assets/recipe/army-stew/cover.jpg
+coverImage: /assets/recipe/army-stew/cover.webp
 date: 2023-10-15
-ogImage: /assets/recipe/army-stew/cover.jpg
+ogImage: /assets/recipe/army-stew/cover.webp
 ingredientLists:
   - ingredients:
-    - name: silken tofu
-      quantity:
-        amount: 300
-        unit: g
-    - name: spam
-      quantity:
-        amount: 150
-        unit: g
-      notes: and/or hot dog sausages 
-    - name: korean fish cakes
-      quantity:
-        amount: 40-50
-        unit: g
-    - name: gochujang
-      quantity:
-        amount: 1-2
-        unit: tbsp
-    - name: soy sauce
-      quantity:
-        amount: 1
-        unit: tbsp
-    - name: cup mushrooms
-      quantity:
-        amount: 100
-        unit: g
-    - name: enoki mushrooms
-      quantity:
-        amount: 300
-        unit: g
-    - name: kimchi
-      quantity:
-        amount: 2
-        unit: tbsp
-    - name: stock
-      quantity:
-        amount: 3
-        unit: cups
-      notes: (we used beef stock but you can use chicken or vegetable stock)
-    - name: spring onion
-      quantity:
-        amount: 1
-    - name: Shin Ramen
-      quantity:
-        amount: 1
-        unit: packet
-    - name: tteokboki
-      quantity:
-        amount: 12-16
-      notes: or to your liking
+      - name: silken tofu
+        quantity:
+          amount: 300
+          unit: g
+      - name: spam
+        quantity:
+          amount: 150
+          unit: g
+        notes: and/or hot dog sausages
+      - name: korean fish cakes
+        quantity:
+          amount: 40-50
+          unit: g
+      - name: gochujang
+        quantity:
+          amount: 1-2
+          unit: tbsp
+      - name: soy sauce
+        quantity:
+          amount: 1
+          unit: tbsp
+      - name: cup mushrooms
+        quantity:
+          amount: 100
+          unit: g
+      - name: enoki mushrooms
+        quantity:
+          amount: 300
+          unit: g
+      - name: kimchi
+        quantity:
+          amount: 2
+          unit: tbsp
+      - name: stock
+        quantity:
+          amount: 3
+          unit: cups
+        notes: (we used beef stock but you can use chicken or vegetable stock)
+      - name: spring onion
+        quantity:
+          amount: 1
+      - name: Shin Ramen
+        quantity:
+          amount: 1
+          unit: packet
+      - name: tteokboki
+        quantity:
+          amount: 12-16
+        notes: or to your liking
 method:
   - Slice the tofu and spam into large squares, ensuring that the tofu is not too thin so it doesn't crumble. Cut the fish cakes into triangles or other bite-sized pieces
   - Cut the cup mushrooms into quarters and tear the enoki mushrooms into smaller chunks
@@ -63,4 +63,4 @@ method:
 content: |
   We definitely added too much water so don't fall into the same trap as us! We forgot that our ingredients were floating up, so it kept looking like we needed more water when we didn't really. Don't worry, we have adjusted the amount of water in the recipe below. 
 
-  Typically, people use a larger, flat pan to cook army stew. Since we don't have one, we just used a large pot. It might not have looked as appealing, as you need to fish down quite far into the pot to get the goodies, but we can assure you that it still tastes great. 
+  Typically, people use a larger, flat pan to cook army stew. Since we don't have one, we just used a large pot. It might not have looked as appealing, as you need to fish down quite far into the pot to get the goodies, but we can assure you that it still tastes great.

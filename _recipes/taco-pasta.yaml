@@ -1,30 +1,30 @@
 title: Taco Pasta
 excerpt: Looking for some inspiration for what to cook this week?
-coverImage: /assets/recipe/taco-pasta/cover.jpg
+coverImage: /assets/recipe/taco-pasta/cover.webp
 date: 2024-01-21
-ogImage: /assets/recipe/taco-pasta/cover.jpg
+ogImage: /assets/recipe/taco-pasta/cover.webp
 ingredientLists:
   - ingredients:
-    - name: beef mince
-      quantity:
-        amount: 150
-        unit: g
-    - name: tomato pasta
-      quantity:
-        amount: 2
-        unit: tbsp
-    - name: corn kenels
-      quantity:
-        amount: 1/3
-        unit: cup
-    - name: thickened cream
-      quantity:
-        amount: 1/3
-        unit: cup
-    - name: pasta
-      notes: (we used shell pasta but you can use any shape of your preference)
-    - name: Chipotle seasoning
-      notes: (or taco seasoning)
+      - name: beef mince
+        quantity:
+          amount: 150
+          unit: g
+      - name: tomato pasta
+        quantity:
+          amount: 2
+          unit: tbsp
+      - name: corn kenels
+        quantity:
+          amount: 1/3
+          unit: cup
+      - name: thickened cream
+        quantity:
+          amount: 1/3
+          unit: cup
+      - name: pasta
+        notes: (we used shell pasta but you can use any shape of your preference)
+      - name: Chipotle seasoning
+        notes: (or taco seasoning)
 method:
   - Cook pasta according to the directions on the packaging
   - To a frying pan, add the beef mince and chipotle/taco seasoning

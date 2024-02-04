@@ -1,35 +1,35 @@
 title: Char siu
 excerpt: It's not as hard to make as you think - give it a go!
-coverImage: /assets/recipe/char-siu/cover.jpg
+coverImage: /assets/recipe/char-siu/cover.webp
 date: 2023-09-09
-ogImage: /assets/recipe/char-siu/cover.jpg
+ogImage: /assets/recipe/char-siu/cover.webp
 ingredientLists:
   - ingredients:
-    - name: pork shoulder
-      quantity:
-        amount: 1.8 - 2
-        unit: kg of 
-    - name: honey
-      quantity:
-        amount: 1/2
-        unit: cup
-    - name: hoisin sauce
-      quantity:
-        amount: 1/2
-        unit: cup
-    - name: soy sauce
-      quantity:
-        amount: 6
-        unit: tbsp 
-      notes: (you can do a mixture of light and regular but we just did regular soy sauce as that's what we had on hand)
-    - name: five spice
-      quantity:
-        amount: 1
-        unit: tsp
-    - name: brown sugar
-      quantity:
-        amount: 2
-        unit: tbsp
+      - name: pork shoulder
+        quantity:
+          amount: 1.8 - 2
+          unit: kg of
+      - name: honey
+        quantity:
+          amount: 1/2
+          unit: cup
+      - name: hoisin sauce
+        quantity:
+          amount: 1/2
+          unit: cup
+      - name: soy sauce
+        quantity:
+          amount: 6
+          unit: tbsp
+        notes: (you can do a mixture of light and regular but we just did regular soy sauce as that's what we had on hand)
+      - name: five spice
+        quantity:
+          amount: 1
+          unit: tsp
+      - name: brown sugar
+        quantity:
+          amount: 2
+          unit: tbsp
 method:
   - Slice pork into large strips, or whatever shape and size you would like your char siu
   - Combine the oil, honey, hoisin, soy sauce, brown sugar, and five spice into a large plastic bag or bowl and mix well

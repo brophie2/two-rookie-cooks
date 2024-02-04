@@ -1,20 +1,20 @@
 title: Shin Ramen X Chapagetti
 excerpt: This idea came from a random craving we had (and also because we had 1 packet of each left and couldn't decide who would get to eat which).
-coverImage: /assets/recipe/shin-ramen-x-chapagetti/cover.jpg
+coverImage: /assets/recipe/shin-ramen-x-chapagetti/cover.webp
 date: 2023-12-04
-ogImage: /assets/recipe/shin-ramen-x-chapagetti/cover.jpg
+ogImage: /assets/recipe/shin-ramen-x-chapagetti/cover.webp
 ingredientLists:
   - ingredients:
-    - name: Shin ramen
-      quantity:
-        amount: 1
-        unit: packet of
-    - name: Chapagetti
-      quantity:
-        amount: 1
-        unit: packet of
-    - name: Fried egg and/or cucumber
-      notes: (optional, to serve)
+      - name: Shin ramen
+        quantity:
+          amount: 1
+          unit: packet of
+      - name: Chapagetti
+        quantity:
+          amount: 1
+          unit: packet of
+      - name: Fried egg and/or cucumber
+        notes: (optional, to serve)
 method:
   - Boil water.
   - Add both noodle cakes to the boiling water with the vegetable seasoning packets.
@@ -22,4 +22,4 @@ method:
   - Add the dry seasoning packets from both and the oil from the Chapagetti. Gradually add some starchy water to help make a bit of a sauce.
   - Top with a fried egg and some julienned cucumbers.
 content: |
-   Combining 2 tasty instant noodles - what could go wrong?
+  Combining 2 tasty instant noodles - what could go wrong?

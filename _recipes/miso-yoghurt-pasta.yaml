@@ -1,27 +1,27 @@
 title: Miso Yoghurt Pasta
-excerpt: Picture it, a perfectly tangy and earthy pasta sauce that is deliciously creamy but doesn't leave you feeling heavy and groggy afterwards. 
-coverImage: /assets/recipe/miso-yoghurt-pasta/cover.jpg
+excerpt: Picture it, a perfectly tangy and earthy pasta sauce that is deliciously creamy but doesn't leave you feeling heavy and groggy afterwards.
+coverImage: /assets/recipe/miso-yoghurt-pasta/cover.webp
 date: 2024-01-09
-ogImage: /assets/recipe/miso-yoghurt-pasta/cover.jpg
+ogImage: /assets/recipe/miso-yoghurt-pasta/cover.webp
 ingredientLists:
   - ingredients:
-    - name: cup mushrooms
-      quantity: 
-        amount: 250
-        unit: g
-    - name: greek yoghurt
-      quantity:
-        amount: 3
-        unit: tbsp
-    - name: miso paste
-      quantity:
-        amount: 2
-        unit: tbsp
-    - name: soy sauce
-      quantity:
-        amount: 1
-        unit: tbsp
-    - name: Cooked pasta
+      - name: cup mushrooms
+        quantity:
+          amount: 250
+          unit: g
+      - name: greek yoghurt
+        quantity:
+          amount: 3
+          unit: tbsp
+      - name: miso paste
+        quantity:
+          amount: 2
+          unit: tbsp
+      - name: soy sauce
+        quantity:
+          amount: 1
+          unit: tbsp
+      - name: Cooked pasta
 method:
   - Slice and pan fry mushrooms
   - In the middle of the frying pan, add the miso paste and coat the mushrooms well

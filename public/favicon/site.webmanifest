@@ -3,12 +3,12 @@
   "short_name": "Next.js",
   "icons": [
     {
-      "src": "/favicons/two-rookie-cooks-logo.png",
+      "src": "/favicons/two-rookie-cooks-logo.webp",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/favicons/two-rookie-cooks-logo.png",
+      "src": "/favicons/two-rookie-cooks-logo.webp",
       "sizes": "512x512",
       "type": "image/png"
     }

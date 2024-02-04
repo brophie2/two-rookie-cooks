@@ -1,54 +1,54 @@
 title: Banana Bread
-excerpt: This is one of our favourite recipes to bake. It's so simple; you don't even need a mixer. 
-coverImage: /assets/recipe/banana-bread/cover.png
+excerpt: This is one of our favourite recipes to bake. It's so simple; you don't even need a mixer.
+coverImage: /assets/recipe/banana-bread/cover.webp
 date: 2023-08-03
-ogImage: /assets/recipe/banana-bread/cover.png
+ogImage: /assets/recipe/banana-bread/cover.webp
 ingredientLists:
   - ingredients:
-    - name: (ripe) bananas
-      quantity:
-        amount: 4
-    - name: unsalted butter
-      quantity:
-        amount: 2/3
-        unit: cup
-      notes: (150g)
-    - name: eggs
-      quantity:
-        amount: 2
-    - name: all-purpose flour
-      quantity:
-        amount: 3
-        unit: cups
-    - name: baking soda
-      quantity:
-        amount: 1
-        unit: tsp 
-    - name: brown sugar
-      quantity:
-        amount: 1/2
-        unit: cup
-    - name: white sugar
-      quantity:
-        amount: 1/2
-        unit: cup
-    - name: vanilla extract
-      quantity:
-        amount: 1
-        unit: tbsp
-    - name: chocolate chips/chunks
-      quantity:
-        amount: 80
-        unit: g
-      notes: (optional)
-    - name: ground cinnamon
-      quantity:
-        amount: 1/2
-        unit: tsp
-    - name: salt
-      quantity:
-        amount: 1
-        unit: pinch
+      - name: (ripe) bananas
+        quantity:
+          amount: 4
+      - name: unsalted butter
+        quantity:
+          amount: 2/3
+          unit: cup
+        notes: (150g)
+      - name: eggs
+        quantity:
+          amount: 2
+      - name: all-purpose flour
+        quantity:
+          amount: 3
+          unit: cups
+      - name: baking soda
+        quantity:
+          amount: 1
+          unit: tsp
+      - name: brown sugar
+        quantity:
+          amount: 1/2
+          unit: cup
+      - name: white sugar
+        quantity:
+          amount: 1/2
+          unit: cup
+      - name: vanilla extract
+        quantity:
+          amount: 1
+          unit: tbsp
+      - name: chocolate chips/chunks
+        quantity:
+          amount: 80
+          unit: g
+        notes: (optional)
+      - name: ground cinnamon
+        quantity:
+          amount: 1/2
+          unit: tsp
+      - name: salt
+        quantity:
+          amount: 1
+          unit: pinch
 method:
   - Preheat the oven to 180 degrees
   - Melt the butter

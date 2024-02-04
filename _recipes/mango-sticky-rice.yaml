@@ -1,27 +1,27 @@
 title: Mango Sticky Rice
-excerpt: Mango season is in full swing here in Australia and you already know that means we need to share some recipes with you so that you too can maximise mango season. 
-coverImage: /assets/recipe/mango-sticky-rice/cover.jpg
+excerpt: Mango season is in full swing here in Australia and you already know that means we need to share some recipes with you so that you too can maximise mango season.
+coverImage: /assets/recipe/mango-sticky-rice/cover.webp
 date: 2023-11-14
-ogImage: /assets/recipe/mango-sticky-rice/cover.jpg
+ogImage: /assets/recipe/mango-sticky-rice/cover.webp
 ingredientLists:
   - ingredients:
-    - name: uncooked sticky rice
-      quantity:
-        amount: 1
-        unit: cup
-    - name: coconut milk
-      quantity:
-        amount: 1/2
-        unit: cup
-    - name: sugar 
-      quantity:
-        amount: 1
-        unit: tbsp
-      notes: (optional)
-    - name: Water
-    - name: mango 
-      quantity:
-        amount: 1
+      - name: uncooked sticky rice
+        quantity:
+          amount: 1
+          unit: cup
+      - name: coconut milk
+        quantity:
+          amount: 1/2
+          unit: cup
+      - name: sugar
+        quantity:
+          amount: 1
+          unit: tbsp
+        notes: (optional)
+      - name: Water
+      - name: mango
+        quantity:
+          amount: 1
 method:
   - Wash the sticky rice and put it into the rice cooker
   - Add coconut milk to the rice cooker and top it up with water until it reaches the appropriate measurement line according to your rice cooker

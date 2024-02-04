@@ -1,43 +1,43 @@
 title: Miso Fish
 excerpt: This tastes so good that your guests will think you secretly got takeout and put it on your plates to pretend you made it.
-coverImage: /assets/recipe/miso-fish/cover.jpg
+coverImage: /assets/recipe/miso-fish/cover.webp
 date: 2024-02-02
-ogImage: /assets/recipe/miso-fish/cover.jpg
+ogImage: /assets/recipe/miso-fish/cover.webp
 ingredientLists:
   - title: Miso Fish Ingredients
     ingredients:
-    - name: whitefish
-      quantity:
-        amount: 300
-        unit: g
-      notes: (we used Ling)
-    - name: miso paste
-      quantity:
-        amount: 3
-        unit: tbsp
-    - name: mirin
-      quantity:
-        amount: 1
-        unit: tsp
-    - name: soy sauce
-      quantity:
-        amount: 1
-        unit: tsp
-    - name: oil
-      quantity:
-        amount: 1
-        unit: tsp
-    - name: Black pepper
+      - name: whitefish
+        quantity:
+          amount: 300
+          unit: g
+        notes: (we used Ling)
+      - name: miso paste
+        quantity:
+          amount: 3
+          unit: tbsp
+      - name: mirin
+        quantity:
+          amount: 1
+          unit: tsp
+      - name: soy sauce
+        quantity:
+          amount: 1
+          unit: tsp
+      - name: oil
+        quantity:
+          amount: 1
+          unit: tsp
+      - name: Black pepper
   - title: Spring Onion Oil Ingredients
-    ingredients: 
-    - name: spring onion
-      quantity:
-        amount: 1
-    - name: Oil
+    ingredients:
+      - name: spring onion
+        quantity:
+          amount: 1
+      - name: Oil
   - title: Serve with
-    ingredients: 
-    - name: Steamed rice
-    - name: Sesame seeds
+    ingredients:
+      - name: Steamed rice
+      - name: Sesame seeds
 method:
   - Depending on the size of your fish, you may choose to cut it into smaller pieces
   - In a bowl, add miso paste, mirin, soy sauce, oil and black pepper, and stir well

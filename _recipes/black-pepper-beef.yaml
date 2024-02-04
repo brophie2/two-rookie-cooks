@@ -1,57 +1,57 @@
 title: Black Pepper Beef
-excerpt: Transform your dinner into a flavour-packed delight with this Black Pepper Beef recipe. 
-coverImage: /assets/recipe/black-pepper-beef/cover.jpg
+excerpt: Transform your dinner into a flavour-packed delight with this Black Pepper Beef recipe.
+coverImage: /assets/recipe/black-pepper-beef/cover.webp
 date: 2024-01-12
-ogImage: /assets/recipe/black-pepper-beef/cover.jpg
+ogImage: /assets/recipe/black-pepper-beef/cover.webp
 ingredientLists:
   - ingredients:
-    - name: beef
-      quantity:
-        amount: 150
-        unit: g
-      notes: (New York strip or tenderloin is best)
-    - name: capsicum
-      quantity:
-        amount: 1/2
-    - name: brown onion
-      quantity:
-        amount: 1/2
-    - name: garlic
-      quantity:
-        amount: 2-3
-        unit: cloves of
-    - name: black pepper
-      quantity:
-        amount: 1
-        unit: tsp
-    - name: corn flour
-      quantity:
-        amount: 2
-        unit: tbsp
-    - name: oyster sauce
-      quantity:
-        amount: 2
-        unit: tbsp
-    - name: soy sauce
-      quantity:
-        amount: 2
-        unit: tbsp
-    - name: cooking rice wine
-      quantity:
-        amount: 2
-        unit: tbsp
-    - name: water
-      quantity:
-        amount: 2
-        unit: tbsp
-    - name: salt
-      quantity:
-        amount: 1/4
-        unit: tsp
-    - name: sugar
-      quantity:
-        amount: 1
-        unit: tbsp
+      - name: beef
+        quantity:
+          amount: 150
+          unit: g
+        notes: (New York strip or tenderloin is best)
+      - name: capsicum
+        quantity:
+          amount: 1/2
+      - name: brown onion
+        quantity:
+          amount: 1/2
+      - name: garlic
+        quantity:
+          amount: 2-3
+          unit: cloves of
+      - name: black pepper
+        quantity:
+          amount: 1
+          unit: tsp
+      - name: corn flour
+        quantity:
+          amount: 2
+          unit: tbsp
+      - name: oyster sauce
+        quantity:
+          amount: 2
+          unit: tbsp
+      - name: soy sauce
+        quantity:
+          amount: 2
+          unit: tbsp
+      - name: cooking rice wine
+        quantity:
+          amount: 2
+          unit: tbsp
+      - name: water
+        quantity:
+          amount: 2
+          unit: tbsp
+      - name: salt
+        quantity:
+          amount: 1/4
+          unit: tsp
+      - name: sugar
+        quantity:
+          amount: 1
+          unit: tbsp
 method:
   - Slice the beef into 1/2 inch strips (slice against the grain)
   - Mix the black pepper, 1 tbsp corn flour, 1 tbsp oyster sauce, 1 tbsp soy sauce, 1 tbsp cooking rice wine and 1 tbsp water to create a marinade for your beef. Let it marinade for at least 5 minutes.

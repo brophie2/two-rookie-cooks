@@ -1,27 +1,27 @@
 title: Shin Ramen Carbonara
 excerpt: You've probably seen varieties of this recipe floating around the internet and if you haven't tried it yet, take this as a sign.
-coverImage: /assets/recipe/shin-ramen-carbonara/cover.jpg
+coverImage: /assets/recipe/shin-ramen-carbonara/cover.webp
 date: 2023-09-18
-ogImage: /assets/recipe/shin-ramen-carbonara/cover.jpg
+ogImage: /assets/recipe/shin-ramen-carbonara/cover.webp
 ingredientLists:
   - ingredients:
-    - name: Shin ramen
-      quantity:
-        amount: 1
-        unit: packet of
-    - name: egg yolk
-      quantity:
-        amount: 1
-    - name: grated parmesan
-      quantity:
-        amount: 2
-        unit: tbsp
-    - name: bacon
-      quantity:
-        amount: 1
-        unit: slice of 
-    - name: Spring onions
-      notes: (thinly sliced)
+      - name: Shin ramen
+        quantity:
+          amount: 1
+          unit: packet of
+      - name: egg yolk
+        quantity:
+          amount: 1
+      - name: grated parmesan
+        quantity:
+          amount: 2
+          unit: tbsp
+      - name: bacon
+        quantity:
+          amount: 1
+          unit: slice of
+      - name: Spring onions
+        notes: (thinly sliced)
 method:
   - Fry the bacon and spring onions until the bacon is crispy
   - Boil the Shin Ramen noodles according to the instructions on the packaging

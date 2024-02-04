@@ -1,24 +1,24 @@
 title: Dumpling Dough
 excerpt: Once you've made homemade dumpling dough, you won't go back to the store-bought stuff again!
-coverImage: /assets/recipe/dumpling-dough/cover.png
+coverImage: /assets/recipe/dumpling-dough/cover.webp
 date: 2023-09-05
-ogImage: /assets/recipe/dumpling-dough/cover.png
+ogImage: /assets/recipe/dumpling-dough/cover.webp
 ingredientLists:
   - ingredients:
-    - name: all purpose flour
-      quantity:
-        amount: 2
-        unit: cups
-    - name: hot water
-      quantity:
-        amount: 1/2
-        unit: cup
-    - name: salt
-      quantity:
-        amount: 1/2
-        unit: tsp
-    - name: Corn flour
-      notes: (for dusting)
+      - name: all purpose flour
+        quantity:
+          amount: 2
+          unit: cups
+      - name: hot water
+        quantity:
+          amount: 1/2
+          unit: cup
+      - name: salt
+        quantity:
+          amount: 1/2
+          unit: tsp
+      - name: Corn flour
+        notes: (for dusting)
 method:
   - Dissolve salt in the hot water
   - Combine the salty hot water and the flour in a bowl with a spoon or spatula

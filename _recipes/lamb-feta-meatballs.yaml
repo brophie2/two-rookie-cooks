@@ -1,49 +1,49 @@
 title: Lamb & Feta Meatballs
 excerpt: This meal takes less than 30 minutes from start to finish and also comes in at around $3 per serve!
-coverImage: /assets/recipe/lamb-feta-meatballs/cover.jpg
+coverImage: /assets/recipe/lamb-feta-meatballs/cover.webp
 date: 2024-01-18
-ogImage: /assets/recipe/lamb-feta-meatballs/cover.jpg
-ingredientLists: 
+ogImage: /assets/recipe/lamb-feta-meatballs/cover.webp
+ingredientLists:
   - title: Meatball ingredients
-    ingredients: 
-    - name: lamb mince
-      quantity:
-        amount: 500
-        unit: g
-    - name: feta
-      quantity:
-        amount: 100 
-        unit: g
-    - name: bread crumbs
-      quantity:
-        amount: 3/4
-        unit: cup
-      notes: (we used 2 slices of bread)
-    - name: dill
-      quantity: 
-        amount: 5
-        unit: g
+    ingredients:
+      - name: lamb mince
+        quantity:
+          amount: 500
+          unit: g
+      - name: feta
+        quantity:
+          amount: 100
+          unit: g
+      - name: bread crumbs
+        quantity:
+          amount: 3/4
+          unit: cup
+        notes: (we used 2 slices of bread)
+      - name: dill
+        quantity:
+          amount: 5
+          unit: g
   - title: Yoghurt sauce ingredients
     ingredients:
-    - name: greek yoghurt
-      quantity:
-        amount: 1
-        unit: cup
-    - name: cucumber
-      quantity:
-        amount: 100
-        unit: g
-    - name: dill 
-      quantity:
-        amount: 5
-        unit: g
-    - name: lemon juice 
-      quantity:
-        amount: 1
-        unit: tbsp
-    - name: Salt 
-    - name: Garlic powder 
-    - name: Onion powder
+      - name: greek yoghurt
+        quantity:
+          amount: 1
+          unit: cup
+      - name: cucumber
+        quantity:
+          amount: 100
+          unit: g
+      - name: dill
+        quantity:
+          amount: 5
+          unit: g
+      - name: lemon juice
+        quantity:
+          amount: 1
+          unit: tbsp
+      - name: Salt
+      - name: Garlic powder
+      - name: Onion powder
 method:
   - Crumble the feta
   - In a large bowl, add the lamb mince, crumbled feta, bread crumbs and dill and combine well

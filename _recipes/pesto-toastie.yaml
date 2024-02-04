@@ -1,23 +1,23 @@
 title: Sundried Tomato Pesto Toastie
-excerpt: If you thought the pesto couldn't get any better, wait until you make a toastie with it - absolute game changer. 
-coverImage: /assets/recipe/pesto-toastie/cover.jpg
+excerpt: If you thought the pesto couldn't get any better, wait until you make a toastie with it - absolute game changer.
+coverImage: /assets/recipe/pesto-toastie/cover.webp
 date: 2023-08-15
-ogImage: /assets/recipe/pesto-toastie/cover.jpg
+ogImage: /assets/recipe/pesto-toastie/cover.webp
 ingredientLists:
   - ingredients:
-    - name: bread
-      quantity:
-        amount: 2
-        unit: slices of
-    - name: sundried tomato pesto
-      quantity:
-        amount: 3
-        unit: tbsp
-    - name: grated cheese
-      quantity:
-        amount: 2
-        unit: tbsp
-    - name: Olive oil
+      - name: bread
+        quantity:
+          amount: 2
+          unit: slices of
+      - name: sundried tomato pesto
+        quantity:
+          amount: 3
+          unit: tbsp
+      - name: grated cheese
+        quantity:
+          amount: 2
+          unit: tbsp
+      - name: Olive oil
 method:
   - Spread the sundried tomato pesto liberally on one side of each of the slices of bread. Put the cheese on one of the slices of bread and close the sandwich
   - Oil your pan, so that the toast gets nice and crispy. Once it is hot, toast that toastie to perfection and enjoy immediately

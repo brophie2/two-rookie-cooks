@@ -1,38 +1,38 @@
 title: Banana Pancakes
 excerpt: Another banana recipe? Why not?
-coverImage: /assets/recipe/banana-pancakes/cover.jpg
+coverImage: /assets/recipe/banana-pancakes/cover.webp
 date: 2023-08-19
-ogImage: /assets/recipe/banana-pancakes/cover.jpg
+ogImage: /assets/recipe/banana-pancakes/cover.webp
 ingredientLists:
   - ingredients:
-    - name: all purpose flour
-      quantity:
-        amount: 1 1/2
-        unit: cups
-    - name: bananas
-      quantity:
-        amount: 3
-    - name: eggs
-      quantity:
-        amount: 2
-    - name: milk
-      quantity:
-        amount: 1
-        unit: cup
-    - name: baking soda
-      quantity:
-        amount: 1
-        unit: tsp
-    - name: cinnamon
-      quantity:
-        amount: 1/2
-        unit: tsp
-    - name: white sugar
-      quantity:
-        amount: 1
-        unit: tbsp 
-    - name: maple syrup
-      notes: (optional, to serve)
+      - name: all purpose flour
+        quantity:
+          amount: 1 1/2
+          unit: cups
+      - name: bananas
+        quantity:
+          amount: 3
+      - name: eggs
+        quantity:
+          amount: 2
+      - name: milk
+        quantity:
+          amount: 1
+          unit: cup
+      - name: baking soda
+        quantity:
+          amount: 1
+          unit: tsp
+      - name: cinnamon
+        quantity:
+          amount: 1/2
+          unit: tsp
+      - name: white sugar
+        quantity:
+          amount: 1
+          unit: tbsp
+      - name: maple syrup
+        notes: (optional, to serve)
 method:
   - Mash the 2 bananas
   - Beat the eggs and combine with the bananas

@@ -1,37 +1,37 @@
 title: Zucchini Slice
 excerpt: This quintessentially Australian dish somehow always finds its way to a lot of potlucks and picnics and there's a really good reason why.
-coverImage: /assets/recipe/zucchini-slice/cover.jpg
+coverImage: /assets/recipe/zucchini-slice/cover.webp
 date: 2023-12-31
-ogImage: /assets/recipe/zucchini-slice/cover.jpg
+ogImage: /assets/recipe/zucchini-slice/cover.webp
 ingredientLists:
   - ingredients:
-    - name: zucchini 
-      quantity:
-        amount: 400
-        unit: g
-      notes: (about 1-2)
-    - name: bacon
-      quantity:
-        amount: 4
-        unit: slices of
-    - name: brown onion
-      quantity:
-        amount: 1
-    - name: grated cheese
-      quantity:
-        amount: 1
-        unit: cup
-    - name: all purpose flour
-      quantity:
-        amount: 1
-        unit: cup
-    - name: baking powder
-      quantity:
-        amount: 1
-        unit: tsp
-    - name: eggs
-      quantity:
-        amount: 5
+      - name: zucchini
+        quantity:
+          amount: 400
+          unit: g
+        notes: (about 1-2)
+      - name: bacon
+        quantity:
+          amount: 4
+          unit: slices of
+      - name: brown onion
+        quantity:
+          amount: 1
+      - name: grated cheese
+        quantity:
+          amount: 1
+          unit: cup
+      - name: all purpose flour
+        quantity:
+          amount: 1
+          unit: cup
+      - name: baking powder
+        quantity:
+          amount: 1
+          unit: tsp
+      - name: eggs
+        quantity:
+          amount: 5
 method:
   - Preheat oven to 170 degrees celsius
   - Finely grate zucchini and squeeze as much water out of it as you can
@@ -39,4 +39,4 @@ method:
   - Beat the eggs in a large bowl
   - Add zucchini, bacon, onion, cheese, flour and baking powder and mix well
   - Pour the mixture into a tray and bake for 30-35 minutes, or until it is golden brown on top
-content:  It stores really well, is delicious cold or hot, and comes together pretty easily. Just make sure that you don't forget to add in all your ingredients while they are still in the bowl so you don't need to awkwardly fold it in while it's already in the tray. 
+content: It stores really well, is delicious cold or hot, and comes together pretty easily. Just make sure that you don't forget to add in all your ingredients while they are still in the bowl so you don't need to awkwardly fold it in while it's already in the tray.

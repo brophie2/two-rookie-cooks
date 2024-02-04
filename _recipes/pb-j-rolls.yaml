@@ -1,47 +1,47 @@
 title: PB&J Rolls
-excerpt: What could be better than stuffing a classic childhood favourite inside a fresh, crusty bread roll? 
-coverImage: /assets/recipe/pb-j-rolls/cover.jpg
+excerpt: What could be better than stuffing a classic childhood favourite inside a fresh, crusty bread roll?
+coverImage: /assets/recipe/pb-j-rolls/cover.webp
 date: 2023-11-24
-ogImage: /assets/recipe/pb-j-rolls/cover.jpg
+ogImage: /assets/recipe/pb-j-rolls/cover.webp
 ingredientLists:
   - ingredients:
-    - name: all purpose flour
-      quantity:
-        amount: 4
-        unit: cups
-    - name: warm water
-      quantity:
-        amount: 2
-        unit: cups
-    - name: sugar
-      quantity:
-        amount: 2
-        unit: tsp
-    - name: yeast
-      quantity:
-        amount: 4
-        unit: tsp
-    - name: salt
-      quantity:
-        amount: 1/4
-        unit: tsp
-    - name: oil
-      quantity: 
-        amount: 2
-        unit: tbsp
-    - name: peanut butter
-      quantity:
-        amount: 1/3
-        unit: cup
-    - name: jam
-      quantity:
-        amount: 1/3
-        unit: cup
-    - name: melted butter
-      quantity:
-        amount: 1-2
-        unit: tbsp
-      notes: (optional)
+      - name: all purpose flour
+        quantity:
+          amount: 4
+          unit: cups
+      - name: warm water
+        quantity:
+          amount: 2
+          unit: cups
+      - name: sugar
+        quantity:
+          amount: 2
+          unit: tsp
+      - name: yeast
+        quantity:
+          amount: 4
+          unit: tsp
+      - name: salt
+        quantity:
+          amount: 1/4
+          unit: tsp
+      - name: oil
+        quantity:
+          amount: 2
+          unit: tbsp
+      - name: peanut butter
+        quantity:
+          amount: 1/3
+          unit: cup
+      - name: jam
+        quantity:
+          amount: 1/3
+          unit: cup
+      - name: melted butter
+        quantity:
+          amount: 1-2
+          unit: tbsp
+        notes: (optional)
 method:
   - Combine plain flour and salt in a large bowl
   - Dissolve the yeast and sugar in the warm water and let it rest for 2-3 minutes or until little bubbles form

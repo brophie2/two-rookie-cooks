@@ -1,48 +1,48 @@
 title: Blueberry Banana Muffin
 excerpt: Indulge in the delightful blend of sweet blueberries and ripe bananas baked into moist, fluffy muffins.
-coverImage: /assets/recipe/blueberry-banana-muffin/cover.jpg
+coverImage: /assets/recipe/blueberry-banana-muffin/cover.webp
 date: 2023-12-06
-ogImage: /assets/recipe/blueberry-banana-muffin/cover.jpg
+ogImage: /assets/recipe/blueberry-banana-muffin/cover.webp
 ingredientLists:
   - ingredients:
-    - name: bananas
-      quantity:
-        amount: 2-3
-      notes: (mashed)
-    - name: greek yoghurt
-      quantity:
-        amount: 1/2
-    - name: egg
-      quantity:
-        amount: 1
-    - name: olive oil
-      quantity:
-        amount: 3
-        unit: tbsp
-    - name: vanilla extract
-      quantity:
-        amount: 1
-        unit: tsp
-    - name: cinnamon powder
-      quantity:
-        amount: 1
-        unit: tsp
-    - name: baking soda
-      quantity:
-        amount: 1
-        unit: tsp
-    - name: brown sugar
-      quantity:
-        amount: 1/3
-        unit: cup
-    - name: quick oats
-      quantity:
-        amount: 1
-        unit: cup
-    - name: plain flour
-      quantity:
-        amount: 1
-        unit: cup
+      - name: bananas
+        quantity:
+          amount: 2-3
+        notes: (mashed)
+      - name: greek yoghurt
+        quantity:
+          amount: 1/2
+      - name: egg
+        quantity:
+          amount: 1
+      - name: olive oil
+        quantity:
+          amount: 3
+          unit: tbsp
+      - name: vanilla extract
+        quantity:
+          amount: 1
+          unit: tsp
+      - name: cinnamon powder
+        quantity:
+          amount: 1
+          unit: tsp
+      - name: baking soda
+        quantity:
+          amount: 1
+          unit: tsp
+      - name: brown sugar
+        quantity:
+          amount: 1/3
+          unit: cup
+      - name: quick oats
+        quantity:
+          amount: 1
+          unit: cup
+      - name: plain flour
+        quantity:
+          amount: 1
+          unit: cup
 method:
   - Preheat the oven to 180 degrees celsius.
   - Combine the mashed bananas, egg, yoghurt, oil, vanilla extract and cinnamon in a bowl.
@@ -50,4 +50,4 @@ method:
   - Add in blueberries and fold a couple more times.
   - Scoop the batter into a muffin tray and bake for around 20 minutes.
 content: |
-   Each bite bursts with the perfect balance of tangy blueberry goodness and the natural sweetness of bananas, creating a heavenly treat for your taste buds. These blueberry banana muffins offer a comforting, irresistible snack for any time of day.
+  Each bite bursts with the perfect balance of tangy blueberry goodness and the natural sweetness of bananas, creating a heavenly treat for your taste buds. These blueberry banana muffins offer a comforting, irresistible snack for any time of day.

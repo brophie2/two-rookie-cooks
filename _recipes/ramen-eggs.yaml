@@ -1,24 +1,24 @@
 title: Ramen Eggs
 excerpt: This is perfect to meal prep. Keeping it in the fridge for a couple of days actually helps the yolk have a more jammy texture.
-coverImage: /assets/recipe/ramen-eggs/cover.jpg
+coverImage: /assets/recipe/ramen-eggs/cover.webp
 date: 2023-08-30
-ogImage: /assets/recipe/ramen-eggs/feature.jpg
+ogImage: /assets/recipe/ramen-eggs/feature.webp
 ingredientLists:
   - ingredients:
-    - name: soy sauce
-      quantity:
-        amount: 1/4
-        unit: cup
-    - name: mirin
-      quantity:
-        amount: 1/8
-        unit: cup
-    - name: water
-      quantity:
-        amount: 3/4
-        unit: cup
-    - name: Sesame seeds
-    - name: Cooked eggs
+      - name: soy sauce
+        quantity:
+          amount: 1/4
+          unit: cup
+      - name: mirin
+        quantity:
+          amount: 1/8
+          unit: cup
+      - name: water
+        quantity:
+          amount: 3/4
+          unit: cup
+      - name: Sesame seeds
+      - name: Cooked eggs
 method:
   - Combine the soy sauce, mirin, water and sesame seeds in a bowl or container. Make sure the bowl/container is large enough to accommodate the eggs as well
   - Gently lower the eggs into the marinate and refrigerate overnight
@@ -27,4 +27,4 @@ content: |
 
   There are lots of optional extras you can add to the marinade, such as chili, garlic or spring onions. This time, we kept it simple by just adding spring onions. 
 
-  Feel free to soft or hard boil your eggs to your liking. We chose to bring the water to a boil and then lower in the eggs for 7 minutes. Make sure to put lots of salt or vinegar in the water and have an ice bath ready for the eggs so that it makes it easier to peel. 
+  Feel free to soft or hard boil your eggs to your liking. We chose to bring the water to a boil and then lower in the eggs for 7 minutes. Make sure to put lots of salt or vinegar in the water and have an ice bath ready for the eggs so that it makes it easier to peel.

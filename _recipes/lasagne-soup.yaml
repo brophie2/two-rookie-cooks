@@ -1,49 +1,49 @@
 title: Lasagne Soup
-excerpt: We've been seeing this recipe go around Instagram and Tiktok and were keen to see if it lived up to the hype. 
-coverImage: /assets/recipe/lasagne-soup/cover.jpg
+excerpt: We've been seeing this recipe go around Instagram and Tiktok and were keen to see if it lived up to the hype.
+coverImage: /assets/recipe/lasagne-soup/cover.webp
 date: 2023-08-11
-ogImage: /assets/recipe/lasagne-soup/cover.jpg
+ogImage: /assets/recipe/lasagne-soup/cover.webp
 ingredientLists:
   - ingredients:
-    - name: beef mince
-      quantity:
-        amount: 500
-        unit: g
-    - name: carrots
-      quantity:
-        amount: 4
-    - name: dried lasagne sheets
-      quantity:
-        amount: 250
-        unit: g
-    - name: brown onion
-      quantity:
-        amount: 1
-    - name: garlic
-      quantity:
-        amount: 4
-        unit: cloves of 
-    - name: passata
-      quantity:
-        amount: 700
-        unit: g
-    - name: water
-      quantity:
-        amount: 700
-        unit: ml
-    - name: thickened cream
-      quantity:
-        amount: 60
-        unit: ml
-    - name: grated cheese
-      quantity:
-        amount: 1/2
-        unit: cup
-      notes: (we used a blend of mozzarella and cheddar cheese)
-    - name: stock cubes
-      quantity:
-        amount: 2
-    - name: Dried herbs
+      - name: beef mince
+        quantity:
+          amount: 500
+          unit: g
+      - name: carrots
+        quantity:
+          amount: 4
+      - name: dried lasagne sheets
+        quantity:
+          amount: 250
+          unit: g
+      - name: brown onion
+        quantity:
+          amount: 1
+      - name: garlic
+        quantity:
+          amount: 4
+          unit: cloves of
+      - name: passata
+        quantity:
+          amount: 700
+          unit: g
+      - name: water
+        quantity:
+          amount: 700
+          unit: ml
+      - name: thickened cream
+        quantity:
+          amount: 60
+          unit: ml
+      - name: grated cheese
+        quantity:
+          amount: 1/2
+          unit: cup
+        notes: (we used a blend of mozzarella and cheddar cheese)
+      - name: stock cubes
+        quantity:
+          amount: 2
+      - name: Dried herbs
 method:
   - Dice the onion and carrot, and mince the garlic cloves
   - Fry the onion and garlic before adding the beef mince to the pot

@@ -1,26 +1,26 @@
 title: Garlic Butter Prawn Dumplings
 excerpt: Raise your hand if you love garlic 🙋
-coverImage: /assets/recipe/garlic-butter-prawn-dumplings/cover.jpg
+coverImage: /assets/recipe/garlic-butter-prawn-dumplings/cover.webp
 date: 2023-10-27
-ogImage: /assets/recipe/garlic-butter-prawn-dumplings/cover.jpg
+ogImage: /assets/recipe/garlic-butter-prawn-dumplings/cover.webp
 ingredientLists:
   - ingredients:
-    - name: prawns
-      quantity:
-        amount: 500
-        unit: g
-      notes: (shelled and de-veined)
-    - name: garlic butter
-      quantity:
-        amount: 50
-        unit: g
-    - name: garlic 
-      quantity:
-        amount: 3
-        unit: cloves of
-      notes: (minced)
-    - name: Dumpling wrappers
-      notes: (1 portion of our dumpling dough recipe or approximately 25-30 wrappers)
+      - name: prawns
+        quantity:
+          amount: 500
+          unit: g
+        notes: (shelled and de-veined)
+      - name: garlic butter
+        quantity:
+          amount: 50
+          unit: g
+      - name: garlic
+        quantity:
+          amount: 3
+          unit: cloves of
+        notes: (minced)
+      - name: Dumpling wrappers
+        notes: (1 portion of our dumpling dough recipe or approximately 25-30 wrappers)
 method:
   - Mince the prawns but make sure that there are still some chunks
   - Add the prawns to a bowl, along with the melted garlic butter and extra garlic cloves that have been minced

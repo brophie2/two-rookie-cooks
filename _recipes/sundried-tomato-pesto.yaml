@@ -1,28 +1,28 @@
 title: Sundried Tomato Pesto
 excerpt: It's so simple to make but it tastes very sophisticated.
-coverImage: /assets/recipe/sundried-tomato-pesto/cover.jpg
+coverImage: /assets/recipe/sundried-tomato-pesto/cover.webp
 date: 2023-08-14
-ogImage: /assets/recipe/sundried-tomato-pesto/cover.jpg
+ogImage: /assets/recipe/sundried-tomato-pesto/cover.webp
 ingredientLists:
   - ingredients:
-    - name: sundried tomatoes
-      quantity:
-        amount: 250
-        unit: g
-      notes: (it can be halves or strips)
-    - name: cashew nuts
-      quantity:
-        amount: 1/3
-        unit: cup
-    - name: parmesan cheese
-      quantity:
-        amount: 1/4
-        unit: cup
-    - name: Extra virgin olive oil
-      notes: (probably around 1/3 cup but you might need more/less)
-    - name: Dried herbs 
-    - name: Salt 
-    - name: Pepper
+      - name: sundried tomatoes
+        quantity:
+          amount: 250
+          unit: g
+        notes: (it can be halves or strips)
+      - name: cashew nuts
+        quantity:
+          amount: 1/3
+          unit: cup
+      - name: parmesan cheese
+        quantity:
+          amount: 1/4
+          unit: cup
+      - name: Extra virgin olive oil
+        notes: (probably around 1/3 cup but you might need more/less)
+      - name: Dried herbs
+      - name: Salt
+      - name: Pepper
 method:
   - Blend sundried tomatoes until they are smaller chunks
   - Add cashew nuts and blend until they are also smaller chunks. Take care not to over blend as it will turn into a cashew butter which isn't what we want. If you are having trouble blending, add a few tbsp of extra virgin olive oil
@@ -30,9 +30,9 @@ method:
   - Serve up!
 content: |
   It's the herby oil that the sundried tomatoes come in that does all that magic for us. Shhhh don't tell anyone this secret! 
-  
+
   It was quite hard to quantify the ingredients for this recipe as we usually just eyeball it, adding more or less depending on how we feel that day. We've tried to approximate it as best as possible, but it's best to have some surplus of each ingredient in case you need a more. 
-  
+
   Also, taste lots throughout! Not just to make sure it is seasoned well, but because you probably won't be able to resist having a bit more. 
-  
+
   Although it tastes really good on its own, check out our other recipes that show our favourite ways to turn this pesto into a delicious, easy meal.

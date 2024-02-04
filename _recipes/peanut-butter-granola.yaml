@@ -1,42 +1,42 @@
 title: Peanut Butter Granola
 excerpt: If you haven't tried making your own granola at home, you need to ASAP!
-coverImage: /assets/recipe/peanut-butter-granola/cover.jpg
+coverImage: /assets/recipe/peanut-butter-granola/cover.webp
 date: 2024-01-30
-ogImage: /assets/recipe/peanut-butter-granola/cover.jpg
+ogImage: /assets/recipe/peanut-butter-granola/cover.webp
 ingredientLists:
   - ingredients:
-    - name: rolled oats
-      quantity:
-        amount: 4
-        unit: cups
-    - name: cashew nuts
-      quantity:
-        amount: 1
-        unit: cup
-    - name: sunflower seeds
-      quantity:
-        amount: 1/4
-        unit: cup
-    - name: peanut butter
-      quantity:
-        amount: 3/4
-        unit: cup
-    - name: honey
-      quantity:
-        amount: 1/2
-        unit: cup
-    - name: Cinnamon powder
-    - name: Salt
-      notes: (optional but highly recommended)
+      - name: rolled oats
+        quantity:
+          amount: 4
+          unit: cups
+      - name: cashew nuts
+        quantity:
+          amount: 1
+          unit: cup
+      - name: sunflower seeds
+        quantity:
+          amount: 1/4
+          unit: cup
+      - name: peanut butter
+        quantity:
+          amount: 3/4
+          unit: cup
+      - name: honey
+        quantity:
+          amount: 1/2
+          unit: cup
+      - name: Cinnamon powder
+      - name: Salt
+        notes: (optional but highly recommended)
 method:
   - Preheat the oven to 170 degrees celsius
   - Put the peanut butter in a glass bowl and microwave for around 30 seconds on a medium heat, or until it has softened
-  - Add the remaining ingredients to the bowl and mix well 
-  - Lay the mixture flat on a sheet pan. Make sure that it overlaps so that it can form clumps 
+  - Add the remaining ingredients to the bowl and mix well
+  - Lay the mixture flat on a sheet pan. Make sure that it overlaps so that it can form clumps
   - Put the tray into the oven for 20 minutes. Halfway through, you will need to take it out of the oven to toss so that it doesn’t burn
-  - Once it is nice and toasty, take it out and let it cool in the tray 
-  - After it has cooled for at least 1hr, you can transfer to an airtight container to store 
-content: | 
+  - Once it is nice and toasty, take it out and let it cool in the tray
+  - After it has cooled for at least 1hr, you can transfer to an airtight container to store
+content: |
   Homemade granola hits different! I don’t know why it's so addictive but it just is. We eat it for breakfast, we’ll snack on it throughout the day and have a little bit more for dessert after dinner. Before we know it, the big batch that we made over the weekend that was supposed to last us for a couple of weeks is gone in a couple of days. Do we have a serious problem?
 
   Serves: 20

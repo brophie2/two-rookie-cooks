@@ -1,24 +1,24 @@
 title: Seaweed Scrambled Eggs
 excerpt: Controversial opinion but I would take these seaweed scrambled eggs over a $30 chili oil scrambled egg any day of the week.
-coverImage: /assets/recipe/seaweed-scrambled-eggs/cover.jpg
+coverImage: /assets/recipe/seaweed-scrambled-eggs/cover.webp
 date: 2024-01-03
-ogImage: /assets/recipe/seaweed-scrambled-eggs/cover.jpg
+ogImage: /assets/recipe/seaweed-scrambled-eggs/cover.webp
 ingredientLists:
   - ingredients:
-    - name: seaweed
-      quantity:
-        amount: 1
-        unit: g
-      notes: (approximately 1/2 a sheet)
-    - name: eggs
-      quantity:
-        amount: 2-3
-    - name: butter
-      quantity:
-        amount: 1
-        unit: tbsp
-    - name: Toast
-      notes: (optional, to serve)
+      - name: seaweed
+        quantity:
+          amount: 1
+          unit: g
+        notes: (approximately 1/2 a sheet)
+      - name: eggs
+        quantity:
+          amount: 2-3
+      - name: butter
+        quantity:
+          amount: 1
+          unit: tbsp
+      - name: Toast
+        notes: (optional, to serve)
 method:
   - Cut the seaweed into little strips
   - Beat the eggs

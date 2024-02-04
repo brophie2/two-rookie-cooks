@@ -1,32 +1,32 @@
 title: Garlicky Bread Bites
 excerpt: If you have made a lot of bread before, you might be reading our recipe or watching the video and thinking "wow this looks a lot like focaccia" and you would not be entirely wrong
-coverImage: /assets/recipe/garlicky-bread-bites/cover.jpg
+coverImage: /assets/recipe/garlicky-bread-bites/cover.webp
 date: 2023-10-17
-ogImage: /assets/recipe/garlicky-bread-bites/cover.jpg
+ogImage: /assets/recipe/garlicky-bread-bites/cover.webp
 ingredientLists:
   - ingredients:
-    - name: plain flour
-      quantity:
-        amount: 1/4
-        unit: cup
-    - name: instant yeast
-      quantity:
-        amount: 1/8
-        unit: cup
-    - name: white sugar
-      quantity:
-        amount: 3/4
-        unit: cup
-    - name: warm water
-      quantity:
-        amount: 3/4
-        unit: cup
-    - name: cloves of garlic, thinly sliced
-      quantity:
-        amount: 3/4
-        unit: cup
-    - name: Extra virgin olive oil
-    - name: Flaky sea salt
+      - name: plain flour
+        quantity:
+          amount: 1/4
+          unit: cup
+      - name: instant yeast
+        quantity:
+          amount: 1/8
+          unit: cup
+      - name: white sugar
+        quantity:
+          amount: 3/4
+          unit: cup
+      - name: warm water
+        quantity:
+          amount: 3/4
+          unit: cup
+      - name: cloves of garlic, thinly sliced
+        quantity:
+          amount: 3/4
+          unit: cup
+      - name: Extra virgin olive oil
+      - name: Flaky sea salt
 method:
   - Combine the warm water and yeast together, and let it sit for a few minutes to activate. Once there are bubbles forming, it's ready
   - In a large bowl, add the plain flour and a pinch of salt (normal salt, not the flaky kind just yet) and mix

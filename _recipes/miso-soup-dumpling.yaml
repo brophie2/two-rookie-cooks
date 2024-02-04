@@ -1,38 +1,38 @@
 title: Miso Soup Dumplings
-excerpt: Have you ever wondered what it would taste like if miso soup and a dumpling had a baby? 
-coverImage: /assets/recipe/miso-soup-dumpling/cover.jpg
+excerpt: Have you ever wondered what it would taste like if miso soup and a dumpling had a baby?
+coverImage: /assets/recipe/miso-soup-dumpling/cover.webp
 date: 2023-09-20
-ogImage: /assets/recipe/miso-soup-dumpling/cover.jpg
+ogImage: /assets/recipe/miso-soup-dumpling/cover.webp
 ingredientLists:
   - ingredients:
-    - name: chicken mince
-      quantity:
-        amount: 250
-        unit: g
-    - name: firm tofu
-      quantity:
-        amount: 150
-        unit: g
-      notes: (crumbled)
-    - name: miso paste
-      quantity:
-        amount: 2
-        unit: tbsp
-    - name: spring onions
-      quantity:
-        amount: 2
-    - name: soy sauce
-      quantity:
-        amount: 1
-        unit: tbsp
-    - name: sesame oil
-      quantity:
-        amount: 1
-        unit: tbsp
-    - name: Garlic and onion powder
-      notes: to season
-    - name: Dumpling dough
-      notes: (approximately 2 serves of our resipce, or 40-50 wrappers if you are buying it in a packet)
+      - name: chicken mince
+        quantity:
+          amount: 250
+          unit: g
+      - name: firm tofu
+        quantity:
+          amount: 150
+          unit: g
+        notes: (crumbled)
+      - name: miso paste
+        quantity:
+          amount: 2
+          unit: tbsp
+      - name: spring onions
+        quantity:
+          amount: 2
+      - name: soy sauce
+        quantity:
+          amount: 1
+          unit: tbsp
+      - name: sesame oil
+        quantity:
+          amount: 1
+          unit: tbsp
+      - name: Garlic and onion powder
+        notes: to season
+      - name: Dumpling dough
+        notes: (approximately 2 serves of our resipce, or 40-50 wrappers if you are buying it in a packet)
 method:
   - Combine the chicken mince, crumbled tofu, miso paste, sliced spring onions, soy sauce, sesame oil, garlic powder and onion powder in a large bowl
   - Wrap dumplings

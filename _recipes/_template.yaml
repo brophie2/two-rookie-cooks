@@ -1,16 +1,16 @@
 title:
-excerpt: 
-coverImage: /assets/recipe/{post}/cover.jpg
+excerpt:
+coverImage: /assets/recipe/{post}/cover.webp
 date: 2024-02-01
-ogImage: /assets/recipe/{post}/cover.jpg
+ogImage: /assets/recipe/{post}/cover.webp
 ingredientLists:
   - title:
     ingredients:
-    - name: 
-      quantity:
-        amount:
-        unit: 
-      notes:
+      - name:
+        quantity:
+          amount:
+          unit:
+        notes:
 method:
-  - 
+  -
 content:

@@ -1,46 +1,46 @@
 title: Stir Fried Noodles
-excerpt: You’ll very rarely catch me eating stir fried noodles when I eat out. 
-coverImage: /assets/recipe/stir-fried-noodles/cover.png
+excerpt: You’ll very rarely catch me eating stir fried noodles when I eat out.
+coverImage: /assets/recipe/stir-fried-noodles/cover.webp
 date: 2024-01-27
-ogImage: /assets/recipe/stir-fried-noodles/cover.png
+ogImage: /assets/recipe/stir-fried-noodles/cover.webp
 ingredientLists:
   - ingredients:
-    - name: yellow alkaline noodles
-      quantity:
-        amount: 500
-        unit: g
-    - name: Chinese cabbage
-      quantity:
-        amount: 2-3
-        unit: cups
-      notes: (napa cabbage)
-    - name: carrot
-      quantity:
-        amount: 1
-    - name: chicken thighs
-      quantity:
-        amount: 2
-    - name: garlic
-      quantity:
-        amount: 2
-        unit: cloves
-    - name: spring onion
-      quantity:
-        amount: 1
-    - name: soy sauce
-      quantity:
-        amount: 4
-        unit: tbsp
-    - name: mirin
-      quantity:
-        amount: 2
-        unit: tbsp
-    - name: honey
-      quantity:
-        amount: 1
-        unit: tsp
-    - name: Garlic powder 
-    - name: Onion powder
+      - name: yellow alkaline noodles
+        quantity:
+          amount: 500
+          unit: g
+      - name: Chinese cabbage
+        quantity:
+          amount: 2-3
+          unit: cups
+        notes: (napa cabbage)
+      - name: carrot
+        quantity:
+          amount: 1
+      - name: chicken thighs
+        quantity:
+          amount: 2
+      - name: garlic
+        quantity:
+          amount: 2
+          unit: cloves
+      - name: spring onion
+        quantity:
+          amount: 1
+      - name: soy sauce
+        quantity:
+          amount: 4
+          unit: tbsp
+      - name: mirin
+        quantity:
+          amount: 2
+          unit: tbsp
+      - name: honey
+        quantity:
+          amount: 1
+          unit: tsp
+      - name: Garlic powder
+      - name: Onion powder
 method:
   - Cut carrot into small matchsticks and thinly slice chinese cabbage. Make sure to separate the stems from the leaves
   - Mince garlic cloves and thinly slice spring onions
@@ -57,4 +57,4 @@ content: |
 
   Serves: 4
   Prep time: 10 minutes 
-  Cooking time: 10 minutes 
+  Cooking time: 10 minutes
