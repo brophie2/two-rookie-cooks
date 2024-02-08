@@ -11,7 +11,7 @@ const MoreStories = ({ recipes }: Props) => {
       <h1 className="mb-8 text-5xl font-bold tracking-tighter leading-tight">
         More Recipes
       </h1>
-      <div className="grid grid-cols-1 md:grid-cols-3 md:gap-x-14 lg:gap-x-20 gap-y-10 md:gap-y-10 mb-32">
+      <div className="grid grid-cols-1 md:grid-cols-3 md:gap-x-8 gap-y-10 md:gap-y-8 mb-32">
         {recipes.map((recipe) => (
           <RecipePreview
             key={recipe.slug}
