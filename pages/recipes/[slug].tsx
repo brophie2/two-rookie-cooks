@@ -18,7 +18,7 @@ type Props = {
 export default function Recipe({ recipe }: Props) {
   const title = `${recipe.title}`;
   useEffect(() => {
-    document.title = title;  
+    document.title = title;
   }, [title]);
 
   const router = useRouter();
@@ -28,29 +28,31 @@ export default function Recipe({ recipe }: Props) {
   }
 
   return (
-    <Layout>
-      <Container>
-        <Header />
-        {router.isFallback ? (
-          <RecipeTitle>Loading…</RecipeTitle>
-        ) : (
-          <>
-            <article className="mb-32">
-              <Head>
-                <title>{title}</title>
-                <meta property="og:image" content={recipe.ogImage} />
-              </Head>
-              <RecipeHeader
-                title={recipe.title}
-                coverImage={recipe.coverImage}
-                date={recipe.date}
-              />
-              <RecipeBody {...recipe} />
-            </article>
-          </>
-        )}
-      </Container>
-    </Layout>
+    <>
+      <Header />
+      <Layout>
+        <Container>
+          {router.isFallback ? (
+            <RecipeTitle>Loading…</RecipeTitle>
+          ) : (
+            <>
+              <article className="mb-32">
+                <Head>
+                  <title>{title}</title>
+                  <meta property="og:image" content={recipe.ogImage} />
+                </Head>
+                <RecipeHeader
+                  title={recipe.title}
+                  coverImage={recipe.coverImage}
+                  date={recipe.date}
+                />
+                <RecipeBody {...recipe} />
+              </article>
+            </>
+          )}
+        </Container>
+      </Layout>
+    </>
   );
 }
 
@@ -71,7 +73,7 @@ export async function getStaticProps({ params }: Params) {
     "ingredientLists",
     "excerpt",
     "method",
-    "serves"
+    "serves",
   ]);
 
   return {
