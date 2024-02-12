@@ -49,7 +49,6 @@ const Header = () => {
                   as="a"
                   href={item.href}
                   className="text-gray-800 block rounded-md px-8 py-2 text-base font-medium"
-                  aria-current={item.current ? "page" : undefined}
                 >
                   {item.name}
                 </Disclosure.Button>
