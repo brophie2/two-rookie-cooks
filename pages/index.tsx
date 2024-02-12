@@ -14,20 +14,20 @@ type Props = {
 
 export default function Index({ allRecipes }: Props) {
   const heroRecipe = allRecipes.find((recipe) => recipe.title == "Ramen Eggs");
-  const moreRecipes = allRecipes.filter(
-    (recipe) => recipe.title != "Ramen Eggs"
-  ).slice(0, 6);
+  const moreRecipes = allRecipes
+    .filter((recipe) => recipe.title != "Ramen Eggs")
+    .slice(0, 6);
 
   useEffect(() => {
-    document.title = "Two Rookie Cooks";  
+    document.title = "Two Rookie Cooks";
   }, []);
 
   return (
     <>
       <GoogleAnalytics />
+      <Header />
       <Layout>
         <Container>
-          <Header />
           {heroRecipe && (
             <HeroRecipe
               title={heroRecipe.title}
@@ -35,8 +35,8 @@ export default function Index({ allRecipes }: Props) {
               date={heroRecipe.date}
               slug={heroRecipe.slug}
               excerpt={heroRecipe.excerpt}
-              />
-              )}
+            />
+          )}
           {moreRecipes.length > 0 && <MoreStories recipes={moreRecipes} />}
         </Container>
       </Layout>
