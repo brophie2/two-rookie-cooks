@@ -10,13 +10,13 @@ const Meta = () => {
       />
       <link
         rel="icon"
-        type="image/png"
+        type="image/webp"
         sizes="32x32"
         href="/favicon/two-rookie-cooks-logo.webp"
       />
       <link
         rel="icon"
-        type="image/png"
+        type="image/webp"
         sizes="16x16"
         href="/favicon/two-rookie-cooks-logo.webp"
       />
