@@ -21,6 +21,7 @@ https://tworookiecooks.github.io/recipes/chicken-nuggets
 https://tworookiecooks.github.io/recipes/chicken-prawn-soup
 https://tworookiecooks.github.io/recipes/chorizo-rice
 https://tworookiecooks.github.io/recipes/chrysanthemum-chia-seed-pudding
+https://tworookiecooks.github.io/recipes/creamy-garlic-prawns
 https://tworookiecooks.github.io/recipes/creamy-miso-udon
 https://tworookiecooks.github.io/recipes/deep-dish-pastry
 https://tworookiecooks.github.io/recipes/diy-pepper-lunch
@@ -30,6 +31,7 @@ https://tworookiecooks.github.io/recipes/enoki-beef-don
 https://tworookiecooks.github.io/recipes/finnish-salmon-soup
 https://tworookiecooks.github.io/recipes/feta-egg
 https://tworookiecooks.github.io/recipes/garlic-butter-prawn-dumplings
+https://tworookiecooks.github.io/recipes/garlic-stracciatella-cheese
 https://tworookiecooks.github.io/recipes/garlicky-bread-bites
 https://tworookiecooks.github.io/recipes/granola
 https://tworookiecooks.github.io/recipes/half-boiled-eggs
@@ -61,6 +63,7 @@ https://tworookiecooks.github.io/recipes/peanut-butter-granola
 https://tworookiecooks.github.io/recipes/pesto-pasta
 https://tworookiecooks.github.io/recipes/pesto-toastie
 https://tworookiecooks.github.io/recipes/pork-dumpling
+https://tworookiecooks.github.io/recipes/pork-mince-japanese-curry
 https://tworookiecooks.github.io/recipes/quiche
 https://tworookiecooks.github.io/recipes/ramen-eggs
 https://tworookiecooks.github.io/recipes/rose-tteokboki
@@ -80,4 +83,5 @@ https://tworookiecooks.github.io/recipes/taco-pasta
 https://tworookiecooks.github.io/recipes/tortilla
 https://tworookiecooks.github.io/recipes/tofu-fries
 https://tworookiecooks.github.io/recipes/tuscan-salmon
+https://tworookiecooks.github.io/recipes/vodka-pasta
 https://tworookiecooks.github.io/recipes/zucchini-slice
