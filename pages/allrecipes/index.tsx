@@ -33,7 +33,7 @@ export default function AllRecipes({ allRecipes }: Props) {
 
   return (
     <>
-      <Header />
+      <Header allRecipes={allRecipes} />
       <Layout>
         <Container>
           {router.isFallback ? (

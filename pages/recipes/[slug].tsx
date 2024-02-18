@@ -13,9 +13,10 @@ import { useEffect } from "react";
 
 type Props = {
   recipe: Recipe;
+  allRecipes: Recipe[];
 };
 
-export default function Recipe({ recipe }: Props) {
+export default function Recipe({ recipe, allRecipes }: Props) {
   const title = `${recipe.title}`;
   useEffect(() => {
     document.title = title;
@@ -29,7 +30,7 @@ export default function Recipe({ recipe }: Props) {
 
   return (
     <>
-      <Header />
+      <Header allRecipes={allRecipes} />
       <Layout>
         <Container>
           {router.isFallback ? (
@@ -59,10 +60,20 @@ export default function Recipe({ recipe }: Props) {
 type Params = {
   params: {
     slug: string;
+    allRecipes: Recipe[]
   };
 };
 
 export async function getStaticProps({ params }: Params) {
+  const allRecipes = getAllRecipes([
+    "title",
+    "date",
+    "slug",
+    "coverImage",
+    "excerpt",
+    "ogImage",
+  ]);
+
   const recipe = getRecipeBySlug(params.slug, [
     "title",
     "date",
@@ -78,7 +89,8 @@ export async function getStaticProps({ params }: Params) {
 
   return {
     props: {
-      recipe,
+      recipe: recipe,
+      allRecipes: allRecipes
     },
   };
 }
