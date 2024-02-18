@@ -2,10 +2,11 @@ import Recipe from "@/interfaces/recipes";
 import { Disclosure } from "@headlessui/react";
 import { XMarkIcon, Bars3Icon } from "@heroicons/react/20/solid";
 import Link from "next/link";
+import Search from "./search";
 
 const navigation = [
   { name: "Home", href: "/" },
-  { name: "Recipe Catalogue", href: "/allrecipes"},
+  { name: "Recipe Catalogue", href: "/allrecipes" },
 ];
 
 type Props = {
@@ -36,13 +37,17 @@ const Header = ({ allRecipes }: Props) => {
               </div>
             </div>
 
-            <div className="float-right text-lg hidden md:block">
-              <Link href="/" className="px-6 align-middle hover:underline">
-                Home
-              </Link>
-              <Link href="/allrecipes" className="px-6 align-middle hover:underline">
-                Recipe Catalogue
-              </Link>
+            <div className="float-right text-lg hidden md:flex md:align-middle md:items-center">
+              {navigation.map((item) => (
+                <Link
+                  href={item.href}
+                  key={item.name}
+                  className="px-6 align-middle hover:underline"
+                >
+                  {item.name}
+                </Link>
+              ))}
+              <Search allRecipes={allRecipes} />
             </div>
           </div>
 
@@ -58,6 +63,7 @@ const Header = ({ allRecipes }: Props) => {
                   {item.name}
                 </Disclosure.Button>
               ))}
+              <Search allRecipes={allRecipes} className={"px-8 py-2"} />
             </div>
           </Disclosure.Panel>
         </>
