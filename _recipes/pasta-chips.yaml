@@ -1,0 +1,33 @@
+title: Air Fried Pasta Chips
+excerpt: These pasta chips were pretty crispy and chewy and can be served with a lot of different sauces.
+coverImage: /assets/recipe/pasta-chips/cover.webp
+date: 2024-02-24
+ogImage: /assets/recipe/pasta-chips/cover.webp
+ingredientLists:
+  - ingredients:
+      - name: dried pasta
+        quantity:
+          amount: 200
+          unit: g
+      - name: extra virgin olive oil
+        quantity:
+          amount: 2
+          unit: tbsp
+      - name: grated parmesan cheese
+        quantity:
+          amount: 2
+          unit: tbsp 
+      - name: finely chopped parsley
+        quantity:
+          amount: 1
+          unit: tbsp 
+      - name: Garlic powder
+      - name: Onion powder
+      - name: Paprika
+method:
+  - Cook pasta according to directions on the packet
+  - Drain pasta and let it cool (or rinse with cold water to speed up this process)
+  - To a bowl, add the cooked pasta, parmesan cheese, parsley, garlic powder, onion powder, paprika and extra virgin olive oil. Mix until pasta is well coated
+  - Put the pasta in the air fryer at 160 degrees celsius for 10 minutes, or until pasta is golden brown
+content: |
+  Today we chose to eat it with some homemade pesto aioli. Honestly, I really wanted to like it but it was just a tad underwhelming, especially for the amount of effort it took. I think that an easier way to achieve something pretty similar is to do a pasta bake and let a bit of the pasta stick out of the sauce so it can get a bit crispy.
