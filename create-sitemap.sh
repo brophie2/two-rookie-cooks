@@ -7,9 +7,11 @@ if [ ! -d "$directory" ]; then
   exit 1
 fi
 
+# Add new static pages here
 echo "https://tworookiecooks.github.io/" >$sitemap
 echo "https://tworookiecooks.github.io/allrecipes" >>$sitemap
 
+# Loop all the recipes
 for file in "$directory"/*; do
   if [ -f "$file" ]; then
     filename="$(basename ${file} .yaml)"
