@@ -1,6 +1,7 @@
 https://tworookiecooks.github.io/
-https://tworookiecooks.github.io/recipes/air-fried-tteokboki
+https://tworookiecooks.github.io/allrecipes
 https://tworookiecooks.github.io/recipes/air-fried-tteokboki-sweet
+https://tworookiecooks.github.io/recipes/air-fried-tteokboki
 https://tworookiecooks.github.io/recipes/army-stew
 https://tworookiecooks.github.io/recipes/asian-meatballs
 https://tworookiecooks.github.io/recipes/avocado-pasta
@@ -15,7 +16,7 @@ https://tworookiecooks.github.io/recipes/bolognese-pies
 https://tworookiecooks.github.io/recipes/caramelised-onion-dip
 https://tworookiecooks.github.io/recipes/cauliflower-pasta
 https://tworookiecooks.github.io/recipes/char-siu
-https://tworookiecooks.github.io/recipes/cheeseburger-dumpling
+https://tworookiecooks.github.io/recipes/cheeseburger-dumplings
 https://tworookiecooks.github.io/recipes/chicken-curry
 https://tworookiecooks.github.io/recipes/chicken-nuggets
 https://tworookiecooks.github.io/recipes/chicken-prawn-soup
@@ -28,7 +29,6 @@ https://tworookiecooks.github.io/recipes/diy-pepper-lunch
 https://tworookiecooks.github.io/recipes/dumpling-dough
 https://tworookiecooks.github.io/recipes/egg-drop-soup
 https://tworookiecooks.github.io/recipes/enoki-beef-don
-https://tworookiecooks.github.io/recipes/finnish-salmon-soup
 https://tworookiecooks.github.io/recipes/feta-egg
 https://tworookiecooks.github.io/recipes/garlic-butter-prawn-dumplings
 https://tworookiecooks.github.io/recipes/garlic-stracciatella-cheese
@@ -58,16 +58,18 @@ https://tworookiecooks.github.io/recipes/mushroom-pastries
 https://tworookiecooks.github.io/recipes/okonomiyaki
 https://tworookiecooks.github.io/recipes/oyakodon
 https://tworookiecooks.github.io/recipes/pan-fried-rice-paper-rolls
+https://tworookiecooks.github.io/recipes/pasta-chips
 https://tworookiecooks.github.io/recipes/pb-j-rolls
 https://tworookiecooks.github.io/recipes/peanut-butter-granola
 https://tworookiecooks.github.io/recipes/pesto-pasta
 https://tworookiecooks.github.io/recipes/pesto-toastie
-https://tworookiecooks.github.io/recipes/pork-dumpling
+https://tworookiecooks.github.io/recipes/pork-dumplings
 https://tworookiecooks.github.io/recipes/pork-mince-japanese-curry
 https://tworookiecooks.github.io/recipes/quiche
 https://tworookiecooks.github.io/recipes/ramen-eggs
 https://tworookiecooks.github.io/recipes/rose-tteokboki
 https://tworookiecooks.github.io/recipes/salmon-egg-rice
+https://tworookiecooks.github.io/recipes/salmon-soup
 https://tworookiecooks.github.io/recipes/sausage-bolognese
 https://tworookiecooks.github.io/recipes/scissor-cut-noodles
 https://tworookiecooks.github.io/recipes/seaweed-scrambled-eggs
@@ -80,8 +82,8 @@ https://tworookiecooks.github.io/recipes/sundried-tomato-pesto
 https://tworookiecooks.github.io/recipes/sushi-bake
 https://tworookiecooks.github.io/recipes/taco-bowl
 https://tworookiecooks.github.io/recipes/taco-pasta
+https://tworookiecooks.github.io/recipes/tofu_fries
 https://tworookiecooks.github.io/recipes/tortilla
-https://tworookiecooks.github.io/recipes/tofu-fries
 https://tworookiecooks.github.io/recipes/tuscan-salmon
 https://tworookiecooks.github.io/recipes/vodka-pasta
 https://tworookiecooks.github.io/recipes/zucchini-slice
