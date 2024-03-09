@@ -40,7 +40,6 @@ export default function Search({ allRecipes, className }: Props) {
     if (debouncedSearchTerm.length > 0) {
       setIsOpen(true);
     }
-    console.warn(debouncedSearchTerm);
   }, [debouncedSearchTerm]);
 
   useEffect(() => {
@@ -83,7 +82,7 @@ export default function Search({ allRecipes, className }: Props) {
             <CoverImage
               title={recipe.title}
               src={recipe.coverImage}
-              className="h-16 w-16 object-cover"
+              className="object-cover aspect-square"
             />
           </div>
           <div className="ml-2 w-4/5">
