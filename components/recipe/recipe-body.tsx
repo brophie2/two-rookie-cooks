@@ -28,7 +28,7 @@ const RecipeBody = ({
 
       <div className="flex flex-col md:flex-row">
         {iframeUrl && (
-          <div className="flex-none pr-8 pb-8">
+          <div className="flex-none pb-8 md:pr-8">
             <RecipeVideo title={title} url={iframeUrl} />
           </div>
         )}

@@ -7,7 +7,7 @@ type Props = {
 
 const RecipeTitle  = ({ title, url }: Props) => {
   return (
-    <iframe width="360" height="640" src={url} title={title} allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+    <iframe className="w-full aspect-[9/16]" src={url} title={title} allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
   );
 }
 
