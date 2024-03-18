@@ -13,12 +13,12 @@ const RecipeHeader = ({ title, coverImage, date }: Props) => {
     <>
       <RecipeTitle>{title}</RecipeTitle>
       <div className="flex justify-center items-center">
-        <div className="max-w-2xl mb-8 md:mb-16 sm:mx-0">
+        <div className="max-w-3xl mb-8 md:mb-16 sm:mx-0">
           <CoverImage title={title} src={coverImage} />
         </div>
       </div>
 
-      <div className="max-w-2xl mx-auto">
+      <div className="mx-auto">
         <div className="mb-6 text-lg">
           <DateFormatter dateString={date} />
         </div>

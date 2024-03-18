@@ -37,7 +37,7 @@ export default function Recipe({ recipe, allRecipes }: Props) {
             <RecipeTitle>Loading…</RecipeTitle>
           ) : (
             <>
-              <article className="mb-32">
+              <article className="mb-32 max-w-7xl">
                 <Head>
                   <title>{title}</title>
                   <meta property="og:image" content={recipe.ogImage} />
@@ -60,7 +60,7 @@ export default function Recipe({ recipe, allRecipes }: Props) {
 type Params = {
   params: {
     slug: string;
-    allRecipes: Recipe[]
+    allRecipes: Recipe[];
   };
 };
 
@@ -85,12 +85,13 @@ export async function getStaticProps({ params }: Params) {
     "excerpt",
     "method",
     "serves",
+    "iframeUrl",
   ]);
 
   return {
     props: {
       recipe: recipe,
-      allRecipes: allRecipes
+      allRecipes: allRecipes,
     },
   };
 }
