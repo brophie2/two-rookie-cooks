@@ -10,6 +10,7 @@ interface Recipe {
   method: string[];
   content: string;
   serves: string;
+  iframeUrl?: string;
 }
 
 export interface IngredientList {
