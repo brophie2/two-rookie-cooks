@@ -6,6 +6,7 @@ excerpt: |
 coverImage: /assets/recipe/mochi/cover.webp
 date: 2023-11-06
 ogImage: /assets/recipe/mochi/cover.webp
+iframeUrl: https://www.youtube.com/embed/6xEYPBK4qF0
 ingredientLists:
   - ingredients:
       - name: glutinous rice flour

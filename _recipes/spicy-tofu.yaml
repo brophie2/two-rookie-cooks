@@ -3,6 +3,7 @@ excerpt: Are you hungry? Let us share with you how to make this delicious spicy 
 coverImage: /assets/recipe/spicy-tofu/cover.webp
 date: 2024-01-15
 ogImage: /assets/recipe/spicy-tofu/cover.webp
+iframeUrl: https://www.youtube.com/embed/HUprQbwoJ7c
 ingredientLists:
   - ingredients:
       - name: firm tofu

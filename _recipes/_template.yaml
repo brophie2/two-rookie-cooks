@@ -3,6 +3,7 @@ excerpt:
 coverImage: /assets/recipe/{post}/cover.webp
 date: 2024-02-01
 ogImage: /assets/recipe/{post}/cover.webp
+iframeUrl: 
 ingredientLists:
   - title:
     ingredients:

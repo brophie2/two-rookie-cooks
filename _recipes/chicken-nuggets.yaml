@@ -3,6 +3,7 @@ excerpt: This is a slight twist on a classic.
 coverImage: /assets/recipe/chicken-nuggets/cover.webp
 date: 2023-11-16
 ogImage: /assets/recipe/chicken-nuggets/cover.webp
+iframeUrl: https://www.youtube.com/embed/VUUKPolmdc0
 ingredientLists:
   - ingredients:
       - name: chicken mince
