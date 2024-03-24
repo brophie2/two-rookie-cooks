@@ -1,0 +1,33 @@
+title: Breakfast Roti Wrap
+excerpt: Does anyone else prefer a savoury breakfast, over a sweet one? This roti wrap will keep you full the whole morning and is so flavourful.
+coverImage: /assets/recipe/breakfast-roti-wrap/cover.webp
+date: 2024-03-24
+ogImage: /assets/recipe/breakfast-roti-wrap/cover.webp
+iframeUrl: https://www.youtube.com/embed/A115TIlArfM
+ingredientLists:
+  - ingredients:
+      - name: eggs
+        quantity:
+          amount: 3
+      - name: avocado
+        quantity:
+          amount: 1
+      - name: haloumi cheese
+        quantity:
+          amount: 60
+          unit: g
+      - name: roti paratha
+        quantity:
+          amount: 2
+      - name: Mayo
+        notes: (optional, to serve)
+      - name: Homemade chilli oil
+        notes: (optional, to serve)
+method:
+  - Slice avocado and haloumi
+  - Preheat your pan and then pan fry your roti paratha
+  - Once the roti is cooked, remove it and then put the haloumi in the pan. Flip once and remove once both sides are browned
+  - Beat the eggs and add them to the frying pan to scramble
+  - Assemble by placing the avocado slices and haloumi in the middle of the roti. Then, place the eggs on top and optionally drizzle some mayo and homemade chilli oil
+content: |
+  The haloumi cheese adds some much needed saltiness and the chili oil packs a punch too, so you don’t really need to add any extra seasonings. You can prep the filling ingredients ahead of time, so all you need to do in the morning is cook the roti and assemble.
