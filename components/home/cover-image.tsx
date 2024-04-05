@@ -31,20 +31,18 @@ const CoverImage = ({ title, src, slug, className }: Props) => {
   return (
     <div className="sm:mx-0">
       {!loaded && <Skeleton className={className} />}
-      <Suspense fallback={<Skeleton />}>
-        {slug ? (
-          <Link
-            as={`/recipes/${slug}`}
-            href="/recipes/[slug]"
-            aria-label={title}
-            className="hover:underline"
-          >
-            {image}
-          </Link>
-        ) : (
-          image
-        )}
-      </Suspense>
+      {slug ? (
+        <Link
+          as={`/recipes/${slug}`}
+          href="/recipes/[slug]"
+          aria-label={title}
+          className="hover:underline"
+        >
+          {image}
+        </Link>
+      ) : (
+        image
+      )}
     </div>
   );
 };
