@@ -37,6 +37,13 @@ module.exports = {
       fontFamily: {
         mono: ['var(--font-noto-sans-mono)', ...defaultTheme.fontFamily.sans],
       },
+      aspectRatio: {
+        '4/3': '4 / 3',
+        '130/63': '130 / 63',
+      },
+      width: {
+        '168': '42rem'
+      }
     },
   },
   plugins: [],

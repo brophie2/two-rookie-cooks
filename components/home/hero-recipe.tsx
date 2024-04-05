@@ -13,8 +13,13 @@ type Props = {
 const HeroRecipe = ({ title, coverImage, date, excerpt, slug }: Props) => {
   return (
     <div className="md:grid md:grid-cols-2 mb-20 ">
-      <div className="mb-8 md:mb-16 ">
-        <CoverImage title={title} src={coverImage} slug={slug} />
+      <div className="mb-8 md:mb-16">
+        <CoverImage
+          title={title}
+          src={coverImage}
+          slug={slug}
+          className="aspect-130/63"
+        />
       </div>
       <div className="md:ml-8 md:mb-28">
         <div>
