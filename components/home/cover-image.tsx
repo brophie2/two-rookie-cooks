@@ -20,10 +20,9 @@ const CoverImage = ({ title, src, slug, className }: Props) => {
       className={cn(className, "shadow-sm", `${loaded ? "w-full" : "w-0"}`, {
         "hover:shadow-lg transition-shadow duration-200": slug,
       })}
-      // priority={true}
       width={1300}
       height={630}
-      // loading="lazy"
+      loading="lazy"
       onLoadingComplete={() => {
         setLoaded(true);
       }}
