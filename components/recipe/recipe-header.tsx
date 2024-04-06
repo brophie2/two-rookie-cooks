@@ -14,7 +14,7 @@ const RecipeHeader = ({ title, coverImage, date }: Props) => {
       <RecipeTitle>{title}</RecipeTitle>
       <div className="flex justify-center items-center">
         <div className="max-w-2xl mb-8 md:mb-16 sm:mx-0 w-168">
-          <CoverImage title={title} src={coverImage} />
+          <CoverImage title={title} src={coverImage} className="aspect-4/3"/>
         </div>
       </div>
 

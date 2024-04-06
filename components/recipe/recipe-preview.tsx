@@ -20,22 +20,17 @@ const RecipePreview = ({
 }: Props) => {
   return (
     <div>
-      <Link
-        as={`/recipes/${slug}`}
-        href="/recipes/[slug]"
-    >
-        <div className='border rounded-lg overflow-hidden hover:shadow-xl'>
+      <Link as={`/recipes/${slug}`} href="/recipes/[slug]">
+        <div className="border rounded-lg overflow-hidden hover:shadow-xl">
           <div className="mb-5">
-            <CoverImage title={title} src={coverImage} />
+            <CoverImage title={title} src={coverImage} className="aspect-4/3"/>
           </div>
-          <div className='m-4'>
-            <h3 className="text-3xl mb-3 leading-snug">
-              {title}
-            </h3>
+          <div className="m-4">
+            <h3 className="text-3xl mb-3 leading-snug">{title}</h3>
             <div className="text-sm mb-4">
               <DateFormatter dateString={date} />
             </div>
-            <div className='text-base'>
+            <div className="text-base">
               <Paragraphs paragraphs={excerpt} />
             </div>
           </div>

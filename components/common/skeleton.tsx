@@ -9,7 +9,7 @@ const skeleton = ({ className }: Props) => {
       className="space-y-8 animate-pulse md:space-y-0 md:space-x-8 rtl:space-x-reverse"
     >
       <div
-        className={`flex items-center justify-center w-full dark:bg-gray-300 aspect-4/3 ${className} w-full`}
+        className={`flex items-center justify-center w-full dark:bg-gray-300 ${className} w-full`}
       >
         <svg
           className="w-10 h-10 text-gray-200 dark:text-gray-600"
