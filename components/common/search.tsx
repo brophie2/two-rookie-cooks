@@ -13,9 +13,10 @@ import { IoIosSearch } from "react-icons/io";
 type Props = {
   allRecipes: Recipe[];
   className?: string;
+  onClick?: () => any;
 };
 
-export default function Search({ allRecipes, className }: Props) {
+export default function Search({ allRecipes, className, onClick }: Props) {
   const [debouncedSearchTerm, setDebouncedSearchTerm] = useState("");
   const [searchTerm, setSearchTerm] = useState("");
   const [isOpen, setIsOpen] = useState(false);
@@ -76,7 +77,10 @@ export default function Search({ allRecipes, className }: Props) {
         <Link
           href={`/recipes/${recipe.slug}`}
           className="flex hover:shadow-sm content-center items-center "
-          onClick={clearSearchTerm}
+          onClick={() => {
+            clearSearchTerm();
+            onClick?.();
+          }}
         >
           <div className="w-16">
             <CoverImage

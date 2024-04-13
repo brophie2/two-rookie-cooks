@@ -52,19 +52,21 @@ const Header = ({ allRecipes }: Props) => {
           </div>
 
           <Disclosure.Panel className="md:hidden absolute z-10 right-0 bg-neutral-100 w-full">
-            <div className="pb-3 pt-2">
-              {navigation.map((item) => (
-                <Disclosure.Button
-                  key={item.name}
-                  as="a"
-                  href={item.href}
-                  className="text-gray-800 block rounded-md px-8 py-2 text-base font-medium"
-                >
-                  {item.name}
-                </Disclosure.Button>
-              ))}
-              <Search allRecipes={allRecipes} className={"px-8 py-2"} />
-            </div>
+            {({ close }) => (
+              <div className="pb-3 pt-2">
+                {navigation.map((item) => (
+                  <Disclosure.Button
+                    key={item.name}
+                    as="a"
+                    href={item.href}
+                    className="text-gray-800 block rounded-md px-8 py-2 text-base font-medium"
+                  >
+                    {item.name}
+                  </Disclosure.Button>
+                ))}
+                <Search allRecipes={allRecipes} className={"px-8 py-2"} onClick={() => close()}/>
+              </div>
+            )}
           </Disclosure.Panel>
         </>
       )}
