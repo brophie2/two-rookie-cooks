@@ -89,6 +89,7 @@ https://tworookiecooks.github.io/recipes/sundried-tomato-pesto
 https://tworookiecooks.github.io/recipes/sushi-bake
 https://tworookiecooks.github.io/recipes/taco-bowl
 https://tworookiecooks.github.io/recipes/taco-pasta
+https://tworookiecooks.github.io/recipes/tahini-noodles
 https://tworookiecooks.github.io/recipes/thai-basil-beef
 https://tworookiecooks.github.io/recipes/tofu_fries
 https://tworookiecooks.github.io/recipes/tortilla

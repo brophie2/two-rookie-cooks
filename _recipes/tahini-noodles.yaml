@@ -1,0 +1,47 @@
+title: Tahini Noodles
+excerpt: If you bought a jar of tahini to make homemade hummus but only made it once or twice and now you are ashamed that the jar of tahini has been sitting in your pantry, largely untouched for many many months, then this is the recipe for you.
+coverImage: /assets/recipe/tahini-noodles/cover.webp
+date: 2024-04-20
+ogImage: /assets/recipe/tahini-noodles/cover.webp
+iframeUrl: 
+ingredientLists:
+  - title: Sauce Ingredients
+    ingredients:
+      - name: tahini
+        quantity:
+          amount: 1
+          unit: tbsp
+      - name: peanut butter
+        quantity:
+          amount: 1/2
+          unit: tbsp
+      - name: soy sauce
+        quantity:
+          amount: 1
+          unit: tbsp
+      - name: starchy noodle water
+        quantity:
+          amount: 1/4
+          unit: cup
+      - name: spring onions
+        quantity:
+          amount: 1
+          unit: tbsp
+  - title: Sauce Ingredients
+    ingredients:
+      - name: 1 portion of freshly cooked noodles
+      - name: Protein/vegetables of your choice
+      - name: Homemade chilli oil
+        notes: (optional)
+      - name: Sesame seeds
+        notes: (optional)
+      - name: Spring onions
+        notes: (optional)
+      
+method:
+  - Boil water and cook noodles according to the directions on the packaging
+  - Finely slice the spring onions
+  - In a bowl, combine all the sauce ingredients and mix well until it is a smooth, runny mixture
+  - Once noodles are cooked, drain and rinse them before tossing them in the sauce. Serve with desired protein/vegetables and other toppings
+content: |
+  To make the sauce, just add tahini, peanut butter, soy sauce, spring onions and some starchy noodle water into the bowl that you are going to eat out of and stir vigorously, until it is smooth and runny. And yes we are primarily mixing the sauce in the bowl that we are going to eat out of to save washing up, but also to minimise sauce wastage. Add your cooked noodles and serve with any protein or vegetables that you have. 
