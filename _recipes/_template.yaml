@@ -1,17 +1,17 @@
 title:
 excerpt:
 coverImage: /assets/recipe/{post}/cover.webp
-date: 2024-04-01
+date: 2024-05-01
 ogImage: /assets/recipe/{post}/cover.webp
 iframeUrl: 
 ingredientLists:
-  - title:
+  - title: 
     ingredients:
-      - name:
+      - name: 
         quantity:
-          amount:
-          unit:
-        notes:
+          amount: 
+          unit: 
+        notes: 
 method:
   -
 content: |
