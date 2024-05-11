@@ -11,6 +11,7 @@ interface Recipe {
   content: string;
   serves: string;
   iframeUrl?: string;
+  cookingDuo?: CookingDuo;
 }
 
 export interface IngredientList {
@@ -28,6 +29,16 @@ export interface Ingredient {
 export interface Quantity {
   amount: string;
   unit?: string;
+}
+
+export interface CookingDuo {
+  cook1: LabelledMethod; 
+  cook2: LabelledMethod;
+}
+
+export interface LabelledMethod {
+  title?: string; 
+  method: string[]
 }
 
 export default Recipe;

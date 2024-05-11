@@ -39,4 +39,8 @@
     h3 {
         @apply text-2xl mb-4 leading-snug;
     }
+
+    h4 {
+        @apply text-xl mb-4 leading-snug;
+    }
 }

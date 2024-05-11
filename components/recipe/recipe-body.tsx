@@ -1,5 +1,11 @@
-import { IngredientList, Ingredient, Quantity } from "@/interfaces/recipes";
+import {
+  IngredientList,
+  Ingredient,
+  Quantity,
+  CookingDuo,
+} from "@/interfaces/recipes";
 import RecipeVideo from "./recipe-video";
+import { useState } from "react";
 
 type Props = {
   title: string;
@@ -9,6 +15,7 @@ type Props = {
   ingredientLists: IngredientList[];
   serves: string;
   iframeUrl?: string;
+  cookingDuo?: CookingDuo;
 };
 
 const RecipeBody = ({
@@ -19,20 +26,23 @@ const RecipeBody = ({
   ingredientLists,
   serves,
   iframeUrl,
+  cookingDuo,
 }: Props) => {
+  const [cookingDuoMode, setCookingDuoMode] = useState<boolean>(false);
   return (
     <div className="mx-auto">
-      <Paragraphs paragraphs={excerpt} />
-      <Paragraphs paragraphs={content} />
-      <p>{serves}</p>
-
-      <div className="flex flex-col md:flex-row">
         {iframeUrl && (
-          <div className="flex-none pb-8 md:pr-8">
+          <div className="flex-none pb-8 md:pl-8 md:float-right">
             <RecipeVideo title={title} url={iframeUrl} />
           </div>
         )}
 
+        <div>
+          <Paragraphs paragraphs={excerpt} />
+          <Paragraphs paragraphs={content} />
+        </div>
+        <p>{serves}</p>
+      <div>
         <div>
           {ingredientLists.map((ingredientList, i) => (
             <div key={i}>
@@ -45,12 +55,54 @@ const RecipeBody = ({
             </div>
           ))}
 
-          <h3>Method</h3>
-          <ol>
-            {method.map((step, i) => (
-              <li key={i}>{step}</li>
-            ))}
-          </ol>
+          {cookingDuo && (
+            <div>
+              <div className="flex flex-col-reverse md:flex-row md:justify-between md:items-center mb-8 md:mb-4">
+                <h3 className="m-0">
+                  {cookingDuoMode ? "Cooking Duo Mode" : "Method"}
+                </h3>
+                <button
+                  className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 mb-4 md:mb-0 rounded-md"
+                  onClick={() => setCookingDuoMode(!cookingDuoMode)}
+                >
+                  {cookingDuoMode
+                    ? "Disable Cooking Duo Mode"
+                    : "Enable Cooking Duo Mode"}
+                </button>
+              </div>
+              {cookingDuoMode && (
+                <div className="grid grid-cols-1 md:grid-cols-2">
+                  <div>
+                    <h4>Cook 1</h4>
+                    <ol>
+                      {cookingDuo.cook1.method.map((step, i) => (
+                        <li key={i}>{step}</li>
+                      ))}
+                    </ol>
+                  </div>
+                  <div>
+                    <h4>Cook 2</h4>
+                    <ol>
+                      {cookingDuo.cook2.method.map((step, i) => (
+                        <li key={i}>{step}</li>
+                      ))}
+                    </ol>
+                  </div>
+                </div>
+              )}
+            </div>
+          )}
+
+          {!cookingDuoMode && (
+            <>
+              {!cookingDuo && <h3>Method</h3>}
+              <ol>
+                {method.map((step, i) => (
+                  <li key={i}>{step}</li>
+                ))}
+              </ol>
+            </>
+          )}
         </div>
       </div>
     </div>

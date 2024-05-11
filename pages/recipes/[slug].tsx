@@ -86,6 +86,7 @@ export async function getStaticProps({ params }: Params) {
     "method",
     "serves",
     "iframeUrl",
+    "cookingDuo"
   ]);
 
   return {
