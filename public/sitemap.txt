@@ -63,6 +63,7 @@ https://tworookiecooks.github.io/recipes/mochi
 https://tworookiecooks.github.io/recipes/mushroom-pastries
 https://tworookiecooks.github.io/recipes/okonomiyaki
 https://tworookiecooks.github.io/recipes/oyakodon
+https://tworookiecooks.github.io/recipes/pan-fried-chicken
 https://tworookiecooks.github.io/recipes/pan-fried-rice-paper-rolls
 https://tworookiecooks.github.io/recipes/pasta-chips
 https://tworookiecooks.github.io/recipes/pb-j-rolls
@@ -76,6 +77,7 @@ https://tworookiecooks.github.io/recipes/ramen-eggs
 https://tworookiecooks.github.io/recipes/rose-tteokboki
 https://tworookiecooks.github.io/recipes/salmon-bucatini
 https://tworookiecooks.github.io/recipes/salmon-egg-rice
+https://tworookiecooks.github.io/recipes/salmon-inari
 https://tworookiecooks.github.io/recipes/salmon-soup
 https://tworookiecooks.github.io/recipes/sausage-bolognese
 https://tworookiecooks.github.io/recipes/scissor-cut-noodles
