@@ -1,0 +1,79 @@
+title: Gochujang bolognese udon 
+excerpt: We are making bolognese with a spicy twist. The hero ingredient, gochujang, adds a new smoky dimension that I didn’t know I needed.
+coverImage: /assets/recipe/gochujang-bolognese-udon/cover.webp
+date: 2024-06-01
+ogImage: /assets/recipe/gochujang-bolognese-udon/cover.webp
+iframeUrl: 
+ingredientLists:
+  - ingredients:
+      - name: beef mince
+        quantity:
+          amount: 1
+          unit: kg
+      - name: carrots
+        quantity:
+          amount: 3 - 4
+      - name: mushroom cups
+        quantity:
+          amount: 300
+          unit: g
+      - name: brown onion
+        quantity:
+          amount: 1
+      - name: spring onions
+        quantity:
+          amount: 2
+      - name: passata
+        quantity:
+          amount: 700
+          unit: g
+      - name: water
+        quantity:
+          amount: 1/3
+          unit: cup
+      - name: gochujang
+        quantity:
+          amount: 2
+          unit: tbsp
+      - name: tomato paste
+        quantity:
+          amount: 2
+          unit: tbsp
+      - name: soy sauce
+        quantity:
+          amount: 2
+          unit: tbsp
+      - name: Udon
+        notes: (we recommend having less udon than usual, as the sauce is quite filling)
+      - name: Parmesan cheese
+method:
+  - Dice the onion and thinly slice the spring onions, separating the white and green parts
+  - Sauté the onion and white part of the spring onions in a pot. Reserve the green part for later
+  - Add the beef mince
+  - While the mince is cooking, roughly chop the carrots and slice the mushrooms.
+  - When the beef mince is around 75% cooked, add the tomato paste, gochujang and soy sauce. Stir well
+  - "Add passata and water to the sauce. Tip: if your passata comes in a jar, put the water inside and give it a good shake to get as much of it our as possible"
+  - Put the lid on and simmer for at least 5-10 minutes, but the longer the better
+  - While the sauce is simmering, in another pot, boil some water and prepare udon according to the instructions on the packaging. If your parmesan cheese is not already grated, this is a good opportunity to quickly do so
+  - Place the udon in a bowl and generously scoop some sauce on top. Sprinkle some parmesan cheese and some reserved spring onion on top and enjoy
+
+cookingDuo: 
+  cook1: 
+    title: Chief Prep Officer (CPO)
+    method: 
+      - Dice the onion and thinly slice the spring onions, separating the white and green parts
+      - Roughly chop the carrots and slice the mushrooms
+      - Grate some parmesan cheese
+      - In another pot, boil some water and prepare udon according to the instructions on the packaging
+      - Place the udon in a bowl and generously scoop some sauce on top. Sprinkle some parmesan cheese and some reserved spring onion on top and enjoy
+  cook2: 
+    title: Chief Bolognese Officer (CBO)
+    method: 
+      - Take out all the other equipment and ingredients while you are waiting for the onions and spring onions to be chopped. You can also start to preheat your pot if needed
+      - Sauté the onion and white part of the spring onions in a pot. Reserve the green part for later
+      - Add the beef mince
+      - When the beef mince is around 75% cooked, add the tomato paste, gochujang and soy sauce. Stir well
+      - "Add passata and water to the sauce. Tip: if your passata comes in a jar, put the water inside and give it a good shake to get as much of it our as possible"
+      - Put the lid on and simmer for at least 5-10 minutes, but the longer the better
+content: |
+  Also, I’ll take any excuse to eat udon, so it was a no brainer, but it does actually work well with this sauce and it’s super quick to prepare. However, as much as I love udon, the sauce is pretty filling so I would recommend that you cook about half the amount of udon you normally would. 
