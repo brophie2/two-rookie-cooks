@@ -43,6 +43,7 @@ https://tworookiecooks.github.io/recipes/gochujang-bolognese-udon
 https://tworookiecooks.github.io/recipes/granola
 https://tworookiecooks.github.io/recipes/half-boiled-eggs
 https://tworookiecooks.github.io/recipes/honey-soy-chicken
+https://tworookiecooks.github.io/recipes/hot-honey-miso-toastie
 https://tworookiecooks.github.io/recipes/jam
 https://tworookiecooks.github.io/recipes/jjajangmyeon
 https://tworookiecooks.github.io/recipes/kimchi-dumpling
@@ -65,6 +66,7 @@ https://tworookiecooks.github.io/recipes/miso-yoghurt-pasta
 https://tworookiecooks.github.io/recipes/mochi
 https://tworookiecooks.github.io/recipes/mushroom-pastries
 https://tworookiecooks.github.io/recipes/okonomiyaki
+https://tworookiecooks.github.io/recipes/oreo-cheesecake
 https://tworookiecooks.github.io/recipes/oyakodon
 https://tworookiecooks.github.io/recipes/pan-fried-chicken
 https://tworookiecooks.github.io/recipes/pan-fried-rice-paper-rolls
