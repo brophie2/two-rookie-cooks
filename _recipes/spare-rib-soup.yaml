@@ -1,0 +1,44 @@
+title: Spare Rib Soup
+excerpt: This is just a simple, home-y soup recipe that is a great winter warmer. 
+coverImage: /assets/recipe/spare-rib-soup/cover.webp
+date: 2024-06-30
+ogImage: /assets/recipe/spare-rib-soup/cover.webp
+ingredientLists:
+  - ingredients:
+      - name: pork spare ribs
+        quantity:
+          amount: 700
+          unit: g
+      - name: chinese cabbage
+        quantity:
+          amount: 1/3
+      - name: vegetable stock powder
+        quantity:
+          amount: 1
+          unit: tbsp
+      - name: soy sauce
+        quantity:
+          amount: 4
+          unit: tbsp
+      - name: water
+        quantity:
+          amount: 2 - 2.5
+          unit: L
+      - name: spring onions
+        quantity:
+          amount: 2
+  - title: Serve with
+    ingredients:
+      - name: Noodles or rice
+      - name: Sliced spring onions 
+      - name: Fried garlic 
+        notes: (optional)
+method:
+  - In a large pot, add the water and bring it to a boil 
+  - Roughly chop the Chinese cabbage, and separate the leaves from the stem
+  - Once it is boiling, add the spare ribs, Chinese cabbage stems, soy sauce and stock powder. Mix well, and ensure that everything is submerged before putting the lid back on to boil for at least 30-45 minutes. 
+  - Slice the spring onions
+  - Check to see if you are happy with how the spare ribs have been cooked. If they are not easily falling of the bone, feel free to cook longer. When you are happy, add the Chinese cabbage leaves and spring onions, and boil for another 5 or so minutes. 
+  - Serve with noodles or rice, and optionally garnish with additional spring onions and/or fried garlic 
+content: |
+  

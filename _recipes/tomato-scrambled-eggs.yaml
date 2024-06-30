@@ -1,0 +1,34 @@
+title: Tomato Scrambled Eggs 
+excerpt: I think the secret to creating delicious food is to make things that you already know, and add a small twist to them, whether that be an interesting yet unexpected seasoning, or a combination of 2 well-loved seasonings. 
+coverImage: /assets/recipe/tomato-scrambled-eggs/cover.webp
+date: 2024-06-30
+ogImage: /assets/recipe/tomato-scrambled-eggs/cover.webp
+ingredientLists:
+  - ingredients:
+      - name: eggs
+        quantity:
+          amount: 4
+      - name: tomato paste
+        quantity:
+          amount: 1
+          unit: tsp
+      - name: oregano
+        quantity:
+          amount: A few
+          unit: sprigs of
+      - name: butter
+        quantity:
+          amount: 1
+          unit: tsp
+      - name: Parmesan cheese
+        notes: (optional, to serve)
+      - name: Toast
+        notes: (optional, to serve)
+method:
+  - Crack the eggs into a bowl and add the tomato paste before beating the eggs well 
+  - Roughly chop the oregano, and add to the egg mixture 
+  - Put a pan on a low heat. Melt the butter and then pour the egg mixture in. Make sure to keep stirring 
+  - Once the eggs are cooked to your liking, serve up and eat immediately 
+content: |
+  Last night, just as I was falling asleep, I had this idea of making scrambled eggs with pizza flavours. Now, not all of my late night ideas are a stroke of genius but I really think that this one was. Before you call me crazy, tomato and eggs are a great combination that we’ve seen in many well-loved dishes, like Chinese-style tomato egg stir-fry and shakshouka. All this is, is eggs with some extra tomatoey, herby flavours to make an ordinary breakfast, something extraordinary. 
+  
