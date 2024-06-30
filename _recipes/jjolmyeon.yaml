@@ -1,0 +1,41 @@
+title: Jjolmyeon
+excerpt: Have you ever tried jjolmyeon before?
+coverImage: /assets/recipe/jjolmyeon/cover.webp
+date: 2024-06-30
+ogImage: /assets/recipe/jjolmyeon/cover.webp
+iframeUrl: https://www.youtube.com/embed/Otlg6lE4ltw
+ingredientLists:
+  - ingredients:
+      - name: Jjolmyeon noodles
+        quantity:
+          amount: 150
+          unit: g
+      - name: gochujang
+        quantity:
+          amount: 1
+          unit: tbsp
+      - name: gochugaru
+        quantity:
+          amount: 1
+          unit: tsp
+      - name: sesame oil
+        quantity:
+          amount: 2
+          unit: tbsp
+      - name: rice vinegar
+        quantity:
+          amount: 1
+          unit: tbsp
+      - name: minced garlic
+        quantity:
+          amount: 1
+          unit: tbsp
+        notes: (toasted)
+method:
+  - Boil water and cook the jjolmyeon noodles according to the directions on the packaging. Ensure to rinse the noodles with cold water or put them in an ice bath, to stop the cooking process
+  - In a bowl, combine the gochujang, gochugaru, sesame oil, rice vinegar and garlic. If you are having trouble mixing it, add 1-2 tbsp of hot water
+  - Toss the noodles in the sauce
+  - Julienne the cucumber and slice the boiled egg(s) in half. Place both the cucumbers and egg(s) on top of the noodles, and sprinkle some sesame seeds
+content: |
+  It’s a Korean cold noodle dish. The noodles are delightfully chewy, and soak up flavour really well. It’s paired with a spicy sauce, that’s also a little sweet and vinegar-y. You can control how spicy you would like your sauce by adjusting how much gochujang you put in. These noodles are so addictive and would highly recommend you give it a go too!
+
