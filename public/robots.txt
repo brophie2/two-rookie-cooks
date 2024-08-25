@@ -7,4 +7,7 @@ Disallow: .xml
 User-agent: * 
 Disallow: slug
 
+User-agent: * 
+Disallow: /assets/
+
 Sitemap: https://tworookiecooks.github.io/sitemap.txt
