@@ -1,4 +1,10 @@
 User-agent: *
 Allow: /
 
+User-agent: * 
+Disallow: .xml
+
+User-agent: * 
+Disallow: slug
+
 Sitemap: https://tworookiecooks.github.io/sitemap.txt
