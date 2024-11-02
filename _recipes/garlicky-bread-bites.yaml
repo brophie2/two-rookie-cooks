@@ -8,24 +8,24 @@ ingredientLists:
   - ingredients:
       - name: plain flour
         quantity:
-          amount: 1/4
+          amount: 2
           unit: cup
       - name: instant yeast
         quantity:
-          amount: 1/8
-          unit: cup
+          amount: 2
+          unit: tsp
       - name: white sugar
         quantity:
-          amount: 3/4
-          unit: cup
+          amount: 1
+          unit: tsp
       - name: warm water
         quantity:
-          amount: 3/4
+          amount: 1
           unit: cup
       - name: cloves of garlic, thinly sliced
         quantity:
-          amount: 3/4
-          unit: cup
+          amount: 2-3
+          unit: cloves of
       - name: Extra virgin olive oil
       - name: Flaky sea salt
 method:
