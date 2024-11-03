@@ -22,7 +22,7 @@ ingredientLists:
         quantity:
           amount: 1
           unit: cup
-      - name: cloves of garlic, thinly sliced
+      - name: garlic, thinly sliced
         quantity:
           amount: 2-3
           unit: cloves of
